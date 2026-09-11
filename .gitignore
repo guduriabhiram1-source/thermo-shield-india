@@ -1,0 +1,27 @@
+.env
+backend/.venv/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/tests/test_thermal_expo.db*
+backend/app/ml/model/*.pkl
+backend/app/ml/model/*.json
+data/*.db*
+reports/*.pdf
+reports/images/*.png
+frontend/node_modules/
+frontend/dist/
+*.log
+backend/tests/_reports/
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+!.env.example

@@ -1,0 +1,46 @@
+services:
+  postgres:
+    image: postgis/postgis:16-3.4
+    container_name: thermalexpo-postgres
+    environment:
+      POSTGRES_USER: thermoshield
+      POSTGRES_PASSWORD: thermoshield
+      POSTGRES_DB: thermoshield
+    ports:
+      - "5434:5432"
+    volumes:
+      - thermalexpo_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U thermoshield"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build: ./backend
+    container_name: thermalexpo-backend
+    env_file: .env            # secrets live only in .env (never in this file)
+    environment:
+      DATABASE_URL: postgresql+psycopg://thermoshield:thermoshield@postgres:5432/thermoshield
+      CORS_ORIGINS: http://localhost:3001,http://localhost:5190
+      FRONTEND_URL: http://localhost:3001
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8201:8000"
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./backend/app/ml/model:/app/backend/app/ml/model
+
+  frontend:
+    build: ./frontend
+    container_name: thermalexpo-frontend
+    depends_on:
+      - backend
+    ports:
+      - "3001:80"
+
+volumes:
+  thermalexpo_pgdata:

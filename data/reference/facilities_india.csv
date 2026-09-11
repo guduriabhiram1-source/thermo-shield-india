@@ -1,0 +1,244 @@
+name,category,subtype,operator,state,district,latitude,longitude,capacity,fuel_or_resource,source,data_quality
+Jamnagar Refinery Complex,refinery,refinery,Reliance Industries,Gujarat,Jamnagar,22.3480,70.0510,68.2,crude,reference_public,approximate
+Vadinar Refinery,refinery,refinery,Nayara Energy,Gujarat,Devbhumi Dwarka,22.4200,69.7300,20,crude,reference_public,approximate
+Koyali Refinery,refinery,refinery,Indian Oil Corporation,Gujarat,Vadodara,22.3500,73.1200,13.7,crude,reference_public,approximate
+Mathura Refinery,refinery,refinery,Indian Oil Corporation,Uttar Pradesh,Mathura,27.4600,77.6200,8,crude,reference_public,approximate
+Panipat Refinery,refinery,refinery,Indian Oil Corporation,Haryana,Panipat,29.4200,76.8800,15,crude,reference_public,approximate
+Guru Gobind Singh Refinery Bathinda,refinery,refinery,HPCL-Mittal Energy,Punjab,Bathinda,30.1100,74.7900,11.3,crude,reference_public,approximate
+Barauni Refinery,refinery,refinery,Indian Oil Corporation,Bihar,Begusarai,25.4300,86.0500,6,crude,reference_public,approximate
+Haldia Refinery,refinery,refinery,Indian Oil Corporation,West Bengal,Purba Medinipur,22.0300,88.0900,8,crude,reference_public,approximate
+Paradip Refinery,refinery,refinery,Indian Oil Corporation,Odisha,Jagatsinghpur,20.2700,86.6300,15,crude,reference_public,approximate
+Visakhapatnam Refinery,refinery,refinery,Hindustan Petroleum,Andhra Pradesh,Visakhapatnam,17.6900,83.2700,8.3,crude,reference_public,approximate
+Manali Refinery,refinery,refinery,Chennai Petroleum Corporation,Tamil Nadu,Chennai,13.1600,80.2600,10.5,crude,reference_public,approximate
+Kochi Refinery,refinery,refinery,Bharat Petroleum,Kerala,Ernakulam,9.9700,76.3800,15.5,crude,reference_public,approximate
+Mangalore Refinery,refinery,refinery,MRPL,Karnataka,Dakshina Kannada,12.9300,74.8800,15,crude,reference_public,approximate
+Mumbai Refinery Mahul,refinery,refinery,Bharat Petroleum,Maharashtra,Mumbai,19.0200,72.8900,12,crude,reference_public,approximate
+Mumbai Refinery Trombay,refinery,refinery,Hindustan Petroleum,Maharashtra,Mumbai,19.0300,72.9000,7.5,crude,reference_public,approximate
+Bina Refinery,refinery,refinery,Bharat Petroleum,Madhya Pradesh,Sagar,24.1600,78.2100,7.8,crude,reference_public,approximate
+Digboi Refinery,refinery,refinery,Indian Oil Corporation,Assam,Tinsukia,27.3900,95.6200,0.65,crude,reference_public,approximate
+Numaligarh Refinery,refinery,refinery,Numaligarh Refinery Ltd,Assam,Golaghat,26.6200,93.7200,3,crude,reference_public,approximate
+Guwahati Refinery,refinery,refinery,Indian Oil Corporation,Assam,Kamrup Metropolitan,26.1500,91.7000,1,crude,reference_public,approximate
+Bongaigaon Refinery,refinery,refinery,Indian Oil Corporation,Assam,Bongaigaon,26.4300,90.5800,2.7,crude,reference_public,approximate
+Tatipaka Mini Refinery,refinery,refinery,ONGC,Andhra Pradesh,East Godavari,16.6000,81.9000,0.07,crude,reference_public,approximate
+Cauvery Basin Refinery Narimanam,refinery,refinery,Chennai Petroleum Corporation,Tamil Nadu,Nagapattinam,10.8500,79.8300,1,crude,reference_public,approximate
+Vindhyachal Super Thermal Power Station,power_plant,coal,NTPC,Madhya Pradesh,Singrauli,24.1000,82.6700,4760,coal,reference_public,approximate
+Mundra Thermal Power Station,power_plant,coal,Adani Power,Gujarat,Kutch,22.8200,69.5500,4620,coal,reference_public,approximate
+Mundra Ultra Mega Power Plant,power_plant,coal,Tata Power,Gujarat,Kutch,22.8100,69.5300,4000,coal,reference_public,approximate
+Sasan Ultra Mega Power Plant,power_plant,coal,Reliance Power,Madhya Pradesh,Singrauli,23.9800,82.6200,3960,coal,reference_public,approximate
+Talcher Super Thermal Power Station,power_plant,coal,NTPC,Odisha,Angul,20.9200,85.2000,3000,coal,reference_public,approximate
+Ramagundam Super Thermal Power Station,power_plant,coal,NTPC,Telangana,Peddapalli,18.7600,79.4600,2600,coal,reference_public,approximate
+Simhadri Super Thermal Power Station,power_plant,coal,NTPC,Andhra Pradesh,Visakhapatnam,17.5900,83.0900,2000,coal,reference_public,approximate
+Korba Super Thermal Power Station,power_plant,coal,NTPC,Chhattisgarh,Korba,22.3800,82.6800,2600,coal,reference_public,approximate
+Korba West Thermal Power Station,power_plant,coal,CSPGCL,Chhattisgarh,Korba,22.3600,82.7100,1340,coal,reference_public,approximate
+Rihand Super Thermal Power Station,power_plant,coal,NTPC,Uttar Pradesh,Sonbhadra,24.0300,82.7900,3000,coal,reference_public,approximate
+Singrauli Super Thermal Power Station,power_plant,coal,NTPC,Uttar Pradesh,Sonbhadra,24.1000,82.7200,2000,coal,reference_public,approximate
+Anpara Thermal Power Station,power_plant,coal,UPRVUNL,Uttar Pradesh,Sonbhadra,24.2000,82.7800,2630,coal,reference_public,approximate
+Tiroda Thermal Power Station,power_plant,coal,Adani Power,Maharashtra,Gondia,21.4200,79.9700,3300,coal,reference_public,approximate
+Chandrapur Super Thermal Power Station,power_plant,coal,MAHAGENCO,Maharashtra,Chandrapur,20.0000,79.3000,2920,coal,reference_public,approximate
+Koradi Thermal Power Station,power_plant,coal,MAHAGENCO,Maharashtra,Nagpur,21.2500,79.1000,2400,coal,reference_public,approximate
+Kudgi Super Thermal Power Station,power_plant,coal,NTPC,Karnataka,Vijayapura,16.5300,75.9400,2400,coal,reference_public,approximate
+Raichur Thermal Power Station,power_plant,coal,KPCL,Karnataka,Raichur,16.3600,77.3500,1720,coal,reference_public,approximate
+Bellary Thermal Power Station,power_plant,coal,KPCL,Karnataka,Ballari,15.1900,76.7200,1700,coal,reference_public,approximate
+Neyveli Thermal Power Station II,power_plant,lignite,NLC India,Tamil Nadu,Cuddalore,11.5500,79.4800,1470,lignite,reference_public,approximate
+Tuticorin Thermal Power Station,power_plant,coal,TANGEDCO,Tamil Nadu,Thoothukudi,8.7600,78.1800,1050,coal,reference_public,approximate
+North Chennai Thermal Power Station,power_plant,coal,TANGEDCO,Tamil Nadu,Tiruvallur,13.2500,80.3200,1830,coal,reference_public,approximate
+Vallur Thermal Power Station,power_plant,coal,NTECL,Tamil Nadu,Tiruvallur,13.2300,80.3000,1500,coal,reference_public,approximate
+Mettur Thermal Power Station,power_plant,coal,TANGEDCO,Tamil Nadu,Salem,11.7900,77.8000,1440,coal,reference_public,approximate
+Dadri National Capital Power Station,power_plant,coal,NTPC,Uttar Pradesh,Gautam Buddha Nagar,28.6000,77.6100,1820,coal,reference_public,approximate
+Rajiv Gandhi Thermal Power Station Khedar,power_plant,coal,HPGCL,Haryana,Hisar,29.3100,75.9500,1200,coal,reference_public,approximate
+Panipat Thermal Power Station,power_plant,coal,HPGCL,Haryana,Panipat,29.4100,76.9800,920,coal,reference_public,approximate
+Deenbandhu Chhotu Ram Thermal Power Station,power_plant,coal,HPGCL,Haryana,Yamunanagar,30.1000,77.3000,600,coal,reference_public,approximate
+Guru Gobind Singh Super Thermal Plant Ropar,power_plant,coal,PSPCL,Punjab,Rupnagar,30.9900,76.5500,1260,coal,reference_public,approximate
+Talwandi Sabo Thermal Power Plant,power_plant,coal,Vedanta,Punjab,Mansa,29.9000,75.2000,1980,coal,reference_public,approximate
+Rajpura Thermal Power Plant,power_plant,coal,Nabha Power,Punjab,Patiala,30.4200,76.4200,1400,coal,reference_public,approximate
+Kota Super Thermal Power Station,power_plant,coal,RVUNL,Rajasthan,Kota,25.1600,75.8300,1240,coal,reference_public,approximate
+Suratgarh Super Thermal Power Station,power_plant,coal,RVUNL,Rajasthan,Sri Ganganagar,29.2800,73.8600,2320,coal,reference_public,approximate
+Chhabra Thermal Power Station,power_plant,coal,RVUNL,Rajasthan,Baran,24.6800,76.9200,2320,coal,reference_public,approximate
+Kawai Thermal Power Station,power_plant,coal,Adani Power,Rajasthan,Baran,24.9000,76.7800,1320,coal,reference_public,approximate
+Farakka Super Thermal Power Station,power_plant,coal,NTPC,West Bengal,Murshidabad,24.7700,87.9000,2100,coal,reference_public,approximate
+Kahalgaon Super Thermal Power Station,power_plant,coal,NTPC,Bihar,Bhagalpur,25.2600,87.2600,2340,coal,reference_public,approximate
+Barh Super Thermal Power Station,power_plant,coal,NTPC,Bihar,Patna,25.5100,85.7900,1980,coal,reference_public,approximate
+Nabinagar Super Thermal Power Station,power_plant,coal,NTPC,Bihar,Aurangabad,24.8300,84.1200,1980,coal,reference_public,approximate
+Sipat Super Thermal Power Station,power_plant,coal,NTPC,Chhattisgarh,Bilaspur,22.1300,82.2900,2980,coal,reference_public,approximate
+Bhilai Expansion Power Plant,power_plant,coal,NSPCL,Chhattisgarh,Durg,21.2000,81.4000,574,coal,reference_public,approximate
+Tamnar Thermal Power Plant,power_plant,coal,Jindal Power,Chhattisgarh,Raigarh,22.1000,83.4000,3400,coal,reference_public,approximate
+Lara Super Thermal Power Station,power_plant,coal,NTPC,Chhattisgarh,Raigarh,21.8500,83.3100,1600,coal,reference_public,approximate
+Mejia Thermal Power Station,power_plant,coal,DVC,West Bengal,Bankura,23.4700,87.0900,2340,coal,reference_public,approximate
+Durgapur Thermal Power Station,power_plant,coal,DVC,West Bengal,Paschim Bardhaman,23.5300,87.2800,210,coal,reference_public,approximate
+Kolaghat Thermal Power Station,power_plant,coal,WBPDCL,West Bengal,Purba Medinipur,22.4200,87.8700,1260,coal,reference_public,approximate
+Bakreswar Thermal Power Station,power_plant,coal,WBPDCL,West Bengal,Birbhum,23.8700,87.4200,1050,coal,reference_public,approximate
+Bokaro Thermal Power Station,power_plant,coal,DVC,Jharkhand,Bokaro,23.7900,85.8800,500,coal,reference_public,approximate
+Chandrapura Thermal Power Station,power_plant,coal,DVC,Jharkhand,Bokaro,23.7500,86.1300,500,coal,reference_public,approximate
+Patratu Super Thermal Power Station,power_plant,coal,PVUNL,Jharkhand,Ramgarh,23.6300,85.2800,800,coal,reference_public,approximate
+Jharsuguda Thermal Power Plant,power_plant,coal,Vedanta,Odisha,Jharsuguda,21.8100,84.0900,2400,coal,reference_public,approximate
+Ib Thermal Power Station,power_plant,coal,OPGC,Odisha,Jharsuguda,21.7200,83.8600,1740,coal,reference_public,approximate
+Sikka Thermal Power Station,power_plant,coal,GSECL,Gujarat,Jamnagar,22.4310,69.8330,240,coal,reference_public,approximate
+Wanakbori Thermal Power Station,power_plant,coal,GSECL,Gujarat,Kheda,22.8700,73.3500,2100,coal,reference_public,approximate
+Ukai Thermal Power Station,power_plant,coal,GSECL,Gujarat,Tapi,21.2500,73.5800,1350,coal,reference_public,approximate
+Kudankulam Nuclear Power Plant,power_plant,nuclear,NPCIL,Tamil Nadu,Tirunelveli,8.1700,77.7100,2000,nuclear,reference_public,approximate
+Tarapur Atomic Power Station,power_plant,nuclear,NPCIL,Maharashtra,Palghar,19.8300,72.6600,1400,nuclear,reference_public,approximate
+Kaiga Generating Station,power_plant,nuclear,NPCIL,Karnataka,Uttara Kannada,14.8700,74.4400,880,nuclear,reference_public,approximate
+Kakrapar Atomic Power Station,power_plant,nuclear,NPCIL,Gujarat,Tapi,21.2400,73.3500,1400,nuclear,reference_public,approximate
+Rajasthan Atomic Power Station Rawatbhata,power_plant,nuclear,NPCIL,Rajasthan,Chittorgarh,24.8700,75.6100,1180,nuclear,reference_public,approximate
+Narora Atomic Power Station,power_plant,nuclear,NPCIL,Uttar Pradesh,Bulandshahr,28.1600,78.4100,440,nuclear,reference_public,approximate
+Madras Atomic Power Station Kalpakkam,power_plant,nuclear,NPCIL,Tamil Nadu,Chengalpattu,12.5600,80.1700,440,nuclear,reference_public,approximate
+Kayamkulam Combined Cycle Power Plant,power_plant,gas,NTPC,Kerala,Alappuzha,9.1500,76.4900,360,gas,reference_public,approximate
+Palatana Combined Cycle Power Plant,power_plant,gas,OTPC,Tripura,Gomati,23.4200,91.4600,726,gas,reference_public,approximate
+Bongaigaon Thermal Power Project Salakati,power_plant,coal,NTPC,Assam,Kokrajhar,26.4700,90.3500,750,coal,reference_public,approximate
+Namrup Thermal Power Station,power_plant,gas,APGCL,Assam,Dibrugarh,27.1900,95.3200,220,gas,reference_public,approximate
+Gadarwara Super Thermal Power Station,power_plant,coal,NTPC,Madhya Pradesh,Narsinghpur,22.9000,78.8000,1600,coal,reference_public,approximate
+Khargone Super Thermal Power Station,power_plant,coal,NTPC,Madhya Pradesh,Khargone,21.9000,75.4500,1320,coal,reference_public,approximate
+Satpura Thermal Power Station Sarni,power_plant,coal,MPPGCL,Madhya Pradesh,Betul,22.1700,78.2400,1330,coal,reference_public,approximate
+Solapur Super Thermal Power Station,power_plant,coal,NTPC,Maharashtra,Solapur,17.7200,75.9500,1320,coal,reference_public,approximate
+Mauda Super Thermal Power Station,power_plant,coal,NTPC,Maharashtra,Nagpur,21.2000,79.4000,2320,coal,reference_public,approximate
+Sri Damodaram Sanjeevaiah Thermal Power Station,power_plant,coal,APPDCL,Andhra Pradesh,SPSR Nellore,14.3000,80.1000,1600,coal,reference_public,approximate
+Dr Narla Tata Rao Thermal Power Station,power_plant,coal,APGENCO,Andhra Pradesh,NTR,16.6000,80.5300,1760,coal,reference_public,approximate
+Rayalaseema Thermal Power Station,power_plant,coal,APGENCO,Andhra Pradesh,YSR Kadapa,14.7000,78.4500,1650,coal,reference_public,approximate
+Kothagudem Thermal Power Station,power_plant,coal,TSGENCO,Telangana,Bhadradri Kothagudem,17.5500,80.6200,1720,coal,reference_public,approximate
+Bhadradri Thermal Power Station,power_plant,coal,TSGENCO,Telangana,Bhadradri Kothagudem,17.6500,80.8500,1080,coal,reference_public,approximate
+Jharia Coalfield,mine,coal,BCCL,Jharkhand,Dhanbad,23.7500,86.4200,0,coal,reference_public,approximate
+Gevra Opencast Mine,mine,coal,SECL,Chhattisgarh,Korba,22.3300,82.5500,0,coal,reference_public,approximate
+Kusmunda Opencast Mine,mine,coal,SECL,Chhattisgarh,Korba,22.3200,82.6300,0,coal,reference_public,approximate
+Dipka Opencast Mine,mine,coal,SECL,Chhattisgarh,Korba,22.3100,82.4800,0,coal,reference_public,approximate
+Jayant Opencast Mine,mine,coal,NCL,Madhya Pradesh,Singrauli,24.1300,82.6300,0,coal,reference_public,approximate
+Nigahi Opencast Mine,mine,coal,NCL,Madhya Pradesh,Singrauli,24.1000,82.6000,0,coal,reference_public,approximate
+Bharatpur Opencast Mine Talcher,mine,coal,MCL,Odisha,Angul,20.9500,85.1500,0,coal,reference_public,approximate
+Lakhanpur Opencast Mine Ib Valley,mine,coal,MCL,Odisha,Jharsuguda,21.8000,83.9800,0,coal,reference_public,approximate
+Raniganj Coalfield,mine,coal,ECL,West Bengal,Paschim Bardhaman,23.6200,87.1300,0,coal,reference_public,approximate
+Rajmahal Opencast Mine,mine,coal,ECL,Jharkhand,Godda,24.9500,87.3300,0,coal,reference_public,approximate
+Ramagundam Opencast Mine,mine,coal,SCCL,Telangana,Peddapalli,18.7800,79.4000,0,coal,reference_public,approximate
+Kothagudem Coal Mines,mine,coal,SCCL,Telangana,Bhadradri Kothagudem,17.5500,80.6500,0,coal,reference_public,approximate
+Neyveli Lignite Mine II,mine,lignite,NLC India,Tamil Nadu,Cuddalore,11.5800,79.4400,0,lignite,reference_public,approximate
+Panandhro Lignite Mine,mine,lignite,GMDC,Gujarat,Kutch,23.6800,68.7800,0,lignite,reference_public,approximate
+Barsingsar Lignite Mine,mine,lignite,NLC India,Rajasthan,Bikaner,27.8300,73.2000,0,lignite,reference_public,approximate
+Bailadila Iron Ore Mines,mine,iron,NMDC,Chhattisgarh,Dantewada,18.6500,81.2300,0,iron_ore,reference_public,approximate
+Joda Barbil Iron Ore Belt,mine,iron,Various,Odisha,Kendujhar,22.0500,85.4000,0,iron_ore,reference_public,approximate
+Noamundi Iron Ore Mine,mine,iron,Tata Steel,Jharkhand,West Singhbhum,22.1600,85.5000,0,iron_ore,reference_public,approximate
+Sandur Iron Ore Mines,mine,iron,Various,Karnataka,Ballari,15.1000,76.5500,0,iron_ore,reference_public,approximate
+Malanjkhand Copper Mine,mine,copper,Hindustan Copper,Madhya Pradesh,Balaghat,22.0200,80.7200,0,copper,reference_public,approximate
+Khetri Copper Complex,mine,copper,Hindustan Copper,Rajasthan,Jhunjhunu,27.9900,75.7900,0,copper,reference_public,approximate
+Zawar Zinc Mines,mine,zinc,Hindustan Zinc,Rajasthan,Udaipur,24.3500,73.7200,0,zinc,reference_public,approximate
+Rampura Agucha Mine,mine,zinc,Hindustan Zinc,Rajasthan,Bhilwara,25.8300,74.7300,0,zinc,reference_public,approximate
+Hutti Gold Mines,mine,gold,HGML,Karnataka,Raichur,16.2000,76.6500,0,gold,reference_public,approximate
+Makum Coalfield Margherita,mine,coal,NECL,Assam,Tinsukia,27.2800,95.6800,0,coal,reference_public,approximate
+Wardha Valley Coalfield Chandrapur,mine,coal,WCL,Maharashtra,Chandrapur,20.0500,79.3500,0,coal,reference_public,approximate
+Dalli Rajhara Iron Ore Mines,mine,iron,SAIL,Chhattisgarh,Balod,20.5800,81.0800,0,iron_ore,reference_public,approximate
+Hazira Gas Processing Complex,gas_facility,gas_processing,ONGC,Gujarat,Surat,21.1100,72.6600,0,gas,reference_public,approximate
+Uran Oil and Gas Processing Plant,gas_facility,gas_processing,ONGC,Maharashtra,Raigad,18.8800,72.9400,0,gas,reference_public,approximate
+Gandhar Gas Processing Plant,gas_facility,gas_processing,ONGC,Gujarat,Bharuch,21.6800,72.7000,0,gas,reference_public,approximate
+Dahej LNG Terminal,gas_facility,lng_terminal,Petronet LNG,Gujarat,Bharuch,21.7200,72.5500,0,lng,reference_public,approximate
+Hazira LNG Terminal,gas_facility,lng_terminal,Shell,Gujarat,Surat,21.0900,72.6400,0,lng,reference_public,approximate
+Kochi LNG Terminal,gas_facility,lng_terminal,Petronet LNG,Kerala,Ernakulam,9.9800,76.2500,0,lng,reference_public,approximate
+Dabhol LNG Terminal,gas_facility,lng_terminal,Konkan LNG,Maharashtra,Ratnagiri,17.6000,73.1600,0,lng,reference_public,approximate
+Ennore LNG Terminal,gas_facility,lng_terminal,Indian Oil Corporation,Tamil Nadu,Chennai,13.2700,80.3300,0,lng,reference_public,approximate
+Mundra LNG Terminal,gas_facility,lng_terminal,GSPC,Gujarat,Kutch,22.7500,69.6800,0,lng,reference_public,approximate
+Tatipaka Gas Collecting Station KG Basin,gas_facility,oil_field,ONGC,Andhra Pradesh,East Godavari,16.6000,81.9100,0,gas,reference_public,approximate
+Narimanam Gas Collecting Station,gas_facility,oil_field,ONGC,Tamil Nadu,Nagapattinam,10.8300,79.7800,0,gas,reference_public,approximate
+Duliajan Oil Field,gas_facility,oil_field,Oil India,Assam,Dibrugarh,27.3700,95.3200,0,oil_gas,reference_public,approximate
+Lakwa Geleki Gas Collecting Station,gas_facility,oil_field,ONGC,Assam,Sivasagar,26.9300,94.7500,0,oil_gas,reference_public,approximate
+Mehsana Oil Field,gas_facility,oil_field,ONGC,Gujarat,Mehsana,23.6000,72.4000,0,oil_gas,reference_public,approximate
+Ankleshwar Oil Field,gas_facility,oil_field,ONGC,Gujarat,Bharuch,21.6200,73.0200,0,oil_gas,reference_public,approximate
+Cambay Gas Field,gas_facility,oil_field,ONGC,Gujarat,Anand,22.3100,72.6200,0,gas,reference_public,approximate
+Mangala Processing Terminal Barmer,gas_facility,oil_field,Cairn Oil and Gas,Rajasthan,Barmer,25.9500,71.3000,0,oil_gas,reference_public,approximate
+Raniganj CBM Field,gas_facility,cbm,Essar Oil and Gas,West Bengal,Paschim Bardhaman,23.6000,87.0500,0,cbm,reference_public,approximate
+Tata Steel Jamshedpur Works,industrial,steel,Tata Steel,Jharkhand,East Singhbhum,22.7900,86.2000,0,steel,reference_public,approximate
+Bhilai Steel Plant,industrial,steel,SAIL,Chhattisgarh,Durg,21.1900,81.3800,0,steel,reference_public,approximate
+Rourkela Steel Plant,industrial,steel,SAIL,Odisha,Sundargarh,22.2200,84.8600,0,steel,reference_public,approximate
+Bokaro Steel Plant,industrial,steel,SAIL,Jharkhand,Bokaro,23.6700,86.0900,0,steel,reference_public,approximate
+Durgapur Steel Plant,industrial,steel,SAIL,West Bengal,Paschim Bardhaman,23.5300,87.3000,0,steel,reference_public,approximate
+IISCO Steel Plant Burnpur,industrial,steel,SAIL,West Bengal,Paschim Bardhaman,23.6600,86.9500,0,steel,reference_public,approximate
+Visakhapatnam Steel Plant,industrial,steel,RINL,Andhra Pradesh,Visakhapatnam,17.6300,83.1700,0,steel,reference_public,approximate
+JSW Vijayanagar Works,industrial,steel,JSW Steel,Karnataka,Ballari,15.1800,76.6800,0,steel,reference_public,approximate
+JSW Dolvi Works,industrial,steel,JSW Steel,Maharashtra,Raigad,18.7100,73.0300,0,steel,reference_public,approximate
+Tata Steel Kalinganagar,industrial,steel,Tata Steel,Odisha,Jajpur,20.9500,86.0500,0,steel,reference_public,approximate
+JSPL Angul Steel Plant,industrial,steel,Jindal Steel and Power,Odisha,Angul,20.8700,85.0500,0,steel,reference_public,approximate
+JSPL Raigarh Steel Plant,industrial,steel,Jindal Steel and Power,Chhattisgarh,Raigarh,21.9000,83.4200,0,steel,reference_public,approximate
+Salem Steel Plant,industrial,steel,SAIL,Tamil Nadu,Salem,11.6000,78.1300,0,steel,reference_public,approximate
+AMNS Hazira Steel Plant,industrial,steel,ArcelorMittal Nippon Steel,Gujarat,Surat,21.1200,72.6400,0,steel,reference_public,approximate
+Dahej Petrochemical Complex,industrial,chemical,Reliance Industries,Gujarat,Bharuch,21.7000,72.5800,0,petrochemical,reference_public,approximate
+Ankleshwar GIDC Industrial Estate,industrial,chemical,GIDC,Gujarat,Bharuch,21.6300,73.0200,0,chemical,reference_public,approximate
+Vapi GIDC Industrial Estate,industrial,chemical,GIDC,Gujarat,Valsad,20.3700,72.9200,0,chemical,reference_public,approximate
+Vatva GIDC Industrial Estate,industrial,chemical,GIDC,Gujarat,Ahmedabad,22.9600,72.6300,0,chemical,reference_public,approximate
+Nagothane Petrochemical Complex,industrial,chemical,Reliance Industries,Maharashtra,Raigad,18.5300,73.1300,0,petrochemical,reference_public,approximate
+Panipat Naphtha Cracker Complex,industrial,chemical,Indian Oil Corporation,Haryana,Panipat,29.4000,76.9000,0,petrochemical,reference_public,approximate
+Tarapur MIDC Industrial Area,industrial,chemical,MIDC,Maharashtra,Palghar,19.8100,72.7000,0,chemical,reference_public,approximate
+Lote Parshuram MIDC,industrial,chemical,MIDC,Maharashtra,Ratnagiri,17.7500,73.1800,0,chemical,reference_public,approximate
+Manali Industrial Area,industrial,chemical,SIPCOT,Tamil Nadu,Chennai,13.1700,80.2700,0,petrochemical,reference_public,approximate
+Ambattur Industrial Estate,industrial,factory,SIDCO,Tamil Nadu,Chennai,13.1000,80.1600,0,engineering,reference_public,approximate
+Peenya Industrial Area,industrial,factory,KIADB,Karnataka,Bengaluru Urban,13.0300,77.5200,0,engineering,reference_public,approximate
+Patancheru Industrial Area,industrial,chemical,TSIIC,Telangana,Sangareddy,17.5300,78.2600,0,chemical,reference_public,approximate
+Jeedimetla Industrial Area,industrial,chemical,TSIIC,Telangana,Medchal-Malkajgiri,17.5100,78.4500,0,pharma_chemical,reference_public,approximate
+Pashamylaram Industrial Area,industrial,chemical,TSIIC,Telangana,Sangareddy,17.5300,78.2000,0,pharma_chemical,reference_public,approximate
+Autonagar Vijayawada,industrial,factory,APIIC,Andhra Pradesh,NTR,16.4800,80.6800,0,engineering,reference_public,approximate
+Sri City Industrial Park,industrial,factory,Sri City,Andhra Pradesh,Tirupati,13.5500,80.0200,0,manufacturing,reference_public,approximate
+Bhiwadi Industrial Area,industrial,factory,RIICO,Rajasthan,Alwar,28.2100,76.8600,0,manufacturing,reference_public,approximate
+IMT Manesar,industrial,factory,HSIIDC,Haryana,Gurugram,28.3500,76.9400,0,automotive,reference_public,approximate
+Noida Phase II Industrial Area,industrial,factory,NOIDA Authority,Uttar Pradesh,Gautam Buddha Nagar,28.5200,77.4400,0,manufacturing,reference_public,approximate
+Bawana Industrial Area,industrial,factory,DSIIDC,Delhi,North West Delhi,28.7900,77.0500,0,manufacturing,reference_public,approximate
+Okhla Industrial Area,industrial,factory,DSIIDC,Delhi,South East Delhi,28.5300,77.2700,0,manufacturing,reference_public,approximate
+Narela Industrial Area,industrial,factory,DSIIDC,Delhi,North Delhi,28.8500,77.0900,0,manufacturing,reference_public,approximate
+Mandideep Industrial Area,industrial,factory,MPIDC,Madhya Pradesh,Raisen,23.1000,77.5300,0,manufacturing,reference_public,approximate
+Pithampur Industrial Area,industrial,factory,MPIDC,Madhya Pradesh,Dhar,22.6000,75.6800,0,automotive,reference_public,approximate
+Byrnihat Industrial Area,industrial,factory,Meghalaya Govt,Meghalaya,Ri-Bhoi,25.9800,91.8700,0,cement_ferroalloy,reference_public,approximate
+Bodhjungnagar Industrial Growth Centre,industrial,factory,TIDC,Tripura,West Tripura,23.9000,91.4000,0,manufacturing,reference_public,approximate
+Kandla Port Industrial Area,industrial,port,KASEZ,Gujarat,Kutch,23.0200,70.2200,0,port,reference_public,approximate
+Paradip Port Industrial Area,industrial,port,Paradip Port Authority,Odisha,Jagatsinghpur,20.3000,86.6800,0,port,reference_public,approximate
+Haldia Industrial Belt,industrial,chemical,HDA,West Bengal,Purba Medinipur,22.0500,88.0800,0,petrochemical,reference_public,approximate
+Visakhapatnam Port Industrial Area,industrial,port,Visakhapatnam Port Authority,Andhra Pradesh,Visakhapatnam,17.6900,83.2900,0,port,reference_public,approximate
+Mangaluru SEZ,industrial,chemical,MSEZL,Karnataka,Dakshina Kannada,12.9500,74.8800,0,petrochemical,reference_public,approximate
+Eloor Edayar Industrial Belt,industrial,chemical,Kerala Govt,Kerala,Ernakulam,10.0700,76.3000,0,chemical,reference_public,approximate
+Taloja MIDC,industrial,chemical,MIDC,Maharashtra,Raigad,19.0600,73.1000,0,chemical,reference_public,approximate
+Trans Thane Creek MIDC,industrial,chemical,MIDC,Maharashtra,Thane,19.1000,73.0200,0,chemical,reference_public,approximate
+RCF Trombay Fertiliser Unit,industrial,fertiliser,RCF,Maharashtra,Mumbai,19.0300,72.9200,0,fertiliser,reference_public,approximate
+Butibori MIDC,industrial,factory,MIDC,Maharashtra,Nagpur,20.9300,78.9700,0,manufacturing,reference_public,approximate
+Ludhiana Focal Point Industrial Area,industrial,factory,PSIEC,Punjab,Ludhiana,30.9000,75.9500,0,manufacturing,reference_public,approximate
+Mandi Gobindgarh Steel Cluster,industrial,steel,Various,Punjab,Fatehgarh Sahib,30.6600,76.3000,0,steel_rolling,reference_public,approximate
+Baddi Industrial Area,industrial,factory,HP Govt,Himachal Pradesh,Solan,30.9600,76.7900,0,pharma,reference_public,approximate
+SIDCUL Sitarganj,industrial,factory,SIDCUL,Uttarakhand,Udham Singh Nagar,28.9300,79.7000,0,manufacturing,reference_public,approximate
+SIDCUL Haridwar,industrial,factory,SIDCUL,Uttarakhand,Haridwar,29.9300,78.0900,0,manufacturing,reference_public,approximate
+Barbil Sponge Iron Cluster,industrial,steel,Various,Odisha,Kendujhar,22.1000,85.3800,0,sponge_iron,reference_public,approximate
+NALCO Angul Aluminium Smelter,industrial,smelter,NALCO,Odisha,Angul,20.8500,85.1000,0,aluminium,reference_public,approximate
+Vedanta Jharsuguda Aluminium Smelter,industrial,smelter,Vedanta,Odisha,Jharsuguda,21.8000,84.1000,0,aluminium,reference_public,approximate
+Hindalco Renukoot,industrial,smelter,Hindalco,Uttar Pradesh,Sonbhadra,24.2000,83.0300,0,aluminium,reference_public,approximate
+BALCO Korba,industrial,smelter,Vedanta,Chhattisgarh,Korba,22.3700,82.7200,0,aluminium,reference_public,approximate
+Hindalco Hirakud,industrial,smelter,Hindalco,Odisha,Sambalpur,21.5200,83.8700,0,aluminium,reference_public,approximate
+Grasim Nagda,industrial,chemical,Grasim,Madhya Pradesh,Ujjain,23.4500,75.4200,0,chemical,reference_public,approximate
+IFFCO Kalol,industrial,fertiliser,IFFCO,Gujarat,Gandhinagar,23.2500,72.5000,0,fertiliser,reference_public,approximate
+KRIBHCO Hazira,industrial,fertiliser,KRIBHCO,Gujarat,Surat,21.1000,72.6600,0,fertiliser,reference_public,approximate
+NFL Nangal,industrial,fertiliser,NFL,Punjab,Rupnagar,31.3800,76.3700,0,fertiliser,reference_public,approximate
+NFL Bathinda,industrial,fertiliser,NFL,Punjab,Bathinda,30.2000,74.9000,0,fertiliser,reference_public,approximate
+Paradeep Phosphates,industrial,fertiliser,PPL,Odisha,Jagatsinghpur,20.2800,86.6500,0,fertiliser,reference_public,approximate
+Coromandel Visakhapatnam,industrial,fertiliser,Coromandel International,Andhra Pradesh,Visakhapatnam,17.6800,83.2500,0,fertiliser,reference_public,approximate
+SPIC Tuticorin,industrial,fertiliser,SPIC,Tamil Nadu,Thoothukudi,8.7800,78.1700,0,fertiliser,reference_public,approximate
+FACT Udyogamandal,industrial,fertiliser,FACT,Kerala,Ernakulam,10.0700,76.3000,0,fertiliser,reference_public,approximate
+RCF Thal,industrial,fertiliser,RCF,Maharashtra,Raigad,18.6900,72.8800,0,fertiliser,reference_public,approximate
+Chambal Fertilisers Gadepan,industrial,fertiliser,Chambal Fertilisers,Rajasthan,Kota,25.3500,76.0000,0,fertiliser,reference_public,approximate
+IFFCO Aonla,industrial,fertiliser,IFFCO,Uttar Pradesh,Bareilly,28.2700,79.2100,0,fertiliser,reference_public,approximate
+IFFCO Phulpur,industrial,fertiliser,IFFCO,Uttar Pradesh,Prayagraj,25.5500,82.1000,0,fertiliser,reference_public,approximate
+HURL Gorakhpur,industrial,fertiliser,HURL,Uttar Pradesh,Gorakhpur,26.8300,83.3000,0,fertiliser,reference_public,approximate
+NFL Panipat,industrial,fertiliser,NFL,Haryana,Panipat,29.4000,76.9200,0,fertiliser,reference_public,approximate
+HURL Barauni,industrial,fertiliser,HURL,Bihar,Begusarai,25.4400,86.0300,0,fertiliser,reference_public,approximate
+BVFCL Namrup,industrial,fertiliser,BVFCL,Assam,Dibrugarh,27.2000,95.3300,0,fertiliser,reference_public,approximate
+Assam Gas Cracker Lepetkata,industrial,chemical,BCPL,Assam,Dibrugarh,27.4000,94.9000,0,petrochemical,reference_public,approximate
+ACC Jamul Cement Works,industrial,cement,ACC,Chhattisgarh,Durg,21.2300,81.4200,0,cement,reference_public,approximate
+UltraTech Awarpur Cement Works,industrial,cement,UltraTech,Maharashtra,Chandrapur,19.7000,79.5500,0,cement,reference_public,approximate
+Shree Cement Beawar,industrial,cement,Shree Cement,Rajasthan,Ajmer,26.1000,74.3200,0,cement,reference_public,approximate
+Ambuja Cement Ambujanagar,industrial,cement,Ambuja Cements,Gujarat,Gir Somnath,20.8500,70.5500,0,cement,reference_public,approximate
+Dalmia Cement Dalmiapuram,industrial,cement,Dalmia Bharat,Tamil Nadu,Tiruchirappalli,10.9500,78.8000,0,cement,reference_public,approximate
+Ramco Alathiyur Cement Works,industrial,cement,Ramco,Tamil Nadu,Ariyalur,11.1800,79.1000,0,cement,reference_public,approximate
+Nuvoco Sonadih Cement Plant,industrial,cement,Nuvoco,Chhattisgarh,Baloda Bazar,21.6300,82.3000,0,cement,reference_public,approximate
+Star Cement Lumshnong,industrial,cement,Star Cement,Meghalaya,East Jaintia Hills,25.1500,92.3500,0,cement,reference_public,approximate
+Wonder Cement Nimbahera,industrial,cement,Wonder Cement,Rajasthan,Chittorgarh,24.6200,74.6800,0,cement,reference_public,approximate
+Penna Cement Tadipatri,industrial,cement,Penna Cement,Andhra Pradesh,Anantapur,14.9100,77.9800,0,cement,reference_public,approximate
+Vadinar Crude Oil Terminal Tank Farm,storage,tank_farm,Indian Oil Corporation,Gujarat,Devbhumi Dwarka,22.4400,69.7400,0,crude_storage,reference_public,approximate
+Kandla Oil Storage Terminal,storage,tank_farm,Various,Gujarat,Kutch,23.0200,70.2100,0,petroleum_storage,reference_public,approximate
+Mangalore Strategic Petroleum Reserve,storage,spr,ISPRL,Karnataka,Dakshina Kannada,12.9400,74.8700,0,crude_storage,reference_public,approximate
+Padur Strategic Petroleum Reserve,storage,spr,ISPRL,Karnataka,Udupi,13.1200,74.7800,0,crude_storage,reference_public,approximate
+Visakhapatnam Strategic Petroleum Reserve,storage,spr,ISPRL,Andhra Pradesh,Visakhapatnam,17.6800,83.2600,0,crude_storage,reference_public,approximate
+Wadala Sewri Tank Farm,storage,tank_farm,Various,Maharashtra,Mumbai,19.0000,72.8700,0,petroleum_storage,reference_public,approximate
+Haldia Oil Jetty Tank Farm,storage,tank_farm,Various,West Bengal,Purba Medinipur,22.0400,88.1000,0,petroleum_storage,reference_public,approximate
+Ennore Tank Farm,storage,tank_farm,Various,Tamil Nadu,Chennai,13.2400,80.3200,0,petroleum_storage,reference_public,approximate
+Puthuvype Petroleum Terminal,storage,tank_farm,Indian Oil Corporation,Kerala,Ernakulam,9.9900,76.2400,0,lpg_storage,reference_public,approximate
+Mundra Tank Farm,storage,tank_farm,Various,Gujarat,Kutch,22.7600,69.6800,0,petroleum_storage,reference_public,approximate
+Paradip Tank Farm,storage,tank_farm,Indian Oil Corporation,Odisha,Jagatsinghpur,20.2900,86.6600,0,petroleum_storage,reference_public,approximate
+Sitapura Oil Terminal Jaipur,storage,tank_farm,Indian Oil Corporation,Rajasthan,Jaipur,26.7900,75.8500,0,petroleum_storage,reference_public,approximate

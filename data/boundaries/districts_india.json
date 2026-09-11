@@ -1,0 +1,7098 @@
+{
+"source": "OpenStreetMap administrative relations (admin_level=5 = district), ODbL; state assignment by point-in-polygon of relation centre",
+"count": 788,
+"districts": [
+{
+"name": "Nicobar",
+"state": "Andaman and Nicobar Islands",
+"lat": 8.0062,
+"lon": 93.3327,
+"osm_id": "relation/9515011",
+"lgd_code": "603",
+"wikidata": "Q797295"
+},
+{
+"name": "North and Middle Andaman",
+"state": "Andaman and Nicobar Islands",
+"lat": 12.8694,
+"lon": 93.4628,
+"osm_id": "relation/9515009",
+"lgd_code": "632",
+"wikidata": "Q796983"
+},
+{
+"name": "South Andaman",
+"state": "Andaman and Nicobar Islands",
+"lat": 11.4149,
+"lon": 92.6637,
+"osm_id": "relation/9515010",
+"lgd_code": "602",
+"wikidata": "Q796979"
+},
+{
+"name": "Alluri Sitharama Raju",
+"state": "Andhra Pradesh",
+"lat": 18.0592,
+"lon": 82.5638,
+"osm_id": "relation/13999461",
+"lgd_code": "745",
+"wikidata": "Q110714850"
+},
+{
+"name": "Anakapalli",
+"state": "Andhra Pradesh",
+"lat": 17.6715,
+"lon": 82.7463,
+"osm_id": "relation/13999884",
+"lgd_code": "744",
+"wikidata": "Q110714857"
+},
+{
+"name": "Anantapuram",
+"state": "Andhra Pradesh",
+"lat": 14.7241,
+"lon": 77.4488,
+"osm_id": "relation/2022303",
+"lgd_code": "502",
+"wikidata": "Q15212"
+},
+{
+"name": "Annamayya",
+"state": "Andhra Pradesh",
+"lat": 13.7884,
+"lon": 78.5572,
+"osm_id": "relation/13997864",
+"lgd_code": "753",
+"wikidata": "Q110714854"
+},
+{
+"name": "Bapatla",
+"state": "Andhra Pradesh",
+"lat": 15.9342,
+"lon": 80.4525,
+"osm_id": "relation/13998258",
+"lgd_code": "750",
+"wikidata": "Q110876712"
+},
+{
+"name": "Chittoor",
+"state": "Andhra Pradesh",
+"lat": 13.2029,
+"lon": 78.9971,
+"osm_id": "relation/2022304",
+"lgd_code": "503",
+"wikidata": "Q15213"
+},
+{
+"name": "East Godavari",
+"state": "Andhra Pradesh",
+"lat": 16.9961,
+"lon": 81.6851,
+"osm_id": "relation/2022126",
+"lgd_code": "505",
+"wikidata": "Q15338"
+},
+{
+"name": "Eluru",
+"state": "Andhra Pradesh",
+"lat": 17.0144,
+"lon": 81.183,
+"osm_id": "relation/13999189",
+"lgd_code": "748",
+"wikidata": "Q110714851"
+},
+{
+"name": "Guntur",
+"state": "Andhra Pradesh",
+"lat": 16.2853,
+"lon": 80.4635,
+"osm_id": "relation/2022220",
+"lgd_code": "506",
+"wikidata": "Q15341"
+},
+{
+"name": "Kakinada",
+"state": "Andhra Pradesh",
+"lat": 17.1205,
+"lon": 82.2533,
+"osm_id": "relation/13999862",
+"lgd_code": "746",
+"wikidata": "Q110714860"
+},
+{
+"name": "Konaseema",
+"state": "Andhra Pradesh",
+"lat": 16.6289,
+"lon": 82.0327,
+"osm_id": "relation/13999603",
+"lgd_code": "747",
+"wikidata": "Q110714859"
+},
+{
+"name": "Krishna",
+"state": "Andhra Pradesh",
+"lat": 16.238,
+"lon": 81.1033,
+"osm_id": "relation/2022135",
+"lgd_code": "510",
+"wikidata": "Q15382"
+},
+{
+"name": "Kurnool",
+"state": "Andhra Pradesh",
+"lat": 15.548,
+"lon": 77.6239,
+"osm_id": "relation/2022277",
+"lgd_code": "511",
+"wikidata": "Q15381"
+},
+{
+"name": "Markapuram",
+"state": "Andhra Pradesh",
+"lat": 15.6641,
+"lon": 79.2664,
+"osm_id": "relation/20182419",
+"lgd_code": "790",
+"wikidata": "Q137785857"
+},
+{
+"name": "NTR",
+"state": "Andhra Pradesh",
+"lat": 16.817,
+"lon": 80.4275,
+"osm_id": "relation/14000341",
+"lgd_code": "749",
+"wikidata": "Q110876763"
+},
+{
+"name": "Nandyal",
+"state": "Andhra Pradesh",
+"lat": 15.525,
+"lon": 78.2918,
+"osm_id": "relation/14000280",
+"lgd_code": "755",
+"wikidata": "Q110714861"
+},
+{
+"name": "Palnadu",
+"state": "Andhra Pradesh",
+"lat": 16.3232,
+"lon": 79.8182,
+"osm_id": "relation/14000417",
+"lgd_code": "751",
+"wikidata": "Q110714862"
+},
+{
+"name": "Parvathipuram Manyam",
+"state": "Andhra Pradesh",
+"lat": 18.7515,
+"lon": 83.4618,
+"osm_id": "relation/13998425",
+"lgd_code": "743",
+"wikidata": "Q110714856"
+},
+{
+"name": "Polavaram",
+"state": "Andhra Pradesh",
+"lat": 17.6185,
+"lon": 81.6148,
+"osm_id": "relation/20181344",
+"lgd_code": "791",
+"wikidata": "Q137785865"
+},
+{
+"name": "Prakasam",
+"state": "Andhra Pradesh",
+"lat": 15.5642,
+"lon": 79.7929,
+"osm_id": "relation/2022278",
+"lgd_code": "517",
+"wikidata": "Q15390"
+},
+{
+"name": "Puducherry",
+"state": "Andhra Pradesh",
+"lat": 14.227,
+"lon": 78.9201,
+"osm_id": "relation/5335580",
+"lgd_code": "600",
+"wikidata": "Q984035"
+},
+{
+"name": "Sri Potti Sriramulu Nellore",
+"state": "Andhra Pradesh",
+"lat": 14.5575,
+"lon": 79.638,
+"osm_id": "relation/2022291",
+"lgd_code": "515",
+"wikidata": "Q15383"
+},
+{
+"name": "Sri Sathya Sai",
+"state": "Andhra Pradesh",
+"lat": 14.1682,
+"lon": 77.6776,
+"osm_id": "relation/13997968",
+"lgd_code": "754",
+"wikidata": "Q110714863"
+},
+{
+"name": "Srikakulam",
+"state": "Andhra Pradesh",
+"lat": 18.6224,
+"lon": 84.1758,
+"osm_id": "relation/2022096",
+"lgd_code": "519",
+"wikidata": "Q15395"
+},
+{
+"name": "Tirupati",
+"state": "Andhra Pradesh",
+"lat": 13.8893,
+"lon": 79.6242,
+"osm_id": "relation/13997802",
+"lgd_code": "752",
+"wikidata": "Q110714853"
+},
+{
+"name": "Visakhapatnam",
+"state": "Andhra Pradesh",
+"lat": 17.8055,
+"lon": 83.3174,
+"osm_id": "relation/2022111",
+"lgd_code": "520",
+"wikidata": "Q15394"
+},
+{
+"name": "Vizianagaram",
+"state": "Andhra Pradesh",
+"lat": 18.276,
+"lon": 83.4212,
+"osm_id": "relation/2022097",
+"lgd_code": "521",
+"wikidata": "Q15392"
+},
+{
+"name": "West Godavari",
+"state": "Andhra Pradesh",
+"lat": 16.643,
+"lon": 81.5933,
+"osm_id": "relation/2022127",
+"lgd_code": "523",
+"wikidata": "Q15404"
+},
+{
+"name": "YSR Kadapa",
+"state": "Andhra Pradesh",
+"lat": 14.5397,
+"lon": 78.6254,
+"osm_id": "relation/2022290",
+"lgd_code": "504",
+"wikidata": "Q15342"
+},
+{
+"name": "Anjaw",
+"state": "Arunachal Pradesh",
+"lat": 28.1558,
+"lon": 96.836,
+"osm_id": "relation/9515358",
+"lgd_code": "628",
+"wikidata": "Q15413"
+},
+{
+"name": "Bichom",
+"state": "Arunachal Pradesh",
+"lat": 27.5388,
+"lon": 92.6011,
+"osm_id": "relation/19969401",
+"lgd_code": "787",
+"wikidata": "Q124811465"
+},
+{
+"name": "Changlang",
+"state": "Arunachal Pradesh",
+"lat": 27.2699,
+"lon": 96.396,
+"osm_id": "relation/2027455",
+"lgd_code": "229",
+"wikidata": "Q15427"
+},
+{
+"name": "Dibang Valley",
+"state": "Arunachal Pradesh",
+"lat": 28.8286,
+"lon": 95.9448,
+"osm_id": "relation/2027456",
+"lgd_code": "230",
+"wikidata": "Q15446"
+},
+{
+"name": "East Kameng",
+"state": "Arunachal Pradesh",
+"lat": 27.5573,
+"lon": 92.9155,
+"osm_id": "relation/2027347",
+"lgd_code": "231",
+"wikidata": "Q15424"
+},
+{
+"name": "East Siang",
+"state": "Arunachal Pradesh",
+"lat": 28.0716,
+"lon": 95.32,
+"osm_id": "relation/2027435",
+"lgd_code": "232",
+"wikidata": "Q15419"
+},
+{
+"name": "Kamle",
+"state": "Arunachal Pradesh",
+"lat": 27.7319,
+"lon": 94.1088,
+"osm_id": "relation/9516226",
+"lgd_code": "718",
+"wikidata": "Q48731073"
+},
+{
+"name": "Keyi Panyor",
+"state": "Arunachal Pradesh",
+"lat": 27.5083,
+"lon": 93.7302,
+"osm_id": "relation/19969417",
+"lgd_code": "786",
+"wikidata": "Q124818540"
+},
+{
+"name": "Kra Daadi",
+"state": "Arunachal Pradesh",
+"lat": 27.9612,
+"lon": 93.7024,
+"osm_id": "relation/9516234",
+"lgd_code": "677",
+"wikidata": "Q21018627"
+},
+{
+"name": "Kurung Kumey",
+"state": "Arunachal Pradesh",
+"lat": 27.9869,
+"lon": 93.1334,
+"osm_id": "relation/3841144",
+"lgd_code": "233",
+"wikidata": "Q2449506"
+},
+{
+"name": "Lepa Rada",
+"state": "Arunachal Pradesh",
+"lat": 27.9173,
+"lon": 94.7158,
+"osm_id": "relation/9516097",
+"lgd_code": "724",
+"wikidata": "Q63563632"
+},
+{
+"name": "Lohit",
+"state": "Arunachal Pradesh",
+"lat": 28.0333,
+"lon": 96.2346,
+"osm_id": "relation/2027457",
+"lgd_code": "234",
+"wikidata": "Q15438"
+},
+{
+"name": "Longding",
+"state": "Arunachal Pradesh",
+"lat": 26.8794,
+"lon": 95.3432,
+"osm_id": "relation/9516202",
+"lgd_code": "666",
+"wikidata": "Q5627568"
+},
+{
+"name": "Lower Dibang Valley",
+"state": "Arunachal Pradesh",
+"lat": 28.2096,
+"lon": 95.8869,
+"osm_id": "relation/9515443",
+"lgd_code": "235",
+"wikidata": "Q2373368"
+},
+{
+"name": "Lower Siang",
+"state": "Arunachal Pradesh",
+"lat": 27.8041,
+"lon": 94.674,
+"osm_id": "relation/9516096",
+"lgd_code": "719",
+"wikidata": "Q13602925"
+},
+{
+"name": "Lower Subansiri",
+"state": "Arunachal Pradesh",
+"lat": 27.6072,
+"lon": 93.8634,
+"osm_id": "relation/2027356",
+"lgd_code": "236",
+"wikidata": "Q15436"
+},
+{
+"name": "Namsai",
+"state": "Arunachal Pradesh",
+"lat": 27.7138,
+"lon": 96.0348,
+"osm_id": "relation/9515359",
+"lgd_code": "678",
+"wikidata": "Q21559824"
+},
+{
+"name": "Pakke-Kessang",
+"state": "Arunachal Pradesh",
+"lat": 27.1581,
+"lon": 92.9911,
+"osm_id": "relation/10062837",
+"lgd_code": "723",
+"wikidata": "Q61439260"
+},
+{
+"name": "Papum Pare",
+"state": "Arunachal Pradesh",
+"lat": 27.2869,
+"lon": 93.7166,
+"osm_id": "relation/2027348",
+"lgd_code": "237",
+"wikidata": "Q15432"
+},
+{
+"name": "Shi Yomi",
+"state": "Arunachal Pradesh",
+"lat": 28.6818,
+"lon": 94.2344,
+"osm_id": "relation/9516095",
+"lgd_code": "725",
+"wikidata": "Q63563625"
+},
+{
+"name": "Siang",
+"state": "Arunachal Pradesh",
+"lat": 28.476,
+"lon": 94.8447,
+"osm_id": "relation/9516098",
+"lgd_code": "679",
+"wikidata": "Q18642331"
+},
+{
+"name": "Tawang",
+"state": "Arunachal Pradesh",
+"lat": 27.669,
+"lon": 92.0166,
+"osm_id": "relation/3841145",
+"lgd_code": "238",
+"wikidata": "Q15449"
+},
+{
+"name": "Tirap",
+"state": "Arunachal Pradesh",
+"lat": 27.0322,
+"lon": 95.5263,
+"osm_id": "relation/2027458",
+"lgd_code": "239",
+"wikidata": "Q15448"
+},
+{
+"name": "Upper Siang",
+"state": "Arunachal Pradesh",
+"lat": 28.7306,
+"lon": 94.842,
+"osm_id": "relation/2027436",
+"lgd_code": "240",
+"wikidata": "Q15465"
+},
+{
+"name": "Upper Subansiri",
+"state": "Arunachal Pradesh",
+"lat": 28.2582,
+"lon": 93.8307,
+"osm_id": "relation/2027358",
+"lgd_code": "241",
+"wikidata": "Q15464"
+},
+{
+"name": "West Kameng",
+"state": "Arunachal Pradesh",
+"lat": 27.2987,
+"lon": 92.4327,
+"osm_id": "relation/3841146",
+"lgd_code": "242",
+"wikidata": "Q15459"
+},
+{
+"name": "West Siang",
+"state": "Arunachal Pradesh",
+"lat": 28.1982,
+"lon": 94.653,
+"osm_id": "relation/2027359",
+"lgd_code": "243",
+"wikidata": "Q15453"
+},
+{
+"name": "Bajali",
+"state": "Assam",
+"lat": 26.5396,
+"lon": 91.1415,
+"osm_id": "relation/16704179",
+"lgd_code": "739",
+"wikidata": "Q101088203"
+},
+{
+"name": "Baksa",
+"state": "Assam",
+"lat": 26.6276,
+"lon": 91.1988,
+"osm_id": "relation/9521712",
+"lgd_code": "616",
+"wikidata": "Q2360266"
+},
+{
+"name": "Barpeta",
+"state": "Assam",
+"lat": 26.3456,
+"lon": 90.966,
+"osm_id": "relation/1791158",
+"lgd_code": "280",
+"wikidata": "Q41249"
+},
+{
+"name": "Biswanath",
+"state": "Assam",
+"lat": 26.7942,
+"lon": 93.4168,
+"osm_id": "relation/16701825",
+"lgd_code": "705",
+"wikidata": "Q22079836"
+},
+{
+"name": "Bongaigaon",
+"state": "Assam",
+"lat": 26.3486,
+"lon": 90.6254,
+"osm_id": "relation/1791154",
+"lgd_code": "281",
+"wikidata": "Q42197"
+},
+{
+"name": "Cachar",
+"state": "Assam",
+"lat": 24.7584,
+"lon": 92.8401,
+"osm_id": "relation/2025971",
+"lgd_code": "282",
+"wikidata": "Q42209"
+},
+{
+"name": "Charaideo",
+"state": "Assam",
+"lat": 27.0698,
+"lon": 95.0532,
+"osm_id": "relation/9521247",
+"lgd_code": "708",
+"wikidata": "Q24039029"
+},
+{
+"name": "Chirang",
+"state": "Assam",
+"lat": 26.6452,
+"lon": 90.6497,
+"osm_id": "relation/9521711",
+"lgd_code": "612",
+"wikidata": "Q2574898"
+},
+{
+"name": "Darrang",
+"state": "Assam",
+"lat": 26.4343,
+"lon": 92.0621,
+"osm_id": "relation/1791255",
+"lgd_code": "283",
+"wikidata": "Q42461"
+},
+{
+"name": "Dhemaji",
+"state": "Assam",
+"lat": 27.5947,
+"lon": 94.8632,
+"osm_id": "relation/2026407",
+"lgd_code": "284",
+"wikidata": "Q42473"
+},
+{
+"name": "Dhubri",
+"state": "Assam",
+"lat": 26.1323,
+"lon": 90.0909,
+"osm_id": "relation/2025887",
+"lgd_code": "285",
+"wikidata": "Q42485"
+},
+{
+"name": "Dibrugarh",
+"state": "Assam",
+"lat": 27.4009,
+"lon": 95.0244,
+"osm_id": "relation/2026441",
+"lgd_code": "286",
+"wikidata": "Q42479"
+},
+{
+"name": "Dima Hasao",
+"state": "Assam",
+"lat": 25.4,
+"lon": 92.997,
+"osm_id": "relation/2025931",
+"lgd_code": "299",
+"wikidata": "Q42774"
+},
+{
+"name": "Goalpara",
+"state": "Assam",
+"lat": 26.0493,
+"lon": 90.6058,
+"osm_id": "relation/2025888",
+"lgd_code": "287",
+"wikidata": "Q42522"
+},
+{
+"name": "Golaghat",
+"state": "Assam",
+"lat": 26.3694,
+"lon": 93.7325,
+"osm_id": "relation/2026354",
+"lgd_code": "288",
+"wikidata": "Q42517"
+},
+{
+"name": "Hailakandi",
+"state": "Assam",
+"lat": 24.5081,
+"lon": 92.5994,
+"osm_id": "relation/2026004",
+"lgd_code": "289",
+"wikidata": "Q42505"
+},
+{
+"name": "Hojai",
+"state": "Assam",
+"lat": 25.9629,
+"lon": 92.9743,
+"osm_id": "relation/16701845",
+"lgd_code": "709",
+"wikidata": "Q24699407"
+},
+{
+"name": "Jorhat",
+"state": "Assam",
+"lat": 26.6499,
+"lon": 94.2874,
+"osm_id": "relation/2026355",
+"lgd_code": "290",
+"wikidata": "Q42611"
+},
+{
+"name": "Kamrup",
+"state": "Assam",
+"lat": 26.1465,
+"lon": 91.3798,
+"osm_id": "relation/1791256",
+"lgd_code": "291",
+"wikidata": "Q2247441"
+},
+{
+"name": "Kamrup Metropolitan",
+"state": "Assam",
+"lat": 26.1352,
+"lon": 91.8682,
+"osm_id": "relation/9521878",
+"lgd_code": "618",
+"wikidata": "Q2464674"
+},
+{
+"name": "Karbi Anglong",
+"state": "Assam",
+"lat": 26.0713,
+"lon": 93.3454,
+"osm_id": "relation/2025924",
+"lgd_code": "292",
+"wikidata": "Q29025081"
+},
+{
+"name": "Karimganj",
+"state": "Assam",
+"lat": 24.5828,
+"lon": 92.4003,
+"osm_id": "relation/2026005",
+"lgd_code": "293",
+"wikidata": "Q42542"
+},
+{
+"name": "Kokrajhar",
+"state": "Assam",
+"lat": 26.4909,
+"lon": 90.133,
+"osm_id": "relation/1789229",
+"lgd_code": "294",
+"wikidata": "Q42618"
+},
+{
+"name": "Lakhimpur",
+"state": "Assam",
+"lat": 27.177,
+"lon": 94.1627,
+"osm_id": "relation/2026356",
+"lgd_code": "295",
+"wikidata": "Q42743"
+},
+{
+"name": "Majuli",
+"state": "Assam",
+"lat": 27.0243,
+"lon": 94.2747,
+"osm_id": "relation/9521299",
+"lgd_code": "706",
+"wikidata": "Q28110729"
+},
+{
+"name": "Marigaon",
+"state": "Assam",
+"lat": 26.2902,
+"lon": 92.2699,
+"osm_id": "relation/2025921",
+"lgd_code": "296",
+"wikidata": "Q42737"
+},
+{
+"name": "Nagaon",
+"state": "Assam",
+"lat": 26.3312,
+"lon": 92.8577,
+"osm_id": "relation/2025972",
+"lgd_code": "297",
+"wikidata": "Q42686"
+},
+{
+"name": "Nalbari",
+"state": "Assam",
+"lat": 26.3538,
+"lon": 91.3997,
+"osm_id": "relation/1791238",
+"lgd_code": "298",
+"wikidata": "Q42779"
+},
+{
+"name": "Sivasagar",
+"state": "Assam",
+"lat": 26.994,
+"lon": 94.6704,
+"osm_id": "relation/2026443",
+"lgd_code": "300",
+"wikidata": "Q42768"
+},
+{
+"name": "Sonitpur",
+"state": "Assam",
+"lat": 26.7678,
+"lon": 92.7346,
+"osm_id": "relation/2026041",
+"lgd_code": "301",
+"wikidata": "Q42765"
+},
+{
+"name": "Tamulpur",
+"state": "Assam",
+"lat": 26.6426,
+"lon": 91.6046,
+"osm_id": "relation/16702229",
+"lgd_code": "756",
+"wikidata": "Q110661970"
+},
+{
+"name": "Tinsukia",
+"state": "Assam",
+"lat": 27.5972,
+"lon": 95.6148,
+"osm_id": "relation/2026439",
+"lgd_code": "302",
+"wikidata": "Q42756"
+},
+{
+"name": "Udalguri",
+"state": "Assam",
+"lat": 26.7053,
+"lon": 92.0535,
+"osm_id": "relation/9521466",
+"lgd_code": "617",
+"wikidata": "Q321998"
+},
+{
+"name": "West Karbi Anglong",
+"state": "Assam",
+"lat": 25.8533,
+"lon": 92.6104,
+"osm_id": "relation/9521812",
+"lgd_code": "710",
+"wikidata": "Q24949218"
+},
+{
+"name": "Araria",
+"state": "Bihar",
+"lat": 26.265,
+"lon": 87.3721,
+"osm_id": "relation/1960173",
+"lgd_code": "188",
+"wikidata": "Q42901"
+},
+{
+"name": "Arwal",
+"state": "Bihar",
+"lat": 25.1813,
+"lon": 84.6551,
+"osm_id": "relation/9514449",
+"lgd_code": "611",
+"wikidata": "Q42917"
+},
+{
+"name": "Aurangabad",
+"state": "Bihar",
+"lat": 24.8029,
+"lon": 84.3772,
+"osm_id": "relation/1963166",
+"lgd_code": "189",
+"wikidata": "Q43086"
+},
+{
+"name": "Banka",
+"state": "Bihar",
+"lat": 24.8332,
+"lon": 86.8312,
+"osm_id": "relation/1972075",
+"lgd_code": "190",
+"wikidata": "Q43097"
+},
+{
+"name": "Begusarai",
+"state": "Bihar",
+"lat": 25.5125,
+"lon": 86.1241,
+"osm_id": "relation/1963174",
+"lgd_code": "191",
+"wikidata": "Q49157"
+},
+{
+"name": "Bhagalpur",
+"state": "Bihar",
+"lat": 25.2865,
+"lon": 87.0951,
+"osm_id": "relation/1960212",
+"lgd_code": "192",
+"wikidata": "Q49155"
+},
+{
+"name": "Bhojpur",
+"state": "Bihar",
+"lat": 25.45,
+"lon": 84.5623,
+"osm_id": "relation/1960294",
+"lgd_code": "193",
+"wikidata": "Q49153"
+},
+{
+"name": "Buxar",
+"state": "Bihar",
+"lat": 25.5045,
+"lon": 84.0829,
+"osm_id": "relation/1963161",
+"lgd_code": "194",
+"wikidata": "Q49161"
+},
+{
+"name": "Darbhanga",
+"state": "Bihar",
+"lat": 26.083,
+"lon": 86.0464,
+"osm_id": "relation/1568263",
+"lgd_code": "195",
+"wikidata": "Q49160"
+},
+{
+"name": "East Champaran",
+"state": "Bihar",
+"lat": 26.6392,
+"lon": 84.8902,
+"osm_id": "relation/1775673",
+"lgd_code": "213",
+"wikidata": "Q49159"
+},
+{
+"name": "Gaya",
+"state": "Bihar",
+"lat": 24.6794,
+"lon": 84.8451,
+"osm_id": "relation/1963167",
+"lgd_code": "196",
+"wikidata": "Q49173"
+},
+{
+"name": "Gopalganj",
+"state": "Bihar",
+"lat": 26.4213,
+"lon": 84.4067,
+"osm_id": "relation/1960158",
+"lgd_code": "197",
+"wikidata": "Q49171"
+},
+{
+"name": "Jamui",
+"state": "Bihar",
+"lat": 24.756,
+"lon": 86.2202,
+"osm_id": "relation/1963183",
+"lgd_code": "198",
+"wikidata": "Q49168"
+},
+{
+"name": "Jehanabad",
+"state": "Bihar",
+"lat": 25.153,
+"lon": 85.0207,
+"osm_id": "relation/1963165",
+"lgd_code": "199",
+"wikidata": "Q49176"
+},
+{
+"name": "Kaimur",
+"state": "Bihar",
+"lat": 24.9753,
+"lon": 83.6104,
+"osm_id": "relation/1963163",
+"lgd_code": "200",
+"wikidata": "Q77367"
+},
+{
+"name": "Katihar",
+"state": "Bihar",
+"lat": 25.5586,
+"lon": 87.6384,
+"osm_id": "relation/1791527",
+"lgd_code": "201",
+"wikidata": "Q77568"
+},
+{
+"name": "Khagaria",
+"state": "Bihar",
+"lat": 25.493,
+"lon": 86.568,
+"osm_id": "relation/1960223",
+"lgd_code": "202",
+"wikidata": "Q49175"
+},
+{
+"name": "Kishanganj",
+"state": "Bihar",
+"lat": 26.2446,
+"lon": 87.9524,
+"osm_id": "relation/1790780",
+"lgd_code": "203",
+"wikidata": "Q77375"
+},
+{
+"name": "Lakhisarai",
+"state": "Bihar",
+"lat": 25.1542,
+"lon": 86.1459,
+"osm_id": "relation/1963178",
+"lgd_code": "204",
+"wikidata": "Q77505"
+},
+{
+"name": "Madhepura",
+"state": "Bihar",
+"lat": 25.7806,
+"lon": 86.8711,
+"osm_id": "relation/1960214",
+"lgd_code": "205",
+"wikidata": "Q77746"
+},
+{
+"name": "Madhubani",
+"state": "Bihar",
+"lat": 26.3502,
+"lon": 86.2384,
+"osm_id": "relation/1568261",
+"lgd_code": "206",
+"wikidata": "Q77474"
+},
+{
+"name": "Munger",
+"state": "Bihar",
+"lat": 25.2203,
+"lon": 86.4992,
+"osm_id": "relation/1960237",
+"lgd_code": "207",
+"wikidata": "Q77452"
+},
+{
+"name": "Muzaffarpur",
+"state": "Bihar",
+"lat": 26.1484,
+"lon": 85.3131,
+"osm_id": "relation/1960284",
+"lgd_code": "208",
+"wikidata": "Q77731"
+},
+{
+"name": "Nalanda",
+"state": "Bihar",
+"lat": 25.2115,
+"lon": 85.5297,
+"osm_id": "relation/1963173",
+"lgd_code": "209",
+"wikidata": "Q77633"
+},
+{
+"name": "Nawada",
+"state": "Bihar",
+"lat": 24.8173,
+"lon": 85.6609,
+"osm_id": "relation/1963176",
+"lgd_code": "210",
+"wikidata": "Q100067"
+},
+{
+"name": "Patna",
+"state": "Bihar",
+"lat": 25.4681,
+"lon": 85.3779,
+"osm_id": "relation/1960296",
+"lgd_code": "212",
+"wikidata": "Q100077"
+},
+{
+"name": "Purnia",
+"state": "Bihar",
+"lat": 25.7759,
+"lon": 87.4312,
+"osm_id": "relation/1960187",
+"lgd_code": "214",
+"wikidata": "Q100082"
+},
+{
+"name": "Rohtas",
+"state": "Bihar",
+"lat": 24.9393,
+"lon": 83.9799,
+"osm_id": "relation/1963164",
+"lgd_code": "215",
+"wikidata": "Q100085"
+},
+{
+"name": "Saharsa",
+"state": "Bihar",
+"lat": 25.8329,
+"lon": 86.5937,
+"osm_id": "relation/1568262",
+"lgd_code": "216",
+"wikidata": "Q100120"
+},
+{
+"name": "Samastipur",
+"state": "Bihar",
+"lat": 25.7748,
+"lon": 85.9599,
+"osm_id": "relation/1960291",
+"lgd_code": "217",
+"wikidata": "Q100117"
+},
+{
+"name": "Saran",
+"state": "Bihar",
+"lat": 25.9217,
+"lon": 84.8011,
+"osm_id": "relation/1960276",
+"lgd_code": "218",
+"wikidata": "Q100146"
+},
+{
+"name": "Sheikhpura",
+"state": "Bihar",
+"lat": 25.1252,
+"lon": 85.8102,
+"osm_id": "relation/1963177",
+"lgd_code": "219",
+"wikidata": "Q100093"
+},
+{
+"name": "Sheohar",
+"state": "Bihar",
+"lat": 26.4933,
+"lon": 85.2906,
+"osm_id": "relation/1960150",
+"lgd_code": "220",
+"wikidata": "Q100095"
+},
+{
+"name": "Sitamarhi",
+"state": "Bihar",
+"lat": 26.5716,
+"lon": 85.5312,
+"osm_id": "relation/1568265",
+"lgd_code": "221",
+"wikidata": "Q100144"
+},
+{
+"name": "Siwan",
+"state": "Bihar",
+"lat": 26.1312,
+"lon": 84.3937,
+"osm_id": "relation/1960265",
+"lgd_code": "222",
+"wikidata": "Q100131"
+},
+{
+"name": "Supaul",
+"state": "Bihar",
+"lat": 26.2768,
+"lon": 86.7625,
+"osm_id": "relation/1568264",
+"lgd_code": "223",
+"wikidata": "Q100139"
+},
+{
+"name": "Vaishali",
+"state": "Bihar",
+"lat": 25.7494,
+"lon": 85.3562,
+"osm_id": "relation/1960289",
+"lgd_code": "224",
+"wikidata": "Q100130"
+},
+{
+"name": "West Champaran",
+"state": "Bihar",
+"lat": 27.0519,
+"lon": 84.2989,
+"osm_id": "relation/1960144",
+"lgd_code": "211",
+"wikidata": "Q100124"
+},
+{
+"name": "Chandigarh",
+"state": "Chandigarh",
+"lat": 30.73,
+"lon": 76.777,
+"osm_id": "relation/9552697",
+"lgd_code": "44",
+"wikidata": "Q5071071"
+},
+{
+"name": "Balod",
+"state": "Chhattisgarh",
+"lat": 20.7277,
+"lon": 81.1603,
+"osm_id": "relation/9523297",
+"lgd_code": "646",
+"wikidata": "Q16056266"
+},
+{
+"name": "Baloda Bazar",
+"state": "Chhattisgarh",
+"lat": 21.5731,
+"lon": 82.1804,
+"osm_id": "relation/9523380",
+"lgd_code": "644",
+"wikidata": "Q15663455"
+},
+{
+"name": "Balrampur",
+"state": "Chhattisgarh",
+"lat": 23.6287,
+"lon": 83.3834,
+"osm_id": "relation/9523467",
+"lgd_code": "649",
+"wikidata": "Q16056268"
+},
+{
+"name": "Bastar",
+"state": "Chhattisgarh",
+"lat": 19.0681,
+"lon": 81.7962,
+"osm_id": "relation/1972717",
+"lgd_code": "374",
+"wikidata": "Q100152"
+},
+{
+"name": "Bemetara",
+"state": "Chhattisgarh",
+"lat": 21.6784,
+"lon": 81.5379,
+"osm_id": "relation/9524220",
+"lgd_code": "650",
+"wikidata": "Q16254159"
+},
+{
+"name": "Bijapur",
+"state": "Chhattisgarh",
+"lat": 18.769,
+"lon": 80.7374,
+"osm_id": "relation/9524142",
+"lgd_code": "636",
+"wikidata": "Q100164"
+},
+{
+"name": "Bilaspur",
+"state": "Chhattisgarh",
+"lat": 22.1641,
+"lon": 82.1022,
+"osm_id": "relation/1972176",
+"lgd_code": "375",
+"wikidata": "Q100157"
+},
+{
+"name": "Dantewada",
+"state": "Chhattisgarh",
+"lat": 18.8657,
+"lon": 81.4445,
+"osm_id": "relation/1972718",
+"lgd_code": "376",
+"wikidata": "Q100211"
+},
+{
+"name": "Dhamtari",
+"state": "Chhattisgarh",
+"lat": 20.5354,
+"lon": 81.7953,
+"osm_id": "relation/1972719",
+"lgd_code": "377",
+"wikidata": "Q100190"
+},
+{
+"name": "Durg",
+"state": "Chhattisgarh",
+"lat": 21.1972,
+"lon": 81.3867,
+"osm_id": "relation/1972688",
+"lgd_code": "378",
+"wikidata": "Q100182"
+},
+{
+"name": "Gariaband",
+"state": "Chhattisgarh",
+"lat": 20.4296,
+"lon": 82.2984,
+"osm_id": "relation/9523416",
+"lgd_code": "645",
+"wikidata": "Q16961365"
+},
+{
+"name": "Gaurela-Pendra-Marwahi",
+"state": "Chhattisgarh",
+"lat": 22.8313,
+"lon": 81.9838,
+"osm_id": "relation/10330099",
+"lgd_code": "734",
+"wikidata": "Q96584972"
+},
+{
+"name": "Janjgir-Champa",
+"state": "Chhattisgarh",
+"lat": 21.9865,
+"lon": 82.5732,
+"osm_id": "relation/9524254",
+"lgd_code": "379",
+"wikidata": "Q2575633"
+},
+{
+"name": "Jashpur",
+"state": "Chhattisgarh",
+"lat": 22.7703,
+"lon": 83.8891,
+"osm_id": "relation/1972132",
+"lgd_code": "380",
+"wikidata": "Q2577551"
+},
+{
+"name": "Kabirdham",
+"state": "Chhattisgarh",
+"lat": 22.1149,
+"lon": 81.1907,
+"osm_id": "relation/1972689",
+"lgd_code": "382",
+"wikidata": "Q2450255"
+},
+{
+"name": "Khairagarh-Chhuikhadan-Gandai",
+"state": "Chhattisgarh",
+"lat": 21.5288,
+"lon": 80.9332,
+"osm_id": "relation/14722673",
+"lgd_code": "759",
+"wikidata": "Q113485010"
+},
+{
+"name": "Kondagaon",
+"state": "Chhattisgarh",
+"lat": 19.7086,
+"lon": 81.6791,
+"osm_id": "relation/9526430",
+"lgd_code": "643",
+"wikidata": "Q12420995"
+},
+{
+"name": "Korba",
+"state": "Chhattisgarh",
+"lat": 22.5202,
+"lon": 82.6283,
+"osm_id": "relation/1972670",
+"lgd_code": "383",
+"wikidata": "Q2299121"
+},
+{
+"name": "Koriya",
+"state": "Chhattisgarh",
+"lat": 23.4763,
+"lon": 82.51,
+"osm_id": "relation/1972177",
+"lgd_code": "384",
+"wikidata": "Q2295896"
+},
+{
+"name": "Mahasamund",
+"state": "Chhattisgarh",
+"lat": 21.1924,
+"lon": 82.6334,
+"osm_id": "relation/1972681",
+"lgd_code": "385",
+"wikidata": "Q2450240"
+},
+{
+"name": "Manendragarh-Chirimiri-Bharatpur",
+"state": "Chhattisgarh",
+"lat": 23.4317,
+"lon": 82.0922,
+"osm_id": "relation/14769062",
+"lgd_code": "760",
+"wikidata": "Q108427451"
+},
+{
+"name": "Mohla-Manpur-Ambagarh Chowki",
+"state": "Chhattisgarh",
+"lat": 20.4946,
+"lon": 80.6976,
+"osm_id": "relation/14769065",
+"lgd_code": "761",
+"wikidata": "Q108569901"
+},
+{
+"name": "Mungeli",
+"state": "Chhattisgarh",
+"lat": 22.2446,
+"lon": 81.753,
+"osm_id": "relation/9526513",
+"lgd_code": "647",
+"wikidata": "Q13476249"
+},
+{
+"name": "Narayanpur",
+"state": "Chhattisgarh",
+"lat": 19.584,
+"lon": 81.0899,
+"osm_id": "relation/9526431",
+"lgd_code": "637",
+"wikidata": "Q2322000"
+},
+{
+"name": "Raigarh",
+"state": "Chhattisgarh",
+"lat": 22.2359,
+"lon": 83.3703,
+"osm_id": "relation/1972671",
+"lgd_code": "386",
+"wikidata": "Q2286310"
+},
+{
+"name": "Raipur",
+"state": "Chhattisgarh",
+"lat": 21.283,
+"lon": 81.8644,
+"osm_id": "relation/1972682",
+"lgd_code": "387",
+"wikidata": "Q2295914"
+},
+{
+"name": "Rajnandgaon",
+"state": "Chhattisgarh",
+"lat": 21.0681,
+"lon": 80.8202,
+"osm_id": "relation/1972694",
+"lgd_code": "388",
+"wikidata": "Q2341800"
+},
+{
+"name": "Sakti",
+"state": "Chhattisgarh",
+"lat": 21.9243,
+"lon": 83.031,
+"osm_id": "relation/14722587",
+"lgd_code": "762",
+"wikidata": "Q108569905"
+},
+{
+"name": "Sarangarh-Bilaigarh",
+"state": "Chhattisgarh",
+"lat": 21.5428,
+"lon": 83.0511,
+"osm_id": "relation/14722644",
+"lgd_code": "763",
+"wikidata": "Q108569900"
+},
+{
+"name": "Sukma",
+"state": "Chhattisgarh",
+"lat": 18.2783,
+"lon": 81.4396,
+"osm_id": "relation/9524016",
+"lgd_code": "642",
+"wikidata": "Q16933590"
+},
+{
+"name": "Surajpur",
+"state": "Chhattisgarh",
+"lat": 23.3572,
+"lon": 82.9323,
+"osm_id": "relation/9523796",
+"lgd_code": "648",
+"wikidata": "Q16938031"
+},
+{
+"name": "Surguja",
+"state": "Chhattisgarh",
+"lat": 22.9466,
+"lon": 83.223,
+"osm_id": "relation/1972133",
+"lgd_code": "389",
+"wikidata": "Q1805075"
+},
+{
+"name": "Uttar Bastar Kanker",
+"state": "Chhattisgarh",
+"lat": 20.1286,
+"lon": 81.1083,
+"osm_id": "relation/1972720",
+"lgd_code": "381",
+"wikidata": "Q2310530"
+},
+{
+"name": "Daman",
+"state": "Dadra and Nagar Haveli and Daman and Diu",
+"lat": 20.4181,
+"lon": 72.861,
+"osm_id": "relation/1953042",
+"lgd_code": "463",
+"wikidata": "Q1158197"
+},
+{
+"name": "Central Delhi",
+"state": "Delhi",
+"lat": 28.6384,
+"lon": 77.1718,
+"osm_id": "relation/21181217",
+"lgd_code": "77",
+"wikidata": "Q107941"
+},
+{
+"name": "Central North Delhi",
+"state": "Delhi",
+"lat": 28.693,
+"lon": 77.1487,
+"osm_id": "relation/21181213",
+"lgd_code": "796",
+"wikidata": "Q140804026"
+},
+{
+"name": "East Delhi",
+"state": "Delhi",
+"lat": 28.6253,
+"lon": 77.2886,
+"osm_id": "relation/21181221",
+"lgd_code": "78",
+"wikidata": "Q107960"
+},
+{
+"name": "New Delhi",
+"state": "Delhi",
+"lat": 28.5917,
+"lon": 77.1607,
+"osm_id": "relation/21181218",
+"lgd_code": "79",
+"wikidata": "Q8560886"
+},
+{
+"name": "North Delhi",
+"state": "Delhi",
+"lat": 28.7318,
+"lon": 77.1826,
+"osm_id": "relation/21181219",
+"lgd_code": "80",
+"wikidata": "Q693367"
+},
+{
+"name": "North East Delhi",
+"state": "Delhi",
+"lat": 28.7183,
+"lon": 77.2791,
+"osm_id": "relation/21181220",
+"lgd_code": "81",
+"wikidata": "Q429329"
+},
+{
+"name": "North West Delhi",
+"state": "Delhi",
+"lat": 28.7061,
+"lon": 77.0834,
+"osm_id": "relation/21181214",
+"lgd_code": "82",
+"wikidata": "Q766125"
+},
+{
+"name": "Old Delhi",
+"state": "Delhi",
+"lat": 28.6651,
+"lon": 77.2112,
+"osm_id": "relation/21181212",
+"lgd_code": "795",
+"wikidata": "Q140721912"
+},
+{
+"name": "Outer North Delhi",
+"state": "Delhi",
+"lat": 28.7612,
+"lon": 77.0828,
+"osm_id": "relation/21181211",
+"lgd_code": "794",
+"wikidata": "Q140805546"
+},
+{
+"name": "South Delhi",
+"state": "Delhi",
+"lat": 28.4992,
+"lon": 77.1771,
+"osm_id": "relation/21181223",
+"lgd_code": "83",
+"wikidata": "Q2061938"
+},
+{
+"name": "South East Delhi",
+"state": "Delhi",
+"lat": 28.5656,
+"lon": 77.2773,
+"osm_id": "relation/21181222",
+"lgd_code": "670",
+"wikidata": "Q25553535"
+},
+{
+"name": "South West Delhi",
+"state": "Delhi",
+"lat": 28.5862,
+"lon": 76.9942,
+"osm_id": "relation/21181216",
+"lgd_code": "84",
+"wikidata": "Q2379189"
+},
+{
+"name": "West Delhi",
+"state": "Delhi",
+"lat": 28.6412,
+"lon": 77.0719,
+"osm_id": "relation/21181215",
+"lgd_code": "85",
+"wikidata": "Q549807"
+},
+{
+"name": "Kushavati",
+"state": "Goa",
+"lat": 15.1222,
+"lon": 74.124,
+"osm_id": "relation/20712447",
+"lgd_code": "",
+"wikidata": "Q137802695"
+},
+{
+"name": "North Goa",
+"state": "Goa",
+"lat": 15.6044,
+"lon": 73.979,
+"osm_id": "relation/1997193",
+"lgd_code": "551",
+"wikidata": "Q108234"
+},
+{
+"name": "South Goa",
+"state": "Goa",
+"lat": 15.3377,
+"lon": 73.9328,
+"osm_id": "relation/1997194",
+"lgd_code": "552",
+"wikidata": "Q108244"
+},
+{
+"name": "Ahmedabad",
+"state": "Gujarat",
+"lat": 22.7457,
+"lon": 72.3413,
+"osm_id": "relation/1953566",
+"lgd_code": "438",
+"wikidata": "Q401686"
+},
+{
+"name": "Amreli",
+"state": "Gujarat",
+"lat": 21.4178,
+"lon": 71.2082,
+"osm_id": "relation/8269655",
+"lgd_code": "439",
+"wikidata": "Q257946"
+},
+{
+"name": "Anand",
+"state": "Gujarat",
+"lat": 22.474,
+"lon": 72.7806,
+"osm_id": "relation/1953588",
+"lgd_code": "440",
+"wikidata": "Q485683"
+},
+{
+"name": "Aravalli",
+"state": "Gujarat",
+"lat": 23.4844,
+"lon": 73.3136,
+"osm_id": "relation/8269767",
+"lgd_code": "672",
+"wikidata": "Q12175285"
+},
+{
+"name": "Banaskantha",
+"state": "Gujarat",
+"lat": 24.2694,
+"lon": 72.3414,
+"osm_id": "relation/8271163",
+"lgd_code": "441",
+"wikidata": "Q806125"
+},
+{
+"name": "Bharuch",
+"state": "Gujarat",
+"lat": 21.8358,
+"lon": 73.0039,
+"osm_id": "relation/8269591",
+"lgd_code": "442",
+"wikidata": "Q854900"
+},
+{
+"name": "Bhavnagar",
+"state": "Gujarat",
+"lat": 21.5658,
+"lon": 71.919,
+"osm_id": "relation/8259844",
+"lgd_code": "443",
+"wikidata": "Q854963"
+},
+{
+"name": "Botad",
+"state": "Gujarat",
+"lat": 22.0467,
+"lon": 71.716,
+"osm_id": "relation/8269654",
+"lgd_code": "676",
+"wikidata": "Q14505072"
+},
+{
+"name": "Chhota Udaipur",
+"state": "Gujarat",
+"lat": 22.2224,
+"lon": 73.8836,
+"osm_id": "relation/8269653",
+"lgd_code": "668",
+"wikidata": "Q5979243"
+},
+{
+"name": "Dadra and Nagar Haveli",
+"state": "Gujarat",
+"lat": 20.2052,
+"lon": 73.0708,
+"osm_id": "relation/1952531",
+"lgd_code": "465",
+"wikidata": "Q46107"
+},
+{
+"name": "Dahod",
+"state": "Gujarat",
+"lat": 22.9193,
+"lon": 74.1254,
+"osm_id": "relation/1950885",
+"lgd_code": "445",
+"wikidata": "Q186518"
+},
+{
+"name": "Dang",
+"state": "Gujarat",
+"lat": 20.8233,
+"lon": 73.7048,
+"osm_id": "relation/1952515",
+"lgd_code": "444",
+"wikidata": "Q1135616"
+},
+{
+"name": "Devbhumi Dwaraka",
+"state": "Gujarat",
+"lat": 22.1633,
+"lon": 69.4361,
+"osm_id": "relation/8259845",
+"lgd_code": "674",
+"wikidata": "Q14594717"
+},
+{
+"name": "Diu",
+"state": "Gujarat",
+"lat": 20.7335,
+"lon": 71.0142,
+"osm_id": "relation/9576276",
+"lgd_code": "464",
+"wikidata": "Q2552347"
+},
+{
+"name": "Gandhinagar",
+"state": "Gujarat",
+"lat": 23.282,
+"lon": 72.6828,
+"osm_id": "relation/1950886",
+"lgd_code": "446",
+"wikidata": "Q1772860"
+},
+{
+"name": "Gir Somnath",
+"state": "Gujarat",
+"lat": 20.9299,
+"lon": 70.7314,
+"osm_id": "relation/8258731",
+"lgd_code": "675",
+"wikidata": "Q15244465"
+},
+{
+"name": "Jamnagar",
+"state": "Gujarat",
+"lat": 22.33,
+"lon": 70.1942,
+"osm_id": "relation/8271162",
+"lgd_code": "447",
+"wikidata": "Q2982118"
+},
+{
+"name": "Junagadh",
+"state": "Gujarat",
+"lat": 21.3365,
+"lon": 70.4461,
+"osm_id": "relation/8258732",
+"lgd_code": "448",
+"wikidata": "Q1797344"
+},
+{
+"name": "Kheda",
+"state": "Gujarat",
+"lat": 22.8528,
+"lon": 72.9621,
+"osm_id": "relation/1950887",
+"lgd_code": "450",
+"wikidata": "Q1755463"
+},
+{
+"name": "Kutch",
+"state": "Gujarat",
+"lat": 23.71,
+"lon": 69.9688,
+"osm_id": "relation/8269590",
+"lgd_code": "449",
+"wikidata": "Q1063417"
+},
+{
+"name": "Mahesana",
+"state": "Gujarat",
+"lat": 23.5705,
+"lon": 72.4035,
+"osm_id": "relation/1950800",
+"lgd_code": "451",
+"wikidata": "Q2019694"
+},
+{
+"name": "Mahisagar",
+"state": "Gujarat",
+"lat": 23.1912,
+"lon": 73.6308,
+"osm_id": "relation/8269916",
+"lgd_code": "669",
+"wikidata": "Q5706885"
+},
+{
+"name": "Morbi",
+"state": "Gujarat",
+"lat": 22.8007,
+"lon": 70.8983,
+"osm_id": "relation/8269589",
+"lgd_code": "673",
+"wikidata": "Q5979727"
+},
+{
+"name": "Nandurbar",
+"state": "Gujarat",
+"lat": 21.5142,
+"lon": 74.1745,
+"osm_id": "relation/1985899",
+"lgd_code": "486",
+"wikidata": "Q1623525"
+},
+{
+"name": "Narmada",
+"state": "Gujarat",
+"lat": 21.7392,
+"lon": 73.643,
+"osm_id": "relation/1952513",
+"lgd_code": "452",
+"wikidata": "Q1797230"
+},
+{
+"name": "Navsari",
+"state": "Gujarat",
+"lat": 20.8297,
+"lon": 73.1096,
+"osm_id": "relation/8260119",
+"lgd_code": "453",
+"wikidata": "Q1797349"
+},
+{
+"name": "Panchmahal",
+"state": "Gujarat",
+"lat": 22.6978,
+"lon": 73.6392,
+"osm_id": "relation/1950888",
+"lgd_code": "454",
+"wikidata": "Q1781463"
+},
+{
+"name": "Patan",
+"state": "Gujarat",
+"lat": 23.7737,
+"lon": 71.7582,
+"osm_id": "relation/1950801",
+"lgd_code": "455",
+"wikidata": "Q1815269"
+},
+{
+"name": "Porbandar",
+"state": "Gujarat",
+"lat": 21.603,
+"lon": 69.7598,
+"osm_id": "relation/8259846",
+"lgd_code": "456",
+"wikidata": "Q1772815"
+},
+{
+"name": "Rajkot",
+"state": "Gujarat",
+"lat": 22.0696,
+"lon": 70.7694,
+"osm_id": "relation/1953567",
+"lgd_code": "457",
+"wikidata": "Q1815245"
+},
+{
+"name": "Sabarkantha",
+"state": "Gujarat",
+"lat": 23.8687,
+"lon": 73.0724,
+"osm_id": "relation/1950802",
+"lgd_code": "458",
+"wikidata": "Q1772856"
+},
+{
+"name": "Surat",
+"state": "Gujarat",
+"lat": 21.1924,
+"lon": 73.1444,
+"osm_id": "relation/1952514",
+"lgd_code": "459",
+"wikidata": "Q1797317"
+},
+{
+"name": "Surendranagar",
+"state": "Gujarat",
+"lat": 22.8252,
+"lon": 71.5851,
+"osm_id": "relation/1953043",
+"lgd_code": "460",
+"wikidata": "Q237535"
+},
+{
+"name": "Tapi",
+"state": "Gujarat",
+"lat": 21.189,
+"lon": 73.7648,
+"osm_id": "relation/8269768",
+"lgd_code": "641",
+"wikidata": "Q670165"
+},
+{
+"name": "Vadodara",
+"state": "Gujarat",
+"lat": 22.3184,
+"lon": 73.2146,
+"osm_id": "relation/1950889",
+"lgd_code": "461",
+"wikidata": "Q578285"
+},
+{
+"name": "Valsad",
+"state": "Gujarat",
+"lat": 20.4321,
+"lon": 73.1158,
+"osm_id": "relation/1952532",
+"lgd_code": "462",
+"wikidata": "Q1946743"
+},
+{
+"name": "Vav-Tharad",
+"state": "Gujarat",
+"lat": 24.3042,
+"lon": 71.6542,
+"osm_id": "relation/19969313",
+"lgd_code": "789",
+"wikidata": "Q131621560"
+},
+{
+"name": "Ambala",
+"state": "Haryana",
+"lat": 30.3146,
+"lon": 76.8794,
+"osm_id": "relation/1942687",
+"lgd_code": "58",
+"wikidata": "Q2086226"
+},
+{
+"name": "Bhiwani",
+"state": "Haryana",
+"lat": 28.7323,
+"lon": 75.9196,
+"osm_id": "relation/1942977",
+"lgd_code": "59",
+"wikidata": "Q1852857"
+},
+{
+"name": "Charkhi Dadri",
+"state": "Haryana",
+"lat": 28.6001,
+"lon": 76.1408,
+"osm_id": "relation/9520279",
+"lgd_code": "701",
+"wikidata": "Q28172110"
+},
+{
+"name": "Faridabad",
+"state": "Haryana",
+"lat": 28.3569,
+"lon": 77.3282,
+"osm_id": "relation/1943060",
+"lgd_code": "60",
+"wikidata": "Q2086173"
+},
+{
+"name": "Fatehabad",
+"state": "Haryana",
+"lat": 29.5356,
+"lon": 75.5921,
+"osm_id": "relation/1942926",
+"lgd_code": "61",
+"wikidata": "Q2301753"
+},
+{
+"name": "Gurugram",
+"state": "Haryana",
+"lat": 28.3707,
+"lon": 76.9464,
+"osm_id": "relation/3577685",
+"lgd_code": "62",
+"wikidata": "Q1815766"
+},
+{
+"name": "Hisar",
+"state": "Haryana",
+"lat": 29.2395,
+"lon": 75.823,
+"osm_id": "relation/1942921",
+"lgd_code": "63",
+"wikidata": "Q1815773"
+},
+{
+"name": "Jhajjar",
+"state": "Haryana",
+"lat": 28.5969,
+"lon": 76.6254,
+"osm_id": "relation/1942946",
+"lgd_code": "64",
+"wikidata": "Q1948260"
+},
+{
+"name": "Jind",
+"state": "Haryana",
+"lat": 29.45,
+"lon": 76.3477,
+"osm_id": "relation/1942917",
+"lgd_code": "65",
+"wikidata": "Q268605"
+},
+{
+"name": "Kaithal",
+"state": "Haryana",
+"lat": 29.8539,
+"lon": 76.4427,
+"osm_id": "relation/1942913",
+"lgd_code": "66",
+"wikidata": "Q614037"
+},
+{
+"name": "Karnal",
+"state": "Haryana",
+"lat": 29.7255,
+"lon": 76.8651,
+"osm_id": "relation/1942858",
+"lgd_code": "67",
+"wikidata": "Q607915"
+},
+{
+"name": "Kurukshetra",
+"state": "Haryana",
+"lat": 30.0608,
+"lon": 76.7722,
+"osm_id": "relation/1942848",
+"lgd_code": "68",
+"wikidata": "Q980118"
+},
+{
+"name": "Mahendragarh",
+"state": "Haryana",
+"lat": 28.1328,
+"lon": 76.1318,
+"osm_id": "relation/1942988",
+"lgd_code": "69",
+"wikidata": "Q684019"
+},
+{
+"name": "Nuh",
+"state": "Haryana",
+"lat": 27.9936,
+"lon": 77.0952,
+"osm_id": "relation/9514809",
+"lgd_code": "604",
+"wikidata": "Q2216696"
+},
+{
+"name": "Palwal",
+"state": "Haryana",
+"lat": 28.0599,
+"lon": 77.3355,
+"osm_id": "relation/9514899",
+"lgd_code": "619",
+"wikidata": "Q2724926"
+},
+{
+"name": "Panchkula",
+"state": "Haryana",
+"lat": 30.6897,
+"lon": 76.9759,
+"osm_id": "relation/1942810",
+"lgd_code": "70",
+"wikidata": "Q1898143"
+},
+{
+"name": "Panipat",
+"state": "Haryana",
+"lat": 29.3479,
+"lon": 76.8969,
+"osm_id": "relation/1942866",
+"lgd_code": "71",
+"wikidata": "Q2086163"
+},
+{
+"name": "Rewari",
+"state": "Haryana",
+"lat": 28.2179,
+"lon": 76.5697,
+"osm_id": "relation/1942991",
+"lgd_code": "72",
+"wikidata": "Q2301759"
+},
+{
+"name": "Rohtak",
+"state": "Haryana",
+"lat": 28.8901,
+"lon": 76.5405,
+"osm_id": "relation/1942937",
+"lgd_code": "73",
+"wikidata": "Q967388"
+},
+{
+"name": "Sirsa",
+"state": "Haryana",
+"lat": 29.608,
+"lon": 74.8887,
+"osm_id": "relation/1942933",
+"lgd_code": "74",
+"wikidata": "Q526101"
+},
+{
+"name": "Sonipat",
+"state": "Haryana",
+"lat": 29.0413,
+"lon": 76.8546,
+"osm_id": "relation/1942904",
+"lgd_code": "75",
+"wikidata": "Q2241746"
+},
+{
+"name": "Yamunanagar",
+"state": "Haryana",
+"lat": 30.2159,
+"lon": 77.3337,
+"osm_id": "relation/5385295",
+"lgd_code": "76",
+"wikidata": "Q1873644"
+},
+{
+"name": "Bilaspur",
+"state": "Himachal Pradesh",
+"lat": 31.4024,
+"lon": 76.6599,
+"osm_id": "relation/364166",
+"lgd_code": "15",
+"wikidata": "Q1478939"
+},
+{
+"name": "Chamba",
+"state": "Himachal Pradesh",
+"lat": 32.6922,
+"lon": 76.3371,
+"osm_id": "relation/364070",
+"lgd_code": "16",
+"wikidata": "Q1060614"
+},
+{
+"name": "Hamirpur",
+"state": "Himachal Pradesh",
+"lat": 31.6544,
+"lon": 76.5146,
+"osm_id": "relation/364155",
+"lgd_code": "17",
+"wikidata": "Q2086180"
+},
+{
+"name": "Kangra",
+"state": "Himachal Pradesh",
+"lat": 32.0765,
+"lon": 76.3359,
+"osm_id": "relation/364074",
+"lgd_code": "18",
+"wikidata": "Q727232"
+},
+{
+"name": "Kinnaur",
+"state": "Himachal Pradesh",
+"lat": 31.593,
+"lon": 78.3803,
+"osm_id": "relation/364046",
+"lgd_code": "19",
+"wikidata": "Q1862950"
+},
+{
+"name": "Kullu",
+"state": "Himachal Pradesh",
+"lat": 31.8778,
+"lon": 77.402,
+"osm_id": "relation/364055",
+"lgd_code": "20",
+"wikidata": "Q2980880"
+},
+{
+"name": "Lahaul and Spiti",
+"state": "Himachal Pradesh",
+"lat": 32.5016,
+"lon": 77.5329,
+"osm_id": "relation/363496",
+"lgd_code": "21",
+"wikidata": "Q837595"
+},
+{
+"name": "Mandi",
+"state": "Himachal Pradesh",
+"lat": 31.6516,
+"lon": 77.0049,
+"osm_id": "relation/364161",
+"lgd_code": "22",
+"wikidata": "Q1892161"
+},
+{
+"name": "Shimla",
+"state": "Himachal Pradesh",
+"lat": 31.239,
+"lon": 77.653,
+"osm_id": "relation/364181",
+"lgd_code": "23",
+"wikidata": "Q1921404"
+},
+{
+"name": "Sirmaur",
+"state": "Himachal Pradesh",
+"lat": 30.699,
+"lon": 77.4218,
+"osm_id": "relation/364175",
+"lgd_code": "24",
+"wikidata": "Q654331"
+},
+{
+"name": "Solan",
+"state": "Himachal Pradesh",
+"lat": 31.0569,
+"lon": 76.9248,
+"osm_id": "relation/364168",
+"lgd_code": "25",
+"wikidata": "Q2980937"
+},
+{
+"name": "Una",
+"state": "Himachal Pradesh",
+"lat": 31.5835,
+"lon": 76.2079,
+"osm_id": "relation/364144",
+"lgd_code": "26",
+"wikidata": "Q2301741"
+},
+{
+"name": "Anantnag",
+"state": "Jammu and Kashmir",
+"lat": 33.8092,
+"lon": 75.3115,
+"osm_id": "relation/1944955",
+"lgd_code": "1",
+"wikidata": "Q2982349"
+},
+{
+"name": "Bandipore",
+"state": "Jammu and Kashmir",
+"lat": 34.4562,
+"lon": 74.9075,
+"osm_id": "relation/9544369",
+"lgd_code": "623",
+"wikidata": "Q2983553"
+},
+{
+"name": "Baramulla",
+"state": "Jammu and Kashmir",
+"lat": 34.1773,
+"lon": 74.2988,
+"osm_id": "relation/1944971",
+"lgd_code": "3",
+"wikidata": "Q1912057"
+},
+{
+"name": "Budgam",
+"state": "Jammu and Kashmir",
+"lat": 33.9099,
+"lon": 74.6587,
+"osm_id": "relation/1944967",
+"lgd_code": "2",
+"wikidata": "Q2594218"
+},
+{
+"name": "Doda",
+"state": "Jammu and Kashmir",
+"lat": 33.1343,
+"lon": 75.7797,
+"osm_id": "relation/9550696",
+"lgd_code": "4",
+"wikidata": "Q2298979"
+},
+{
+"name": "Ganderbal",
+"state": "Jammu and Kashmir",
+"lat": 34.2882,
+"lon": 75.0703,
+"osm_id": "relation/9544371",
+"lgd_code": "626",
+"wikidata": "Q2556028"
+},
+{
+"name": "Jammu",
+"state": "Jammu and Kashmir",
+"lat": 32.7681,
+"lon": 74.7385,
+"osm_id": "relation/1944884",
+"lgd_code": "5",
+"wikidata": "Q1947371"
+},
+{
+"name": "Kathua",
+"state": "Jammu and Kashmir",
+"lat": 32.5827,
+"lon": 75.5635,
+"osm_id": "relation/1944878",
+"lgd_code": "7",
+"wikidata": "Q2375700"
+},
+{
+"name": "Kishtwar",
+"state": "Jammu and Kashmir",
+"lat": 33.616,
+"lon": 76.085,
+"osm_id": "relation/1944353",
+"lgd_code": "620",
+"wikidata": "Q2321899"
+},
+{
+"name": "Kulgam",
+"state": "Jammu and Kashmir",
+"lat": 33.6251,
+"lon": 74.8446,
+"osm_id": "relation/9547248",
+"lgd_code": "622",
+"wikidata": "Q2321867"
+},
+{
+"name": "Kupwara",
+"state": "Jammu and Kashmir",
+"lat": 34.514,
+"lon": 74.177,
+"osm_id": "relation/1944978",
+"lgd_code": "8",
+"wikidata": "Q2297306"
+},
+{
+"name": "Poonch",
+"state": "Jammu and Kashmir",
+"lat": 33.7031,
+"lon": 74.268,
+"osm_id": "relation/1944922",
+"lgd_code": "10",
+"wikidata": "Q2983134"
+},
+{
+"name": "Pulwama",
+"state": "Jammu and Kashmir",
+"lat": 33.9497,
+"lon": 74.9735,
+"osm_id": "relation/1944956",
+"lgd_code": "11",
+"wikidata": "Q2085364"
+},
+{
+"name": "Rajouri",
+"state": "Jammu and Kashmir",
+"lat": 33.2663,
+"lon": 74.3461,
+"osm_id": "relation/1944895",
+"lgd_code": "12",
+"wikidata": "Q544279"
+},
+{
+"name": "Ramban",
+"state": "Jammu and Kashmir",
+"lat": 33.3317,
+"lon": 75.1953,
+"osm_id": "relation/9550697",
+"lgd_code": "621",
+"wikidata": "Q2321939"
+},
+{
+"name": "Reasi",
+"state": "Jammu and Kashmir",
+"lat": 33.206,
+"lon": 74.8055,
+"osm_id": "relation/9548023",
+"lgd_code": "627",
+"wikidata": "Q2321956"
+},
+{
+"name": "Samba",
+"state": "Jammu and Kashmir",
+"lat": 32.5759,
+"lon": 75.1095,
+"osm_id": "relation/9550285",
+"lgd_code": "624",
+"wikidata": "Q1117086"
+},
+{
+"name": "Shopian",
+"state": "Jammu and Kashmir",
+"lat": 33.7216,
+"lon": 74.8079,
+"osm_id": "relation/9547249",
+"lgd_code": "625",
+"wikidata": "Q2073646"
+},
+{
+"name": "Srinagar",
+"state": "Jammu and Kashmir",
+"lat": 34.118,
+"lon": 74.907,
+"osm_id": "relation/9544370",
+"lgd_code": "13",
+"wikidata": "Q1506029"
+},
+{
+"name": "Udhampur",
+"state": "Jammu and Kashmir",
+"lat": 32.9118,
+"lon": 75.3337,
+"osm_id": "relation/1944390",
+"lgd_code": "14",
+"wikidata": "Q1947311"
+},
+{
+"name": "Bokaro",
+"state": "Jharkhand",
+"lat": 23.6987,
+"lon": 86.0318,
+"osm_id": "relation/1972059",
+"lgd_code": "322",
+"wikidata": "Q2295925"
+},
+{
+"name": "Chatra",
+"state": "Jharkhand",
+"lat": 24.1061,
+"lon": 84.9125,
+"osm_id": "relation/1971807",
+"lgd_code": "323",
+"wikidata": "Q1979499"
+},
+{
+"name": "Deoghar",
+"state": "Jharkhand",
+"lat": 24.3287,
+"lon": 86.7604,
+"osm_id": "relation/1960263",
+"lgd_code": "324",
+"wikidata": "Q2030017"
+},
+{
+"name": "Dhanbad",
+"state": "Jharkhand",
+"lat": 23.8451,
+"lon": 86.4694,
+"osm_id": "relation/7398837",
+"lgd_code": "325",
+"wikidata": "Q2240791"
+},
+{
+"name": "Dumka",
+"state": "Jharkhand",
+"lat": 24.3172,
+"lon": 87.2948,
+"osm_id": "relation/1972071",
+"lgd_code": "326",
+"wikidata": "Q2577657"
+},
+{
+"name": "East Singhbhum",
+"state": "Jharkhand",
+"lat": 22.6137,
+"lon": 86.4771,
+"osm_id": "relation/1972030",
+"lgd_code": "327",
+"wikidata": "Q2452921"
+},
+{
+"name": "Garhwa",
+"state": "Jharkhand",
+"lat": 24.0534,
+"lon": 83.694,
+"osm_id": "relation/1972005",
+"lgd_code": "328",
+"wikidata": "Q2302076"
+},
+{
+"name": "Giridih",
+"state": "Jharkhand",
+"lat": 24.3319,
+"lon": 86.1209,
+"osm_id": "relation/1972052",
+"lgd_code": "329",
+"wikidata": "Q2302065"
+},
+{
+"name": "Godda",
+"state": "Jharkhand",
+"lat": 24.8646,
+"lon": 87.295,
+"osm_id": "relation/1972072",
+"lgd_code": "330",
+"wikidata": "Q638980"
+},
+{
+"name": "Gumla",
+"state": "Jharkhand",
+"lat": 23.159,
+"lon": 84.5232,
+"osm_id": "relation/1972015",
+"lgd_code": "331",
+"wikidata": "Q2295865"
+},
+{
+"name": "Hazaribagh",
+"state": "Jharkhand",
+"lat": 24.0872,
+"lon": 85.4754,
+"osm_id": "relation/1972022",
+"lgd_code": "332",
+"wikidata": "Q1945416"
+},
+{
+"name": "Jamtara",
+"state": "Jharkhand",
+"lat": 23.9804,
+"lon": 86.8794,
+"osm_id": "relation/9526992",
+"lgd_code": "333",
+"wikidata": "Q2980986"
+},
+{
+"name": "Khunti",
+"state": "Jharkhand",
+"lat": 22.9294,
+"lon": 85.2969,
+"osm_id": "relation/9527238",
+"lgd_code": "606",
+"wikidata": "Q367344"
+},
+{
+"name": "Kodarma",
+"state": "Jharkhand",
+"lat": 24.542,
+"lon": 85.6146,
+"osm_id": "relation/1971808",
+"lgd_code": "334",
+"wikidata": "Q2085480"
+},
+{
+"name": "Latehar",
+"state": "Jharkhand",
+"lat": 23.6872,
+"lon": 84.4663,
+"osm_id": "relation/9510815",
+"lgd_code": "335",
+"wikidata": "Q2244762"
+},
+{
+"name": "Lohardaga",
+"state": "Jharkhand",
+"lat": 23.4774,
+"lon": 84.6657,
+"osm_id": "relation/1972016",
+"lgd_code": "336",
+"wikidata": "Q1948301"
+},
+{
+"name": "Pakur",
+"state": "Jharkhand",
+"lat": 24.5332,
+"lon": 87.6506,
+"osm_id": "relation/1972061",
+"lgd_code": "337",
+"wikidata": "Q2295930"
+},
+{
+"name": "Palamu",
+"state": "Jharkhand",
+"lat": 24.2196,
+"lon": 84.1999,
+"osm_id": "relation/9510814",
+"lgd_code": "338",
+"wikidata": "Q1797254"
+},
+{
+"name": "Ramgarh",
+"state": "Jharkhand",
+"lat": 23.6934,
+"lon": 85.5449,
+"osm_id": "relation/9527598",
+"lgd_code": "607",
+"wikidata": "Q2663612"
+},
+{
+"name": "Ranchi",
+"state": "Jharkhand",
+"lat": 23.3005,
+"lon": 85.3841,
+"osm_id": "relation/1972023",
+"lgd_code": "339",
+"wikidata": "Q1947380"
+},
+{
+"name": "Sahibganj",
+"state": "Jharkhand",
+"lat": 25.0323,
+"lon": 87.7079,
+"osm_id": "relation/1972073",
+"lgd_code": "340",
+"wikidata": "Q767878"
+},
+{
+"name": "Seraikela-Kharsawan",
+"state": "Jharkhand",
+"lat": 22.8232,
+"lon": 85.8791,
+"osm_id": "relation/9529288",
+"lgd_code": "341",
+"wikidata": "Q2362658"
+},
+{
+"name": "Simdega",
+"state": "Jharkhand",
+"lat": 22.59,
+"lon": 84.5414,
+"osm_id": "relation/9529264",
+"lgd_code": "342",
+"wikidata": "Q2597889"
+},
+{
+"name": "West Singhbhum",
+"state": "Jharkhand",
+"lat": 22.4282,
+"lon": 85.5151,
+"osm_id": "relation/1972028",
+"lgd_code": "343",
+"wikidata": "Q1950527"
+},
+{
+"name": "Bagalkote",
+"state": "Karnataka",
+"lat": 16.2904,
+"lon": 75.6593,
+"osm_id": "relation/2020666",
+"lgd_code": "524",
+"wikidata": "Q1910231"
+},
+{
+"name": "Ballari",
+"state": "Karnataka",
+"lat": 15.3481,
+"lon": 76.7652,
+"osm_id": "relation/2020692",
+"lgd_code": "528",
+"wikidata": "Q1791926"
+},
+{
+"name": "Belagavi",
+"state": "Karnataka",
+"lat": 16.1578,
+"lon": 74.7733,
+"osm_id": "relation/2020648",
+"lgd_code": "527",
+"wikidata": "Q815464"
+},
+{
+"name": "Bengaluru North",
+"state": "Karnataka",
+"lat": 13.1825,
+"lon": 77.5738,
+"osm_id": "relation/2020588",
+"lgd_code": "526",
+"wikidata": "Q806464"
+},
+{
+"name": "Bengaluru South",
+"state": "Karnataka",
+"lat": 12.7201,
+"lon": 77.3515,
+"osm_id": "relation/4458921",
+"lgd_code": "631",
+"wikidata": "Q427679"
+},
+{
+"name": "Bengaluru Urban",
+"state": "Karnataka",
+"lat": 12.9463,
+"lon": 77.5812,
+"osm_id": "relation/2020589",
+"lgd_code": "525",
+"wikidata": "Q806463"
+},
+{
+"name": "Bidar",
+"state": "Karnataka",
+"lat": 18.0298,
+"lon": 77.1729,
+"osm_id": "relation/2020723",
+"lgd_code": "529",
+"wikidata": "Q1790568"
+},
+{
+"name": "Chamarajanagar",
+"state": "Karnataka",
+"lat": 11.9544,
+"lon": 77.0911,
+"osm_id": "relation/2019940",
+"lgd_code": "531",
+"wikidata": "Q862912"
+},
+{
+"name": "Chikkaballapura",
+"state": "Karnataka",
+"lat": 13.5897,
+"lon": 77.7851,
+"osm_id": "relation/4452723",
+"lgd_code": "630",
+"wikidata": "Q1072629"
+},
+{
+"name": "Chikkamagaluru",
+"state": "Karnataka",
+"lat": 13.4061,
+"lon": 75.7212,
+"osm_id": "relation/2020603",
+"lgd_code": "532",
+"wikidata": "Q743077"
+},
+{
+"name": "Chitradurga",
+"state": "Karnataka",
+"lat": 14.3052,
+"lon": 76.5251,
+"osm_id": "relation/2020623",
+"lgd_code": "533",
+"wikidata": "Q165264"
+},
+{
+"name": "Coorg",
+"state": "Karnataka",
+"lat": 12.3827,
+"lon": 75.7774,
+"osm_id": "relation/2020511",
+"lgd_code": "541",
+"wikidata": "Q1553185"
+},
+{
+"name": "Dakshina Kannada",
+"state": "Karnataka",
+"lat": 12.8226,
+"lon": 75.2234,
+"osm_id": "relation/2020528",
+"lgd_code": "534",
+"wikidata": "Q950571"
+},
+{
+"name": "Davanagere",
+"state": "Karnataka",
+"lat": 14.2558,
+"lon": 75.9662,
+"osm_id": "relation/4210083",
+"lgd_code": "535",
+"wikidata": "Q1863214"
+},
+{
+"name": "Dharwad",
+"state": "Karnataka",
+"lat": 15.3707,
+"lon": 75.1407,
+"osm_id": "relation/2020668",
+"lgd_code": "536",
+"wikidata": "Q1790904"
+},
+{
+"name": "Gadag",
+"state": "Karnataka",
+"lat": 15.4153,
+"lon": 75.6593,
+"osm_id": "relation/2020669",
+"lgd_code": "537",
+"wikidata": "Q2353931"
+},
+{
+"name": "Hassan",
+"state": "Karnataka",
+"lat": 13.0302,
+"lon": 76.0941,
+"osm_id": "relation/2020605",
+"lgd_code": "539",
+"wikidata": "Q956732"
+},
+{
+"name": "Haveri",
+"state": "Karnataka",
+"lat": 14.718,
+"lon": 75.4177,
+"osm_id": "relation/2020670",
+"lgd_code": "540",
+"wikidata": "Q765481"
+},
+{
+"name": "Kalaburagi",
+"state": "Karnataka",
+"lat": 17.2408,
+"lon": 76.8787,
+"osm_id": "relation/2020713",
+"lgd_code": "538",
+"wikidata": "Q2641873"
+},
+{
+"name": "Kolar",
+"state": "Karnataka",
+"lat": 13.1805,
+"lon": 78.2136,
+"osm_id": "relation/2020590",
+"lgd_code": "542",
+"wikidata": "Q2509866"
+},
+{
+"name": "Koppal",
+"state": "Karnataka",
+"lat": 15.5747,
+"lon": 76.2931,
+"osm_id": "relation/2020693",
+"lgd_code": "543",
+"wikidata": "Q956387"
+},
+{
+"name": "Mandya",
+"state": "Karnataka",
+"lat": 12.6366,
+"lon": 76.8317,
+"osm_id": "relation/2020591",
+"lgd_code": "544",
+"wikidata": "Q2768290"
+},
+{
+"name": "Mysuru",
+"state": "Karnataka",
+"lat": 12.1968,
+"lon": 76.5215,
+"osm_id": "relation/2020510",
+"lgd_code": "545",
+"wikidata": "Q591781"
+},
+{
+"name": "Raichur",
+"state": "Karnataka",
+"lat": 16.0547,
+"lon": 76.9159,
+"osm_id": "relation/2020694",
+"lgd_code": "546",
+"wikidata": "Q1430830"
+},
+{
+"name": "Shimoga",
+"state": "Karnataka",
+"lat": 14.0556,
+"lon": 75.252,
+"osm_id": "relation/2020649",
+"lgd_code": "547",
+"wikidata": "Q2981389"
+},
+{
+"name": "Tumakuru",
+"state": "Karnataka",
+"lat": 13.5439,
+"lon": 76.9316,
+"osm_id": "relation/2020624",
+"lgd_code": "548",
+"wikidata": "Q1301635"
+},
+{
+"name": "Udupi",
+"state": "Karnataka",
+"lat": 13.5268,
+"lon": 74.8942,
+"osm_id": "relation/2020529",
+"lgd_code": "549",
+"wikidata": "Q1483337"
+},
+{
+"name": "Uttara Kannada",
+"state": "Karnataka",
+"lat": 14.7254,
+"lon": 74.5787,
+"osm_id": "relation/2020650",
+"lgd_code": "550",
+"wikidata": "Q579205"
+},
+{
+"name": "Vijayanagara",
+"state": "Karnataka",
+"lat": 14.9434,
+"lon": 76.203,
+"osm_id": "relation/12255259",
+"lgd_code": "738",
+"wikidata": "Q104876850"
+},
+{
+"name": "Vijayapura",
+"state": "Karnataka",
+"lat": 16.8143,
+"lon": 75.9024,
+"osm_id": "relation/2020667",
+"lgd_code": "530",
+"wikidata": "Q83108"
+},
+{
+"name": "Yadgir",
+"state": "Karnataka",
+"lat": 16.5739,
+"lon": 76.8852,
+"osm_id": "relation/3686856",
+"lgd_code": "635",
+"wikidata": "Q1786949"
+},
+{
+"name": "Alappuzha",
+"state": "Kerala",
+"lat": 9.5006,
+"lon": 76.4853,
+"osm_id": "relation/3743889",
+"lgd_code": "554",
+"wikidata": "Q928959"
+},
+{
+"name": "Ernakulam",
+"state": "Kerala",
+"lat": 10.0385,
+"lon": 76.5412,
+"osm_id": "relation/3740342",
+"lgd_code": "555",
+"wikidata": "Q1356097"
+},
+{
+"name": "Idukki",
+"state": "Kerala",
+"lat": 9.8154,
+"lon": 77.0201,
+"osm_id": "relation/1819274",
+"lgd_code": "556",
+"wikidata": "Q301821"
+},
+{
+"name": "Kannur",
+"state": "Kerala",
+"lat": 11.9865,
+"lon": 75.5528,
+"osm_id": "relation/2018247",
+"lgd_code": "557",
+"wikidata": "Q2980652"
+},
+{
+"name": "Kasaragod",
+"state": "Kerala",
+"lat": 12.4222,
+"lon": 75.1482,
+"osm_id": "relation/2018248",
+"lgd_code": "558",
+"wikidata": "Q1419703"
+},
+{
+"name": "Kollam",
+"state": "Kerala",
+"lat": 8.9675,
+"lon": 76.8647,
+"osm_id": "relation/2018154",
+"lgd_code": "559",
+"wikidata": "Q1356124"
+},
+{
+"name": "Kottayam",
+"state": "Kerala",
+"lat": 9.6288,
+"lon": 76.6751,
+"osm_id": "relation/3743996",
+"lgd_code": "560",
+"wikidata": "Q1353354"
+},
+{
+"name": "Kozhikode",
+"state": "Kerala",
+"lat": 11.4656,
+"lon": 75.8412,
+"osm_id": "relation/2018249",
+"lgd_code": "561",
+"wikidata": "Q1142979"
+},
+{
+"name": "Malappuram",
+"state": "Kerala",
+"lat": 11.1067,
+"lon": 76.1878,
+"osm_id": "relation/2018186",
+"lgd_code": "562",
+"wikidata": "Q1030918"
+},
+{
+"name": "Palakkad",
+"state": "Kerala",
+"lat": 10.7873,
+"lon": 76.4672,
+"osm_id": "relation/1819321",
+"lgd_code": "563",
+"wikidata": "Q1535742"
+},
+{
+"name": "Pathanamthitta",
+"state": "Kerala",
+"lat": 9.2783,
+"lon": 76.8782,
+"osm_id": "relation/2018176",
+"lgd_code": "564",
+"wikidata": "Q634935"
+},
+{
+"name": "Thiruvananthapuram",
+"state": "Kerala",
+"lat": 8.5778,
+"lon": 76.9771,
+"osm_id": "relation/1818784",
+"lgd_code": "565",
+"wikidata": "Q162612"
+},
+{
+"name": "Thrissur",
+"state": "Kerala",
+"lat": 10.4786,
+"lon": 76.4294,
+"osm_id": "relation/2018177",
+"lgd_code": "566",
+"wikidata": "Q2429655"
+},
+{
+"name": "Wayanad",
+"state": "Kerala",
+"lat": 11.715,
+"lon": 76.1083,
+"osm_id": "relation/2018203",
+"lgd_code": "567",
+"wikidata": "Q1364427"
+},
+{
+"name": "Drass",
+"state": "Ladakh",
+"lat": 34.4205,
+"lon": 75.6895,
+"osm_id": "relation/18205199",
+"lgd_code": "",
+"wikidata": "Q130265763"
+},
+{
+"name": "Kargil",
+"state": "Ladakh",
+"lat": 34.2495,
+"lon": 76.1965,
+"osm_id": "relation/18773975",
+"lgd_code": "6",
+"wikidata": "Q1650798"
+},
+{
+"name": "Leh",
+"state": "Ladakh",
+"lat": 33.3519,
+"lon": 78.1131,
+"osm_id": "relation/10391800",
+"lgd_code": "",
+"wikidata": "Q1921210"
+},
+{
+"name": "Nubra",
+"state": "Ladakh",
+"lat": 34.8245,
+"lon": 77.8543,
+"osm_id": "relation/10391802",
+"lgd_code": "",
+"wikidata": "Q130265765"
+},
+{
+"name": "Sham",
+"state": "Ladakh",
+"lat": 34.3002,
+"lon": 76.8389,
+"osm_id": "relation/10391801",
+"lgd_code": "",
+"wikidata": "Q130265764"
+},
+{
+"name": "Zanskar",
+"state": "Ladakh",
+"lat": 33.4193,
+"lon": 76.873,
+"osm_id": "relation/10390947",
+"lgd_code": "",
+"wikidata": "Q147011"
+},
+{
+"name": "Lakshadweep",
+"state": "Lakshadweep",
+"lat": 10.332,
+"lon": 72.8005,
+"osm_id": "relation/9576283",
+"lgd_code": "553",
+"wikidata": "Q10784153"
+},
+{
+"name": "Agar Malwa",
+"state": "Madhya Pradesh",
+"lat": 23.9352,
+"lon": 76.0476,
+"osm_id": "relation/9529684",
+"lgd_code": "667",
+"wikidata": "Q15732396"
+},
+{
+"name": "Alirajpur",
+"state": "Madhya Pradesh",
+"lat": 22.2859,
+"lon": 74.3885,
+"osm_id": "relation/9529703",
+"lgd_code": "639",
+"wikidata": "Q2667586"
+},
+{
+"name": "Anuppur",
+"state": "Madhya Pradesh",
+"lat": 23.0348,
+"lon": 81.6618,
+"osm_id": "relation/9530798",
+"lgd_code": "390",
+"wikidata": "Q2299093"
+},
+{
+"name": "Ashoknagar",
+"state": "Madhya Pradesh",
+"lat": 24.6186,
+"lon": 77.8749,
+"osm_id": "relation/9530970",
+"lgd_code": "391",
+"wikidata": "Q2246416"
+},
+{
+"name": "Balaghat",
+"state": "Madhya Pradesh",
+"lat": 21.8612,
+"lon": 80.2793,
+"osm_id": "relation/1982958",
+"lgd_code": "392",
+"wikidata": "Q641904"
+},
+{
+"name": "Barwani",
+"state": "Madhya Pradesh",
+"lat": 21.7514,
+"lon": 75.0301,
+"osm_id": "relation/1976212",
+"lgd_code": "393",
+"wikidata": "Q2126754"
+},
+{
+"name": "Betul",
+"state": "Madhya Pradesh",
+"lat": 21.8798,
+"lon": 77.7677,
+"osm_id": "relation/1982914",
+"lgd_code": "394",
+"wikidata": "Q1815279"
+},
+{
+"name": "Bhind",
+"state": "Madhya Pradesh",
+"lat": 26.3518,
+"lon": 78.6746,
+"osm_id": "relation/1973948",
+"lgd_code": "395",
+"wikidata": "Q2341700"
+},
+{
+"name": "Bhopal",
+"state": "Madhya Pradesh",
+"lat": 23.4839,
+"lon": 77.4071,
+"osm_id": "relation/1976080",
+"lgd_code": "396",
+"wikidata": "Q1797245"
+},
+{
+"name": "Burhanpur",
+"state": "Madhya Pradesh",
+"lat": 21.3349,
+"lon": 76.3718,
+"osm_id": "relation/9530993",
+"lgd_code": "397",
+"wikidata": "Q2125592"
+},
+{
+"name": "Chhatarpur",
+"state": "Madhya Pradesh",
+"lat": 24.7604,
+"lon": 79.7087,
+"osm_id": "relation/1974088",
+"lgd_code": "398",
+"wikidata": "Q2449785"
+},
+{
+"name": "Chhindwara",
+"state": "Madhya Pradesh",
+"lat": 22.2072,
+"lon": 78.8257,
+"osm_id": "relation/1982915",
+"lgd_code": "399",
+"wikidata": "Q1986096"
+},
+{
+"name": "Damoh",
+"state": "Madhya Pradesh",
+"lat": 23.7981,
+"lon": 79.5052,
+"osm_id": "relation/1982903",
+"lgd_code": "400",
+"wikidata": "Q2479331"
+},
+{
+"name": "Datia",
+"state": "Madhya Pradesh",
+"lat": 25.6717,
+"lon": 78.5546,
+"osm_id": "relation/1973949",
+"lgd_code": "401",
+"wikidata": "Q2206266"
+},
+{
+"name": "Dewas",
+"state": "Madhya Pradesh",
+"lat": 22.8057,
+"lon": 76.5148,
+"osm_id": "relation/1976213",
+"lgd_code": "402",
+"wikidata": "Q2025998"
+},
+{
+"name": "Dhar",
+"state": "Madhya Pradesh",
+"lat": 22.5787,
+"lon": 75.0924,
+"osm_id": "relation/1976159",
+"lgd_code": "403",
+"wikidata": "Q2299069"
+},
+{
+"name": "Dindori",
+"state": "Madhya Pradesh",
+"lat": 22.9071,
+"lon": 81.1098,
+"osm_id": "relation/1982959",
+"lgd_code": "404",
+"wikidata": "Q2398551"
+},
+{
+"name": "Guna",
+"state": "Madhya Pradesh",
+"lat": 24.5002,
+"lon": 77.2678,
+"osm_id": "relation/1973967",
+"lgd_code": "406",
+"wikidata": "Q930027"
+},
+{
+"name": "Gwalior",
+"state": "Madhya Pradesh",
+"lat": 26.0285,
+"lon": 78.1598,
+"osm_id": "relation/1973950",
+"lgd_code": "407",
+"wikidata": "Q2085310"
+},
+{
+"name": "Harda",
+"state": "Madhya Pradesh",
+"lat": 22.2428,
+"lon": 77.1452,
+"osm_id": "relation/1976219",
+"lgd_code": "408",
+"wikidata": "Q2173003"
+},
+{
+"name": "Indore",
+"state": "Madhya Pradesh",
+"lat": 22.7107,
+"lon": 75.8352,
+"osm_id": "relation/1976160",
+"lgd_code": "410",
+"wikidata": "Q742938"
+},
+{
+"name": "Jabalpur",
+"state": "Madhya Pradesh",
+"lat": 23.2233,
+"lon": 79.9657,
+"osm_id": "relation/1982904",
+"lgd_code": "411",
+"wikidata": "Q632093"
+},
+{
+"name": "Jhabua",
+"state": "Madhya Pradesh",
+"lat": 22.887,
+"lon": 74.6674,
+"osm_id": "relation/1976161",
+"lgd_code": "412",
+"wikidata": "Q2085336"
+},
+{
+"name": "Katni",
+"state": "Madhya Pradesh",
+"lat": 23.7176,
+"lon": 80.3828,
+"osm_id": "relation/1982960",
+"lgd_code": "413",
+"wikidata": "Q746441"
+},
+{
+"name": "Khandwa",
+"state": "Madhya Pradesh",
+"lat": 21.977,
+"lon": 76.6168,
+"osm_id": "relation/1976214",
+"lgd_code": "405",
+"wikidata": "Q2085436"
+},
+{
+"name": "Khargone",
+"state": "Madhya Pradesh",
+"lat": 21.9544,
+"lon": 75.7211,
+"osm_id": "relation/1976215",
+"lgd_code": "414",
+"wikidata": "Q2273900"
+},
+{
+"name": "Maihar",
+"state": "Madhya Pradesh",
+"lat": 24.2438,
+"lon": 80.8717,
+"osm_id": "relation/16702358",
+"lgd_code": "784",
+"wikidata": "Q111675213"
+},
+{
+"name": "Mandla",
+"state": "Madhya Pradesh",
+"lat": 22.6873,
+"lon": 80.5744,
+"osm_id": "relation/1982961",
+"lgd_code": "415",
+"wikidata": "Q2341670"
+},
+{
+"name": "Mandsaur",
+"state": "Madhya Pradesh",
+"lat": 24.2633,
+"lon": 75.4017,
+"osm_id": "relation/1950091",
+"lgd_code": "416",
+"wikidata": "Q1870014"
+},
+{
+"name": "Mauganj",
+"state": "Madhya Pradesh",
+"lat": 24.7145,
+"lon": 81.9564,
+"osm_id": "relation/16701467",
+"lgd_code": "766",
+"wikidata": "Q122417864"
+},
+{
+"name": "Morena",
+"state": "Madhya Pradesh",
+"lat": 26.3848,
+"lon": 77.8299,
+"osm_id": "relation/1973951",
+"lgd_code": "417",
+"wikidata": "Q2341467"
+},
+{
+"name": "Narmadapuram",
+"state": "Madhya Pradesh",
+"lat": 22.6003,
+"lon": 77.9558,
+"osm_id": "relation/1976220",
+"lgd_code": "409",
+"wikidata": "Q620801"
+},
+{
+"name": "Narsinghpur",
+"state": "Madhya Pradesh",
+"lat": 22.9345,
+"lon": 79.0432,
+"osm_id": "relation/1982916",
+"lgd_code": "418",
+"wikidata": "Q2341616"
+},
+{
+"name": "Neemuch",
+"state": "Madhya Pradesh",
+"lat": 24.6294,
+"lon": 75.1583,
+"osm_id": "relation/1950092",
+"lgd_code": "419",
+"wikidata": "Q2341713"
+},
+{
+"name": "Niwari",
+"state": "Madhya Pradesh",
+"lat": 25.3124,
+"lon": 78.7121,
+"osm_id": "relation/9531113",
+"lgd_code": "722",
+"wikidata": "Q63563797"
+},
+{
+"name": "Pandhurna",
+"state": "Madhya Pradesh",
+"lat": 21.6877,
+"lon": 78.6612,
+"osm_id": "relation/16702385",
+"lgd_code": "785",
+"wikidata": "Q123286184"
+},
+{
+"name": "Panna",
+"state": "Madhya Pradesh",
+"lat": 24.4738,
+"lon": 80.2067,
+"osm_id": "relation/1973983",
+"lgd_code": "420",
+"wikidata": "Q2341630"
+},
+{
+"name": "Raisen",
+"state": "Madhya Pradesh",
+"lat": 23.2676,
+"lon": 78.0778,
+"osm_id": "relation/1976221",
+"lgd_code": "421",
+"wikidata": "Q1815223"
+},
+{
+"name": "Rajgarh",
+"state": "Madhya Pradesh",
+"lat": 23.8717,
+"lon": 76.7079,
+"osm_id": "relation/1976132",
+"lgd_code": "422",
+"wikidata": "Q1833306"
+},
+{
+"name": "Ratlam",
+"state": "Madhya Pradesh",
+"lat": 23.5025,
+"lon": 75.1022,
+"osm_id": "relation/1976133",
+"lgd_code": "423",
+"wikidata": "Q2299164"
+},
+{
+"name": "Rewa",
+"state": "Madhya Pradesh",
+"lat": 24.7561,
+"lon": 81.4921,
+"osm_id": "relation/1973968",
+"lgd_code": "424",
+"wikidata": "Q526862"
+},
+{
+"name": "Sagar",
+"state": "Madhya Pradesh",
+"lat": 23.8083,
+"lon": 78.706,
+"osm_id": "relation/1976081",
+"lgd_code": "425",
+"wikidata": "Q2085421"
+},
+{
+"name": "Satna",
+"state": "Madhya Pradesh",
+"lat": 24.6955,
+"lon": 80.6415,
+"osm_id": "relation/1973984",
+"lgd_code": "426",
+"wikidata": "Q2577924"
+},
+{
+"name": "Sehore",
+"state": "Madhya Pradesh",
+"lat": 23.115,
+"lon": 77.2325,
+"osm_id": "relation/1976216",
+"lgd_code": "427",
+"wikidata": "Q2299029"
+},
+{
+"name": "Seoni",
+"state": "Madhya Pradesh",
+"lat": 22.2749,
+"lon": 79.7422,
+"osm_id": "relation/1982942",
+"lgd_code": "428",
+"wikidata": "Q2221184"
+},
+{
+"name": "Shahdol",
+"state": "Madhya Pradesh",
+"lat": 23.6532,
+"lon": 81.4917,
+"osm_id": "relation/1982962",
+"lgd_code": "429",
+"wikidata": "Q2085464"
+},
+{
+"name": "Shajapur",
+"state": "Madhya Pradesh",
+"lat": 23.4171,
+"lon": 76.5852,
+"osm_id": "relation/1976134",
+"lgd_code": "430",
+"wikidata": "Q2449803"
+},
+{
+"name": "Sheopur",
+"state": "Madhya Pradesh",
+"lat": 25.75,
+"lon": 77.0709,
+"osm_id": "relation/1973955",
+"lgd_code": "431",
+"wikidata": "Q620105"
+},
+{
+"name": "Shivpuri",
+"state": "Madhya Pradesh",
+"lat": 25.3741,
+"lon": 77.7403,
+"osm_id": "relation/1973956",
+"lgd_code": "432",
+"wikidata": "Q2299042"
+},
+{
+"name": "Sidhi",
+"state": "Madhya Pradesh",
+"lat": 24.2114,
+"lon": 81.8425,
+"osm_id": "relation/1973969",
+"lgd_code": "433",
+"wikidata": "Q2449793"
+},
+{
+"name": "Singrauli",
+"state": "Madhya Pradesh",
+"lat": 24.2431,
+"lon": 82.3452,
+"osm_id": "relation/9531024",
+"lgd_code": "638",
+"wikidata": "Q2668638"
+},
+{
+"name": "Tikamgarh",
+"state": "Madhya Pradesh",
+"lat": 24.8553,
+"lon": 78.9889,
+"osm_id": "relation/1974089",
+"lgd_code": "434",
+"wikidata": "Q2449760"
+},
+{
+"name": "Ujjain",
+"state": "Madhya Pradesh",
+"lat": 23.2936,
+"lon": 75.6947,
+"osm_id": "relation/1976162",
+"lgd_code": "435",
+"wikidata": "Q892641"
+},
+{
+"name": "Umaria",
+"state": "Madhya Pradesh",
+"lat": 23.6431,
+"lon": 80.9407,
+"osm_id": "relation/1982963",
+"lgd_code": "436",
+"wikidata": "Q620297"
+},
+{
+"name": "Vidisha",
+"state": "Madhya Pradesh",
+"lat": 23.8463,
+"lon": 77.7854,
+"osm_id": "relation/1976082",
+"lgd_code": "437",
+"wikidata": "Q1815253"
+},
+{
+"name": "Ahilyanagar",
+"state": "Maharashtra",
+"lat": 19.1624,
+"lon": 74.5992,
+"osm_id": "relation/1986123",
+"lgd_code": "466",
+"wikidata": "Q401744"
+},
+{
+"name": "Akola",
+"state": "Maharashtra",
+"lat": 20.7617,
+"lon": 77.1557,
+"osm_id": "relation/1991136",
+"lgd_code": "467",
+"wikidata": "Q520510"
+},
+{
+"name": "Amravati",
+"state": "Maharashtra",
+"lat": 21.1545,
+"lon": 77.5356,
+"osm_id": "relation/9510709",
+"lgd_code": "468",
+"wikidata": "Q1771774"
+},
+{
+"name": "Beed",
+"state": "Maharashtra",
+"lat": 18.9918,
+"lon": 75.771,
+"osm_id": "relation/1991622",
+"lgd_code": "470",
+"wikidata": "Q814037"
+},
+{
+"name": "Bhandara",
+"state": "Maharashtra",
+"lat": 21.1227,
+"lon": 79.7749,
+"osm_id": "relation/1988468",
+"lgd_code": "471",
+"wikidata": "Q1813857"
+},
+{
+"name": "Buldhana",
+"state": "Maharashtra",
+"lat": 20.5631,
+"lon": 76.3747,
+"osm_id": "relation/7398836",
+"lgd_code": "472",
+"wikidata": "Q47929"
+},
+{
+"name": "Chandrapur",
+"state": "Maharashtra",
+"lat": 20.0977,
+"lon": 79.3957,
+"osm_id": "relation/1988465",
+"lgd_code": "473",
+"wikidata": "Q1797274"
+},
+{
+"name": "Chhatrapati Sambhajinagar",
+"state": "Maharashtra",
+"lat": 20.0232,
+"lon": 75.3158,
+"osm_id": "relation/1991614",
+"lgd_code": "469",
+"wikidata": "Q592942"
+},
+{
+"name": "Dharashiv",
+"state": "Maharashtra",
+"lat": 18.1699,
+"lon": 76.0381,
+"osm_id": "relation/1997169",
+"lgd_code": "488",
+"wikidata": "Q1647186"
+},
+{
+"name": "Dhule",
+"state": "Maharashtra",
+"lat": 21.1309,
+"lon": 74.5286,
+"osm_id": "relation/1985898",
+"lgd_code": "474",
+"wikidata": "Q1797383"
+},
+{
+"name": "Gadchiroli",
+"state": "Maharashtra",
+"lat": 19.7592,
+"lon": 80.3186,
+"osm_id": "relation/1988452",
+"lgd_code": "475",
+"wikidata": "Q1804847"
+},
+{
+"name": "Gondiya",
+"state": "Maharashtra",
+"lat": 21.1459,
+"lon": 80.2386,
+"osm_id": "relation/1988443",
+"lgd_code": "476",
+"wikidata": "Q1917227"
+},
+{
+"name": "Hingoli",
+"state": "Maharashtra",
+"lat": 19.5425,
+"lon": 77.0006,
+"osm_id": "relation/1991161",
+"lgd_code": "477",
+"wikidata": "Q2087615"
+},
+{
+"name": "Jalgaon",
+"state": "Maharashtra",
+"lat": 20.8424,
+"lon": 75.5795,
+"osm_id": "relation/1991609",
+"lgd_code": "478",
+"wikidata": "Q1797291"
+},
+{
+"name": "Jalna",
+"state": "Maharashtra",
+"lat": 19.9188,
+"lon": 76.06,
+"osm_id": "relation/1991618",
+"lgd_code": "479",
+"wikidata": "Q1804863"
+},
+{
+"name": "Kolhapur",
+"state": "Maharashtra",
+"lat": 16.4624,
+"lon": 74.1937,
+"osm_id": "relation/1997163",
+"lgd_code": "480",
+"wikidata": "Q1797312"
+},
+{
+"name": "Latur",
+"state": "Maharashtra",
+"lat": 18.3549,
+"lon": 76.7489,
+"osm_id": "relation/1991624",
+"lgd_code": "481",
+"wikidata": "Q1948713"
+},
+{
+"name": "Mumbai City",
+"state": "Maharashtra",
+"lat": 18.9736,
+"lon": 72.8492,
+"osm_id": "relation/7964376",
+"lgd_code": "482",
+"wikidata": "Q2341660"
+},
+{
+"name": "Mumbai Suburban",
+"state": "Maharashtra",
+"lat": 19.131,
+"lon": 72.8775,
+"osm_id": "relation/7964375",
+"lgd_code": "483",
+"wikidata": "Q2085374"
+},
+{
+"name": "Nagpur",
+"state": "Maharashtra",
+"lat": 21.1528,
+"lon": 78.9528,
+"osm_id": "relation/1991091",
+"lgd_code": "484",
+"wikidata": "Q1797367"
+},
+{
+"name": "Nanded",
+"state": "Maharashtra",
+"lat": 19.0942,
+"lon": 77.648,
+"osm_id": "relation/1991143",
+"lgd_code": "485",
+"wikidata": "Q692389"
+},
+{
+"name": "Nashik",
+"state": "Maharashtra",
+"lat": 20.2254,
+"lon": 74.0917,
+"osm_id": "relation/1985907",
+"lgd_code": "487",
+"wikidata": "Q1797269"
+},
+{
+"name": "Palghar",
+"state": "Maharashtra",
+"lat": 19.7575,
+"lon": 73.0786,
+"osm_id": "relation/9531818",
+"lgd_code": "665",
+"wikidata": "Q18003119"
+},
+{
+"name": "Parbhani",
+"state": "Maharashtra",
+"lat": 19.2905,
+"lon": 76.6633,
+"osm_id": "relation/1991619",
+"lgd_code": "489",
+"wikidata": "Q1797389"
+},
+{
+"name": "Pune",
+"state": "Maharashtra",
+"lat": 18.6449,
+"lon": 74.2432,
+"osm_id": "relation/1986140",
+"lgd_code": "490",
+"wikidata": "Q1797336"
+},
+{
+"name": "Raigad",
+"state": "Maharashtra",
+"lat": 18.4928,
+"lon": 73.2391,
+"osm_id": "relation/7965683",
+"lgd_code": "491",
+"wikidata": "Q2019683"
+},
+{
+"name": "Ratnagiri",
+"state": "Maharashtra",
+"lat": 17.2828,
+"lon": 73.4462,
+"osm_id": "relation/1986246",
+"lgd_code": "492",
+"wikidata": "Q1771768"
+},
+{
+"name": "Sangli",
+"state": "Maharashtra",
+"lat": 17.1727,
+"lon": 74.6849,
+"osm_id": "relation/1997159",
+"lgd_code": "493",
+"wikidata": "Q1425060"
+},
+{
+"name": "Satara",
+"state": "Maharashtra",
+"lat": 17.6368,
+"lon": 74.2201,
+"osm_id": "relation/1986143",
+"lgd_code": "494",
+"wikidata": "Q1135612"
+},
+{
+"name": "Sindhudurg",
+"state": "Maharashtra",
+"lat": 16.1356,
+"lon": 73.7599,
+"osm_id": "relation/1997166",
+"lgd_code": "495",
+"wikidata": "Q768332"
+},
+{
+"name": "Solapur",
+"state": "Maharashtra",
+"lat": 17.8501,
+"lon": 75.518,
+"osm_id": "relation/1997168",
+"lgd_code": "496",
+"wikidata": "Q1797263"
+},
+{
+"name": "Thane",
+"state": "Maharashtra",
+"lat": 19.3649,
+"lon": 73.277,
+"osm_id": "relation/7965684",
+"lgd_code": "497",
+"wikidata": "Q943099"
+},
+{
+"name": "Wardha",
+"state": "Maharashtra",
+"lat": 20.8262,
+"lon": 78.6372,
+"osm_id": "relation/1991095",
+"lgd_code": "498",
+"wikidata": "Q980608"
+},
+{
+"name": "Washim",
+"state": "Maharashtra",
+"lat": 20.3024,
+"lon": 77.1477,
+"osm_id": "relation/1991132",
+"lgd_code": "499",
+"wikidata": "Q1804858"
+},
+{
+"name": "Yavatmal",
+"state": "Maharashtra",
+"lat": 20.0641,
+"lon": 78.2159,
+"osm_id": "relation/1991125",
+"lgd_code": "500",
+"wikidata": "Q1804852"
+},
+{
+"name": "Bishnupur",
+"state": "Manipur",
+"lat": 24.5264,
+"lon": 93.8016,
+"osm_id": "relation/2027934",
+"lgd_code": "252",
+"wikidata": "Q938190"
+},
+{
+"name": "Chandel",
+"state": "Manipur",
+"lat": 24.1701,
+"lon": 93.9973,
+"osm_id": "relation/2027970",
+"lgd_code": "253",
+"wikidata": "Q2301769"
+},
+{
+"name": "Churachandpur",
+"state": "Manipur",
+"lat": 24.3094,
+"lon": 93.6146,
+"osm_id": "relation/2027870",
+"lgd_code": "254",
+"wikidata": "Q2577281"
+},
+{
+"name": "Imphal East",
+"state": "Manipur",
+"lat": 24.8327,
+"lon": 94.0172,
+"osm_id": "relation/2027871",
+"lgd_code": "255",
+"wikidata": "Q1916666"
+},
+{
+"name": "Imphal West",
+"state": "Manipur",
+"lat": 24.7571,
+"lon": 93.8614,
+"osm_id": "relation/2027935",
+"lgd_code": "256",
+"wikidata": "Q1822188"
+},
+{
+"name": "Jiribam",
+"state": "Manipur",
+"lat": 24.7094,
+"lon": 93.1564,
+"osm_id": "relation/9532320",
+"lgd_code": "713",
+"wikidata": "Q28419387"
+},
+{
+"name": "Kakching",
+"state": "Manipur",
+"lat": 24.4143,
+"lon": 93.9458,
+"osm_id": "relation/9532750",
+"lgd_code": "711",
+"wikidata": "Q28173825"
+},
+{
+"name": "Kamjong",
+"state": "Manipur",
+"lat": 24.7989,
+"lon": 94.4339,
+"osm_id": "relation/9532615",
+"lgd_code": "717",
+"wikidata": "Q28419390"
+},
+{
+"name": "Kangpokpi",
+"state": "Manipur",
+"lat": 25.0031,
+"lon": 93.9325,
+"osm_id": "relation/9532475",
+"lgd_code": "712",
+"wikidata": "Q28419386"
+},
+{
+"name": "Noney",
+"state": "Manipur",
+"lat": 24.778,
+"lon": 93.4527,
+"osm_id": "relation/9532329",
+"lgd_code": "714",
+"wikidata": "Q28419389"
+},
+{
+"name": "Pherzawl",
+"state": "Manipur",
+"lat": 24.371,
+"lon": 93.2349,
+"osm_id": "relation/9533549",
+"lgd_code": "715",
+"wikidata": "Q28173809"
+},
+{
+"name": "Senapati",
+"state": "Manipur",
+"lat": 25.392,
+"lon": 94.1252,
+"osm_id": "relation/2027936",
+"lgd_code": "257",
+"wikidata": "Q2301706"
+},
+{
+"name": "Tamenglong",
+"state": "Manipur",
+"lat": 25.065,
+"lon": 93.5407,
+"osm_id": "relation/2027872",
+"lgd_code": "258",
+"wikidata": "Q2301717"
+},
+{
+"name": "Tengnoupal",
+"state": "Manipur",
+"lat": 24.3709,
+"lon": 94.2117,
+"osm_id": "relation/9532614",
+"lgd_code": "716",
+"wikidata": "Q28419388"
+},
+{
+"name": "Thoubal",
+"state": "Manipur",
+"lat": 24.6204,
+"lon": 94.0144,
+"osm_id": "relation/2027937",
+"lgd_code": "259",
+"wikidata": "Q2086198"
+},
+{
+"name": "Ukhrul",
+"state": "Manipur",
+"lat": 25.3123,
+"lon": 94.4286,
+"osm_id": "relation/2027971",
+"lgd_code": "260",
+"wikidata": "Q735101"
+},
+{
+"name": "East Garo Hills",
+"state": "Meghalaya",
+"lat": 25.6178,
+"lon": 90.6492,
+"osm_id": "relation/2027474",
+"lgd_code": "273",
+"wikidata": "Q2085455"
+},
+{
+"name": "East Jaintia Hills",
+"state": "Meghalaya",
+"lat": 25.2516,
+"lon": 92.4873,
+"osm_id": "relation/9522423",
+"lgd_code": "657",
+"wikidata": "Q15923776"
+},
+{
+"name": "East Khasi Hills",
+"state": "Meghalaya",
+"lat": 25.4026,
+"lon": 91.7552,
+"osm_id": "relation/2027522",
+"lgd_code": "274",
+"wikidata": "Q1945304"
+},
+{
+"name": "Eastern West Khasi Hills",
+"state": "Meghalaya",
+"lat": 25.6488,
+"lon": 91.5785,
+"osm_id": "relation/14723470",
+"lgd_code": "740",
+"wikidata": "Q110442602"
+},
+{
+"name": "North Garo Hills",
+"state": "Meghalaya",
+"lat": 25.8606,
+"lon": 90.684,
+"osm_id": "relation/9522478",
+"lgd_code": "656",
+"wikidata": "Q7055466"
+},
+{
+"name": "Ri-Bhoi",
+"state": "Meghalaya",
+"lat": 25.8762,
+"lon": 91.8109,
+"osm_id": "relation/2027524",
+"lgd_code": "276",
+"wikidata": "Q1884672"
+},
+{
+"name": "South Garo Hills",
+"state": "Meghalaya",
+"lat": 25.3493,
+"lon": 90.5979,
+"osm_id": "relation/2027475",
+"lgd_code": "277",
+"wikidata": "Q2329228"
+},
+{
+"name": "South Salmara-Mankachar",
+"state": "Meghalaya",
+"lat": 25.7605,
+"lon": 90.0067,
+"osm_id": "relation/9522272",
+"lgd_code": "707",
+"wikidata": "Q24907599"
+},
+{
+"name": "South West Garo Hills",
+"state": "Meghalaya",
+"lat": 25.444,
+"lon": 89.9922,
+"osm_id": "relation/9522314",
+"lgd_code": "663",
+"wikidata": "Q15961576"
+},
+{
+"name": "South West Khasi Hills",
+"state": "Meghalaya",
+"lat": 25.3307,
+"lon": 91.2096,
+"osm_id": "relation/9522352",
+"lgd_code": "658",
+"wikidata": "Q15923741"
+},
+{
+"name": "West Garo Hills",
+"state": "Meghalaya",
+"lat": 25.6062,
+"lon": 90.1638,
+"osm_id": "relation/2027476",
+"lgd_code": "278",
+"wikidata": "Q2329181"
+},
+{
+"name": "West Jaintia Hills",
+"state": "Meghalaya",
+"lat": 25.4426,
+"lon": 92.3224,
+"osm_id": "relation/2027523",
+"lgd_code": "275",
+"wikidata": "Q13181190"
+},
+{
+"name": "West Khasi Hills",
+"state": "Meghalaya",
+"lat": 25.583,
+"lon": 91.1135,
+"osm_id": "relation/2027525",
+"lgd_code": "279",
+"wikidata": "Q2064752"
+},
+{
+"name": "Aizawl",
+"state": "Mizoram",
+"lat": 23.8608,
+"lon": 92.8324,
+"osm_id": "relation/2029066",
+"lgd_code": "261",
+"wikidata": "Q1947322"
+},
+{
+"name": "Champhai",
+"state": "Mizoram",
+"lat": 23.5443,
+"lon": 93.2239,
+"osm_id": "relation/2029067",
+"lgd_code": "262",
+"wikidata": "Q1965256"
+},
+{
+"name": "Hnahthial",
+"state": "Mizoram",
+"lat": 22.9666,
+"lon": 93.0084,
+"osm_id": "relation/12035192",
+"lgd_code": "726",
+"wikidata": "Q86882590"
+},
+{
+"name": "Khawzawl",
+"state": "Mizoram",
+"lat": 23.4881,
+"lon": 93.1426,
+"osm_id": "relation/12034295",
+"lgd_code": "728",
+"wikidata": "Q86882591"
+},
+{
+"name": "Kolasib",
+"state": "Mizoram",
+"lat": 24.1906,
+"lon": 92.7141,
+"osm_id": "relation/2029068",
+"lgd_code": "263",
+"wikidata": "Q1947343"
+},
+{
+"name": "Lawngtlai",
+"state": "Mizoram",
+"lat": 22.3914,
+"lon": 92.823,
+"osm_id": "relation/2029047",
+"lgd_code": "264",
+"wikidata": "Q2086209"
+},
+{
+"name": "Lunglei",
+"state": "Mizoram",
+"lat": 22.9519,
+"lon": 92.6481,
+"osm_id": "relation/2029048",
+"lgd_code": "265",
+"wikidata": "Q1947352"
+},
+{
+"name": "Mamit",
+"state": "Mizoram",
+"lat": 23.7566,
+"lon": 92.4675,
+"osm_id": "relation/2029049",
+"lgd_code": "266",
+"wikidata": "Q751531"
+},
+{
+"name": "Saiha",
+"state": "Mizoram",
+"lat": 22.2869,
+"lon": 93.0113,
+"osm_id": "relation/2029050",
+"lgd_code": "267",
+"wikidata": "Q1821714"
+},
+{
+"name": "Saitual",
+"state": "Mizoram",
+"lat": 23.8119,
+"lon": 93.0282,
+"osm_id": "relation/12035237",
+"lgd_code": "727",
+"wikidata": "Q86882593"
+},
+{
+"name": "Serchhip",
+"state": "Mizoram",
+"lat": 23.3056,
+"lon": 92.9316,
+"osm_id": "relation/2029069",
+"lgd_code": "268",
+"wikidata": "Q2086190"
+},
+{
+"name": "Chümoukedima",
+"state": "Nagaland",
+"lat": 25.8086,
+"lon": 93.7734,
+"osm_id": "relation/14769140",
+"lgd_code": "758",
+"wikidata": "Q110223837"
+},
+{
+"name": "Dimapur",
+"state": "Nagaland",
+"lat": 25.9041,
+"lon": 93.7336,
+"osm_id": "relation/2663857",
+"lgd_code": "244",
+"wikidata": "Q634262"
+},
+{
+"name": "Kiphire",
+"state": "Nagaland",
+"lat": 25.8122,
+"lon": 94.8097,
+"osm_id": "relation/9520304",
+"lgd_code": "614",
+"wikidata": "Q2597908"
+},
+{
+"name": "Kohima",
+"state": "Nagaland",
+"lat": 25.7169,
+"lon": 94.0889,
+"osm_id": "relation/2027974",
+"lgd_code": "245",
+"wikidata": "Q953530"
+},
+{
+"name": "Longleng",
+"state": "Nagaland",
+"lat": 26.5839,
+"lon": 94.7929,
+"osm_id": "relation/9520317",
+"lgd_code": "615",
+"wikidata": "Q1426783"
+},
+{
+"name": "Meluri",
+"state": "Nagaland",
+"lat": 25.619,
+"lon": 94.725,
+"osm_id": "relation/19969223",
+"lgd_code": "788",
+"wikidata": "Q131191793"
+},
+{
+"name": "Mokokchung",
+"state": "Nagaland",
+"lat": 26.4796,
+"lon": 94.5236,
+"osm_id": "relation/2027986",
+"lgd_code": "246",
+"wikidata": "Q2175311"
+},
+{
+"name": "Mon",
+"state": "Nagaland",
+"lat": 26.6622,
+"lon": 95.011,
+"osm_id": "relation/2027987",
+"lgd_code": "247",
+"wikidata": "Q2339648"
+},
+{
+"name": "Niuland",
+"state": "Nagaland",
+"lat": 25.8508,
+"lon": 93.9091,
+"osm_id": "relation/16090862",
+"lgd_code": "764",
+"wikidata": "Q110223839"
+},
+{
+"name": "Noklak",
+"state": "Nagaland",
+"lat": 26.1119,
+"lon": 95.028,
+"osm_id": "relation/9536752",
+"lgd_code": "736",
+"wikidata": "Q48731903"
+},
+{
+"name": "Peren",
+"state": "Nagaland",
+"lat": 25.4501,
+"lon": 93.6336,
+"osm_id": "relation/9520359",
+"lgd_code": "613",
+"wikidata": "Q516294"
+},
+{
+"name": "Phek",
+"state": "Nagaland",
+"lat": 25.67,
+"lon": 94.386,
+"osm_id": "relation/2027975",
+"lgd_code": "248",
+"wikidata": "Q590882"
+},
+{
+"name": "Shamator",
+"state": "Nagaland",
+"lat": 26.0914,
+"lon": 94.8653,
+"osm_id": "relation/16090861",
+"lgd_code": "765",
+"wikidata": "Q111529435"
+},
+{
+"name": "Tseminyü",
+"state": "Nagaland",
+"lat": 25.9412,
+"lon": 94.1329,
+"osm_id": "relation/14723514",
+"lgd_code": "757",
+"wikidata": "Q110223836"
+},
+{
+"name": "Tuensang",
+"state": "Nagaland",
+"lat": 26.2343,
+"lon": 94.7504,
+"osm_id": "relation/2027988",
+"lgd_code": "249",
+"wikidata": "Q2571393"
+},
+{
+"name": "Wokha",
+"state": "Nagaland",
+"lat": 26.2415,
+"lon": 94.1705,
+"osm_id": "relation/2027976",
+"lgd_code": "250",
+"wikidata": "Q681821"
+},
+{
+"name": "Zünheboto",
+"state": "Nagaland",
+"lat": 26.0124,
+"lon": 94.4625,
+"osm_id": "relation/2027989",
+"lgd_code": "251",
+"wikidata": "Q2091461"
+},
+{
+"name": "Angul",
+"state": "Odisha",
+"lat": 21.1041,
+"lon": 84.8274,
+"osm_id": "relation/1984462",
+"lgd_code": "344",
+"wikidata": "Q1772807"
+},
+{
+"name": "Balangir",
+"state": "Odisha",
+"lat": 20.6093,
+"lon": 83.1813,
+"osm_id": "relation/1984026",
+"lgd_code": "345",
+"wikidata": "Q804642"
+},
+{
+"name": "Baleshwar",
+"state": "Odisha",
+"lat": 21.5198,
+"lon": 86.9187,
+"osm_id": "relation/1984480",
+"lgd_code": "346",
+"wikidata": "Q2022279"
+},
+{
+"name": "Bargarh",
+"state": "Odisha",
+"lat": 21.2329,
+"lon": 83.2733,
+"osm_id": "relation/1984023",
+"lgd_code": "347",
+"wikidata": "Q808140"
+},
+{
+"name": "Bhadrak",
+"state": "Odisha",
+"lat": 20.9853,
+"lon": 86.623,
+"osm_id": "relation/9511741",
+"lgd_code": "348",
+"wikidata": "Q685638"
+},
+{
+"name": "Boudh",
+"state": "Odisha",
+"lat": 20.6404,
+"lon": 84.1805,
+"osm_id": "relation/1984065",
+"lgd_code": "349",
+"wikidata": "Q2363639"
+},
+{
+"name": "Cuttack",
+"state": "Odisha",
+"lat": 20.3701,
+"lon": 85.5644,
+"osm_id": "relation/1984452",
+"lgd_code": "350",
+"wikidata": "Q2022256"
+},
+{
+"name": "Debagarh",
+"state": "Odisha",
+"lat": 21.4478,
+"lon": 84.8031,
+"osm_id": "relation/1984042",
+"lgd_code": "351",
+"wikidata": "Q2269639"
+},
+{
+"name": "Dhenkanal",
+"state": "Odisha",
+"lat": 20.8351,
+"lon": 85.5727,
+"osm_id": "relation/1984463",
+"lgd_code": "352",
+"wikidata": "Q1948389"
+},
+{
+"name": "Gajapati",
+"state": "Odisha",
+"lat": 19.1967,
+"lon": 84.1174,
+"osm_id": "relation/1984576",
+"lgd_code": "353",
+"wikidata": "Q1947292"
+},
+{
+"name": "Ganjam",
+"state": "Odisha",
+"lat": 19.6087,
+"lon": 84.6576,
+"osm_id": "relation/9511253",
+"lgd_code": "354",
+"wikidata": "Q776213"
+},
+{
+"name": "Jagatsinghapur",
+"state": "Odisha",
+"lat": 20.1801,
+"lon": 86.3649,
+"osm_id": "relation/9511627",
+"lgd_code": "355",
+"wikidata": "Q971581"
+},
+{
+"name": "Jajpur",
+"state": "Odisha",
+"lat": 20.8747,
+"lon": 86.1533,
+"osm_id": "relation/1984464",
+"lgd_code": "356",
+"wikidata": "Q2087771"
+},
+{
+"name": "Jharsuguda",
+"state": "Odisha",
+"lat": 21.802,
+"lon": 83.9043,
+"osm_id": "relation/1984035",
+"lgd_code": "357",
+"wikidata": "Q569181"
+},
+{
+"name": "Kalahandi",
+"state": "Odisha",
+"lat": 19.8266,
+"lon": 83.1575,
+"osm_id": "relation/1984497",
+"lgd_code": "358",
+"wikidata": "Q1876588"
+},
+{
+"name": "Kandhamal",
+"state": "Odisha",
+"lat": 20.1305,
+"lon": 84.0411,
+"osm_id": "relation/1984577",
+"lgd_code": "359",
+"wikidata": "Q2085500"
+},
+{
+"name": "Kendrapara",
+"state": "Odisha",
+"lat": 20.5474,
+"lon": 86.6699,
+"osm_id": "relation/9588868",
+"lgd_code": "360",
+"wikidata": "Q2299172"
+},
+{
+"name": "Kendujhar",
+"state": "Odisha",
+"lat": 21.5892,
+"lon": 85.7773,
+"osm_id": "relation/1984465",
+"lgd_code": "361",
+"wikidata": "Q2085428"
+},
+{
+"name": "Khordha",
+"state": "Odisha",
+"lat": 20.0537,
+"lon": 85.5084,
+"osm_id": "relation/1984089",
+"lgd_code": "362",
+"wikidata": "Q662818"
+},
+{
+"name": "Koraput",
+"state": "Odisha",
+"lat": 18.7237,
+"lon": 82.7522,
+"osm_id": "relation/1984516",
+"lgd_code": "363",
+"wikidata": "Q1947300"
+},
+{
+"name": "Malkangiri",
+"state": "Odisha",
+"lat": 18.2746,
+"lon": 81.9095,
+"osm_id": "relation/1984517",
+"lgd_code": "364",
+"wikidata": "Q5122619"
+},
+{
+"name": "Mayurbhanj",
+"state": "Odisha",
+"lat": 21.9155,
+"lon": 86.4232,
+"osm_id": "relation/1984481",
+"lgd_code": "365",
+"wikidata": "Q1914546"
+},
+{
+"name": "Nabarangapur",
+"state": "Odisha",
+"lat": 19.6096,
+"lon": 82.3509,
+"osm_id": "relation/1984498",
+"lgd_code": "366",
+"wikidata": "Q2396798"
+},
+{
+"name": "Nayagarh",
+"state": "Odisha",
+"lat": 20.2387,
+"lon": 84.9694,
+"osm_id": "relation/1984066",
+"lgd_code": "367",
+"wikidata": "Q2367388"
+},
+{
+"name": "Nuapada",
+"state": "Odisha",
+"lat": 20.5416,
+"lon": 82.5963,
+"osm_id": "relation/1984024",
+"lgd_code": "368",
+"wikidata": "Q1810550"
+},
+{
+"name": "Puri",
+"state": "Odisha",
+"lat": 19.8347,
+"lon": 85.7539,
+"osm_id": "relation/9511283",
+"lgd_code": "369",
+"wikidata": "Q1817158"
+},
+{
+"name": "Rayagada",
+"state": "Odisha",
+"lat": 19.4427,
+"lon": 83.4515,
+"osm_id": "relation/1984529",
+"lgd_code": "370",
+"wikidata": "Q2577997"
+},
+{
+"name": "Sambalpur",
+"state": "Odisha",
+"lat": 21.5557,
+"lon": 84.2833,
+"osm_id": "relation/1984036",
+"lgd_code": "371",
+"wikidata": "Q1267306"
+},
+{
+"name": "Subarnapur",
+"state": "Odisha",
+"lat": 20.8524,
+"lon": 83.8621,
+"osm_id": "relation/1984027",
+"lgd_code": "372",
+"wikidata": "Q1473957"
+},
+{
+"name": "Sundargarh",
+"state": "Odisha",
+"lat": 22.0609,
+"lon": 84.4562,
+"osm_id": "relation/1984039",
+"lgd_code": "373",
+"wikidata": "Q2296047"
+},
+{
+"name": "Karaikal",
+"state": "Puducherry",
+"lat": 10.9156,
+"lon": 79.7869,
+"osm_id": "relation/1819590",
+"lgd_code": "598",
+"wikidata": "Q639264"
+},
+{
+"name": "Amritsar",
+"state": "Punjab",
+"lat": 31.7684,
+"lon": 74.9454,
+"osm_id": "relation/1948548",
+"lgd_code": "27",
+"wikidata": "Q202822"
+},
+{
+"name": "Barnala",
+"state": "Punjab",
+"lat": 30.3717,
+"lon": 75.4924,
+"osm_id": "relation/9513462",
+"lgd_code": "605",
+"wikidata": "Q2353293"
+},
+{
+"name": "Bathinda",
+"state": "Punjab",
+"lat": 30.1792,
+"lon": 75.0034,
+"osm_id": "relation/1948503",
+"lgd_code": "28",
+"wikidata": "Q172488"
+},
+{
+"name": "Faridkot",
+"state": "Punjab",
+"lat": 30.6014,
+"lon": 74.7615,
+"osm_id": "relation/1948544",
+"lgd_code": "29",
+"wikidata": "Q172494"
+},
+{
+"name": "Fatehgarh Sahib",
+"state": "Punjab",
+"lat": 30.6635,
+"lon": 76.3548,
+"osm_id": "relation/1948489",
+"lgd_code": "30",
+"wikidata": "Q172485"
+},
+{
+"name": "Fazilka",
+"state": "Punjab",
+"lat": 30.3198,
+"lon": 74.1714,
+"osm_id": "relation/9513284",
+"lgd_code": "651",
+"wikidata": "Q188702"
+},
+{
+"name": "Firozpur",
+"state": "Punjab",
+"lat": 30.8752,
+"lon": 74.6816,
+"osm_id": "relation/1948545",
+"lgd_code": "31",
+"wikidata": "Q172385"
+},
+{
+"name": "Gurdaspur",
+"state": "Punjab",
+"lat": 31.9037,
+"lon": 75.2447,
+"osm_id": "relation/1948558",
+"lgd_code": "32",
+"wikidata": "Q146708"
+},
+{
+"name": "Hoshiarpur",
+"state": "Punjab",
+"lat": 31.6092,
+"lon": 75.9104,
+"osm_id": "relation/1948566",
+"lgd_code": "33",
+"wikidata": "Q304800"
+},
+{
+"name": "Jalandhar",
+"state": "Punjab",
+"lat": 31.2921,
+"lon": 75.5171,
+"osm_id": "relation/1948563",
+"lgd_code": "34",
+"wikidata": "Q1817425"
+},
+{
+"name": "Kapurthala",
+"state": "Punjab",
+"lat": 31.3857,
+"lon": 75.4351,
+"osm_id": "relation/1948549",
+"lgd_code": "35",
+"wikidata": "Q172363"
+},
+{
+"name": "Ludhiana",
+"state": "Punjab",
+"lat": 30.7894,
+"lon": 75.8398,
+"osm_id": "relation/1948490",
+"lgd_code": "36",
+"wikidata": "Q172482"
+},
+{
+"name": "Malerkotla",
+"state": "Punjab",
+"lat": 30.5369,
+"lon": 75.8703,
+"osm_id": "relation/14724473",
+"lgd_code": "737",
+"wikidata": "Q107016021"
+},
+{
+"name": "Mansa",
+"state": "Punjab",
+"lat": 29.8764,
+"lon": 75.4717,
+"osm_id": "relation/9513306",
+"lgd_code": "37",
+"wikidata": "Q172387"
+},
+{
+"name": "Moga",
+"state": "Punjab",
+"lat": 30.7879,
+"lon": 75.1618,
+"osm_id": "relation/1948506",
+"lgd_code": "38",
+"wikidata": "Q1946896"
+},
+{
+"name": "Pathankot",
+"state": "Punjab",
+"lat": 32.3021,
+"lon": 75.6288,
+"osm_id": "relation/9513330",
+"lgd_code": "662",
+"wikidata": "Q172269"
+},
+{
+"name": "Patiala",
+"state": "Punjab",
+"lat": 30.2093,
+"lon": 76.385,
+"osm_id": "relation/1948585",
+"lgd_code": "41",
+"wikidata": "Q172391"
+},
+{
+"name": "Rupnagar",
+"state": "Punjab",
+"lat": 31.0914,
+"lon": 76.5125,
+"osm_id": "relation/9513178",
+"lgd_code": "42",
+"wikidata": "Q196508"
+},
+{
+"name": "Sahibzada Ajit Singh Nagar",
+"state": "Punjab",
+"lat": 30.6489,
+"lon": 76.7303,
+"osm_id": "relation/9513166",
+"lgd_code": "608",
+"wikidata": "Q2037672"
+},
+{
+"name": "Sangrur",
+"state": "Punjab",
+"lat": 30.1358,
+"lon": 75.8794,
+"osm_id": "relation/9513553",
+"lgd_code": "43",
+"wikidata": "Q1945515"
+},
+{
+"name": "Shaheed Bhagat Singh Nagar",
+"state": "Punjab",
+"lat": 31.1268,
+"lon": 76.1533,
+"osm_id": "relation/1948565",
+"lgd_code": "40",
+"wikidata": "Q202710"
+},
+{
+"name": "Sri Muktsar Sahib",
+"state": "Punjab",
+"lat": 30.2865,
+"lon": 74.533,
+"osm_id": "relation/1948530",
+"lgd_code": "39",
+"wikidata": "Q1947359"
+},
+{
+"name": "Tarn Taran",
+"state": "Punjab",
+"lat": 31.3214,
+"lon": 74.895,
+"osm_id": "relation/9513408",
+"lgd_code": "609",
+"wikidata": "Q2298993"
+},
+{
+"name": "Ajmer",
+"state": "Rajasthan",
+"lat": 26.3313,
+"lon": 74.8023,
+"osm_id": "relation/1949118",
+"lgd_code": "86",
+"wikidata": "Q413037"
+},
+{
+"name": "Alwar",
+"state": "Rajasthan",
+"lat": 27.4148,
+"lon": 76.662,
+"osm_id": "relation/1950060",
+"lgd_code": "87",
+"wikidata": "Q449690"
+},
+{
+"name": "Balotra",
+"state": "Rajasthan",
+"lat": 25.8469,
+"lon": 72.1469,
+"osm_id": "relation/16701138",
+"lgd_code": "775",
+"wikidata": "Q121335556"
+},
+{
+"name": "Banswara",
+"state": "Rajasthan",
+"lat": 23.4918,
+"lon": 74.3643,
+"osm_id": "relation/1950130",
+"lgd_code": "88",
+"wikidata": "Q806969"
+},
+{
+"name": "Baran",
+"state": "Rajasthan",
+"lat": 24.9208,
+"lon": 76.8125,
+"osm_id": "relation/1950088",
+"lgd_code": "89",
+"wikidata": "Q2329717"
+},
+{
+"name": "Barmer",
+"state": "Rajasthan",
+"lat": 25.5815,
+"lon": 71.0159,
+"osm_id": "relation/1798824",
+"lgd_code": "90",
+"wikidata": "Q42016"
+},
+{
+"name": "Beawar",
+"state": "Rajasthan",
+"lat": 26.0545,
+"lon": 74.2482,
+"osm_id": "relation/16700983",
+"lgd_code": "774",
+"wikidata": "Q122971174"
+},
+{
+"name": "Bharatpur",
+"state": "Rajasthan",
+"lat": 27.0245,
+"lon": 77.3596,
+"osm_id": "relation/1950061",
+"lgd_code": "91",
+"wikidata": "Q854861"
+},
+{
+"name": "Bhilwara",
+"state": "Rajasthan",
+"lat": 25.471,
+"lon": 74.7367,
+"osm_id": "relation/1950131",
+"lgd_code": "92",
+"wikidata": "Q41991"
+},
+{
+"name": "Bikaner",
+"state": "Rajasthan",
+"lat": 28.1164,
+"lon": 73.1156,
+"osm_id": "relation/1948979",
+"lgd_code": "93",
+"wikidata": "Q778996"
+},
+{
+"name": "Bundi",
+"state": "Rajasthan",
+"lat": 25.4375,
+"lon": 75.8082,
+"osm_id": "relation/1950132",
+"lgd_code": "94",
+"wikidata": "Q670405"
+},
+{
+"name": "Chittorgarh",
+"state": "Rajasthan",
+"lat": 24.717,
+"lon": 74.9602,
+"osm_id": "relation/9510594",
+"lgd_code": "95",
+"wikidata": "Q1075011"
+},
+{
+"name": "Churu",
+"state": "Rajasthan",
+"lat": 28.2054,
+"lon": 74.7654,
+"osm_id": "relation/1949098",
+"lgd_code": "96",
+"wikidata": "Q1090006"
+},
+{
+"name": "Dausa",
+"state": "Rajasthan",
+"lat": 26.8048,
+"lon": 76.6102,
+"osm_id": "relation/1950072",
+"lgd_code": "97",
+"wikidata": "Q1173042"
+},
+{
+"name": "Deeg",
+"state": "Rajasthan",
+"lat": 27.5087,
+"lon": 77.2512,
+"osm_id": "relation/16700632",
+"lgd_code": "767",
+"wikidata": "Q122766908"
+},
+{
+"name": "Dhaulpur",
+"state": "Rajasthan",
+"lat": 26.6532,
+"lon": 77.7496,
+"osm_id": "relation/1950073",
+"lgd_code": "98",
+"wikidata": "Q1207709"
+},
+{
+"name": "Didwana-Kuchaman",
+"state": "Rajasthan",
+"lat": 27.133,
+"lon": 74.7783,
+"osm_id": "relation/16700485",
+"lgd_code": "768",
+"wikidata": "Q122971176"
+},
+{
+"name": "Dungarpur",
+"state": "Rajasthan",
+"lat": 23.6716,
+"lon": 73.8666,
+"osm_id": "relation/1950133",
+"lgd_code": "99",
+"wikidata": "Q1265687"
+},
+{
+"name": "Hanumangarh",
+"state": "Rajasthan",
+"lat": 29.3658,
+"lon": 74.6793,
+"osm_id": "relation/1949099",
+"lgd_code": "101",
+"wikidata": "Q1356112"
+},
+{
+"name": "Jaipur",
+"state": "Rajasthan",
+"lat": 26.9795,
+"lon": 75.5988,
+"osm_id": "relation/1950062",
+"lgd_code": "102",
+"wikidata": "Q1134781"
+},
+{
+"name": "Jaisalmer",
+"state": "Rajasthan",
+"lat": 27.0273,
+"lon": 70.9111,
+"osm_id": "relation/1798847",
+"lgd_code": "103",
+"wikidata": "Q1419708"
+},
+{
+"name": "Jalore",
+"state": "Rajasthan",
+"lat": 25.209,
+"lon": 72.1395,
+"osm_id": "relation/1798825",
+"lgd_code": "104",
+"wikidata": "Q1460832"
+},
+{
+"name": "Jhalawar",
+"state": "Rajasthan",
+"lat": 24.3132,
+"lon": 76.2033,
+"osm_id": "relation/1950089",
+"lgd_code": "105",
+"wikidata": "Q1471417"
+},
+{
+"name": "Jhunjhunu",
+"state": "Rajasthan",
+"lat": 28.0798,
+"lon": 75.5605,
+"osm_id": "relation/1949106",
+"lgd_code": "106",
+"wikidata": "Q1471427"
+},
+{
+"name": "Jodhpur",
+"state": "Rajasthan",
+"lat": 26.411,
+"lon": 72.949,
+"osm_id": "relation/16700652",
+"lgd_code": "107",
+"wikidata": "Q1434965"
+},
+{
+"name": "Karauli",
+"state": "Rajasthan",
+"lat": 26.5162,
+"lon": 76.9339,
+"osm_id": "relation/1950074",
+"lgd_code": "108",
+"wikidata": "Q1419668"
+},
+{
+"name": "Khairthal-Tijara",
+"state": "Rajasthan",
+"lat": 27.9453,
+"lon": 76.6561,
+"osm_id": "relation/16700901",
+"lgd_code": "770",
+"wikidata": "Q122971175"
+},
+{
+"name": "Kota",
+"state": "Rajasthan",
+"lat": 25.1949,
+"lon": 76.0962,
+"osm_id": "relation/1950090",
+"lgd_code": "109",
+"wikidata": "Q999432"
+},
+{
+"name": "Kotputli-Behror",
+"state": "Rajasthan",
+"lat": 27.715,
+"lon": 76.2249,
+"osm_id": "relation/16700872",
+"lgd_code": "782",
+"wikidata": "Q117313512"
+},
+{
+"name": "Nagaur",
+"state": "Rajasthan",
+"lat": 26.988,
+"lon": 73.8103,
+"osm_id": "relation/1949081",
+"lgd_code": "110",
+"wikidata": "Q1507174"
+},
+{
+"name": "Pali",
+"state": "Rajasthan",
+"lat": 25.4547,
+"lon": 73.4135,
+"osm_id": "relation/1798830",
+"lgd_code": "111",
+"wikidata": "Q46925"
+},
+{
+"name": "Phalodi",
+"state": "Rajasthan",
+"lat": 27.0788,
+"lon": 72.4728,
+"osm_id": "relation/16700635",
+"lgd_code": "772",
+"wikidata": "Q122971167"
+},
+{
+"name": "Pratapgarh",
+"state": "Rajasthan",
+"lat": 24.023,
+"lon": 74.5994,
+"osm_id": "relation/9510593",
+"lgd_code": "629",
+"wikidata": "Q1585433"
+},
+{
+"name": "Rajsamand",
+"state": "Rajasthan",
+"lat": 25.3699,
+"lon": 73.9328,
+"osm_id": "relation/1950134",
+"lgd_code": "112",
+"wikidata": "Q596693"
+},
+{
+"name": "Salumbar",
+"state": "Rajasthan",
+"lat": 24.1877,
+"lon": 74.0457,
+"osm_id": "relation/16700995",
+"lgd_code": "777",
+"wikidata": "Q122971173"
+},
+{
+"name": "Sawai Madhopur",
+"state": "Rajasthan",
+"lat": 26.2288,
+"lon": 76.4806,
+"osm_id": "relation/1950075",
+"lgd_code": "113",
+"wikidata": "Q1507166"
+},
+{
+"name": "Sikar",
+"state": "Rajasthan",
+"lat": 27.6625,
+"lon": 75.3867,
+"osm_id": "relation/1949107",
+"lgd_code": "114",
+"wikidata": "Q12945777"
+},
+{
+"name": "Sirohi",
+"state": "Rajasthan",
+"lat": 24.8114,
+"lon": 72.7095,
+"osm_id": "relation/1949082",
+"lgd_code": "115",
+"wikidata": "Q205719"
+},
+{
+"name": "Sri Ganganagar",
+"state": "Rajasthan",
+"lat": 29.4615,
+"lon": 73.4794,
+"osm_id": "relation/1948980",
+"lgd_code": "100",
+"wikidata": "Q1419696"
+},
+{
+"name": "Tonk",
+"state": "Rajasthan",
+"lat": 26.1224,
+"lon": 75.7146,
+"osm_id": "relation/1950076",
+"lgd_code": "116",
+"wikidata": "Q915880"
+},
+{
+"name": "Udaipur",
+"state": "Rajasthan",
+"lat": 24.4537,
+"lon": 73.6834,
+"osm_id": "relation/1950135",
+"lgd_code": "117",
+"wikidata": "Q1321577"
+},
+{
+"name": "Gangtok",
+"state": "Sikkim",
+"lat": 27.3257,
+"lon": 88.6795,
+"osm_id": "relation/10089492",
+"lgd_code": "225",
+"wikidata": "Q113956160"
+},
+{
+"name": "Gyalshing",
+"state": "Sikkim",
+"lat": 27.4185,
+"lon": 88.1942,
+"osm_id": "relation/1790817",
+"lgd_code": "228",
+"wikidata": "Q611357"
+},
+{
+"name": "Mangan",
+"state": "Sikkim",
+"lat": 27.7497,
+"lon": 88.5003,
+"osm_id": "relation/1790815",
+"lgd_code": "226",
+"wikidata": "Q1784149"
+},
+{
+"name": "Namchi",
+"state": "Sikkim",
+"lat": 27.3032,
+"lon": 88.4047,
+"osm_id": "relation/1790816",
+"lgd_code": "227",
+"wikidata": "Q1805051"
+},
+{
+"name": "Pakyong",
+"state": "Sikkim",
+"lat": 27.229,
+"lon": 88.6998,
+"osm_id": "relation/14575603",
+"lgd_code": "741",
+"wikidata": "Q108803704"
+},
+{
+"name": "Soreng",
+"state": "Sikkim",
+"lat": 27.19,
+"lon": 88.1712,
+"osm_id": "relation/14768400",
+"lgd_code": "742",
+"wikidata": "Q112939132"
+},
+{
+"name": "Ariyalur",
+"state": "Tamil Nadu",
+"lat": 11.1528,
+"lon": 79.2253,
+"osm_id": "relation/1819586",
+"lgd_code": "610",
+"wikidata": "Q15112"
+},
+{
+"name": "Chengalpattu",
+"state": "Tamil Nadu",
+"lat": 12.6363,
+"lon": 79.9486,
+"osm_id": "relation/10329991",
+"lgd_code": "730",
+"wikidata": "Q65976177"
+},
+{
+"name": "Chennai",
+"state": "Tamil Nadu",
+"lat": 13.0009,
+"lon": 80.2126,
+"osm_id": "relation/7910817",
+"lgd_code": "568",
+"wikidata": "Q15116"
+},
+{
+"name": "Coimbatore",
+"state": "Tamil Nadu",
+"lat": 10.8128,
+"lon": 76.9748,
+"osm_id": "relation/1819317",
+"lgd_code": "569",
+"wikidata": "Q15136"
+},
+{
+"name": "Cuddalore",
+"state": "Tamil Nadu",
+"lat": 11.5282,
+"lon": 79.3452,
+"osm_id": "relation/1819588",
+"lgd_code": "570",
+"wikidata": "Q15150"
+},
+{
+"name": "Dharmapuri",
+"state": "Tamil Nadu",
+"lat": 12.1451,
+"lon": 78.2105,
+"osm_id": "relation/1819362",
+"lgd_code": "571",
+"wikidata": "Q15152"
+},
+{
+"name": "Dindigul",
+"state": "Tamil Nadu",
+"lat": 10.4262,
+"lon": 77.8029,
+"osm_id": "relation/1819273",
+"lgd_code": "572",
+"wikidata": "Q15154"
+},
+{
+"name": "Erode",
+"state": "Tamil Nadu",
+"lat": 11.4887,
+"lon": 77.3833,
+"osm_id": "relation/1819318",
+"lgd_code": "573",
+"wikidata": "Q15155"
+},
+{
+"name": "Kallakurichi",
+"state": "Tamil Nadu",
+"lat": 11.7939,
+"lon": 79.045,
+"osm_id": "relation/9602893",
+"lgd_code": "729",
+"wikidata": "Q60493360"
+},
+{
+"name": "Kanchipuram",
+"state": "Tamil Nadu",
+"lat": 12.7938,
+"lon": 79.8311,
+"osm_id": "relation/1819589",
+"lgd_code": "574",
+"wikidata": "Q15157"
+},
+{
+"name": "Kanniyakumari",
+"state": "Tamil Nadu",
+"lat": 8.3279,
+"lon": 77.3427,
+"osm_id": "relation/1818782",
+"lgd_code": "575",
+"wikidata": "Q15158"
+},
+{
+"name": "Karur",
+"state": "Tamil Nadu",
+"lat": 10.822,
+"lon": 78.168,
+"osm_id": "relation/1819319",
+"lgd_code": "576",
+"wikidata": "Q15182"
+},
+{
+"name": "Krishnagiri",
+"state": "Tamil Nadu",
+"lat": 12.5153,
+"lon": 78.0709,
+"osm_id": "relation/9537174",
+"lgd_code": "577",
+"wikidata": "Q15183"
+},
+{
+"name": "Madurai",
+"state": "Tamil Nadu",
+"lat": 9.9367,
+"lon": 77.9686,
+"osm_id": "relation/1819275",
+"lgd_code": "578",
+"wikidata": "Q15184"
+},
+{
+"name": "Mayiladuthurai",
+"state": "Tamil Nadu",
+"lat": 11.189,
+"lon": 79.6837,
+"osm_id": "relation/11698709",
+"lgd_code": "735",
+"wikidata": "Q89918869"
+},
+{
+"name": "Nagapattinam",
+"state": "Tamil Nadu",
+"lat": 10.6026,
+"lon": 79.6765,
+"osm_id": "relation/1819591",
+"lgd_code": "579",
+"wikidata": "Q15185"
+},
+{
+"name": "Namakkal",
+"state": "Tamil Nadu",
+"lat": 11.3052,
+"lon": 78.0864,
+"osm_id": "relation/1819320",
+"lgd_code": "580",
+"wikidata": "Q15187"
+},
+{
+"name": "Nilgiris",
+"state": "Tamil Nadu",
+"lat": 11.4467,
+"lon": 76.6239,
+"osm_id": "relation/448985",
+"lgd_code": "587",
+"wikidata": "Q15188"
+},
+{
+"name": "Perambalur",
+"state": "Tamil Nadu",
+"lat": 11.2898,
+"lon": 78.9018,
+"osm_id": "relation/1819592",
+"lgd_code": "581",
+"wikidata": "Q15186"
+},
+{
+"name": "Pudukkottai",
+"state": "Tamil Nadu",
+"lat": 10.2901,
+"lon": 78.8466,
+"osm_id": "relation/1819211",
+"lgd_code": "582",
+"wikidata": "Q15190"
+},
+{
+"name": "Ramanathapuram",
+"state": "Tamil Nadu",
+"lat": 9.5173,
+"lon": 78.838,
+"osm_id": "relation/1819773",
+"lgd_code": "583",
+"wikidata": "Q15191"
+},
+{
+"name": "Ranipet",
+"state": "Tamil Nadu",
+"lat": 12.9186,
+"lon": 79.4853,
+"osm_id": "relation/10330032",
+"lgd_code": "731",
+"wikidata": "Q66659623"
+},
+{
+"name": "Salem",
+"state": "Tamil Nadu",
+"lat": 11.6469,
+"lon": 78.2447,
+"osm_id": "relation/1819322",
+"lgd_code": "584",
+"wikidata": "Q15192"
+},
+{
+"name": "Sivagangai",
+"state": "Tamil Nadu",
+"lat": 9.965,
+"lon": 78.5684,
+"osm_id": "relation/1819212",
+"lgd_code": "585",
+"wikidata": "Q15195"
+},
+{
+"name": "Tenkasi",
+"state": "Tamil Nadu",
+"lat": 9.0932,
+"lon": 77.5034,
+"osm_id": "relation/10303764",
+"lgd_code": "733",
+"wikidata": "Q75094121"
+},
+{
+"name": "Thanjavur",
+"state": "Tamil Nadu",
+"lat": 10.6591,
+"lon": 79.1741,
+"osm_id": "relation/1819594",
+"lgd_code": "586",
+"wikidata": "Q15194"
+},
+{
+"name": "Theni",
+"state": "Tamil Nadu",
+"lat": 9.8688,
+"lon": 77.4476,
+"osm_id": "relation/1819276",
+"lgd_code": "588",
+"wikidata": "Q15196"
+},
+{
+"name": "Thiruvallur",
+"state": "Tamil Nadu",
+"lat": 13.2541,
+"lon": 79.8213,
+"osm_id": "relation/1819595",
+"lgd_code": "589",
+"wikidata": "Q15204"
+},
+{
+"name": "Thiruvarur",
+"state": "Tamil Nadu",
+"lat": 10.6881,
+"lon": 79.5149,
+"osm_id": "relation/1819596",
+"lgd_code": "590",
+"wikidata": "Q15197"
+},
+{
+"name": "Thoothukudi",
+"state": "Tamil Nadu",
+"lat": 8.8458,
+"lon": 78.0301,
+"osm_id": "relation/1819774",
+"lgd_code": "594",
+"wikidata": "Q15198"
+},
+{
+"name": "Tiruchirappalli",
+"state": "Tamil Nadu",
+"lat": 10.8512,
+"lon": 78.5877,
+"osm_id": "relation/1819323",
+"lgd_code": "591",
+"wikidata": "Q15201"
+},
+{
+"name": "Tirunelveli",
+"state": "Tamil Nadu",
+"lat": 8.5497,
+"lon": 77.5741,
+"osm_id": "relation/1818783",
+"lgd_code": "592",
+"wikidata": "Q15200"
+},
+{
+"name": "Tirupattur",
+"state": "Tamil Nadu",
+"lat": 12.584,
+"lon": 78.6618,
+"osm_id": "relation/10330031",
+"lgd_code": "732",
+"wikidata": "Q66659621"
+},
+{
+"name": "Tiruppur",
+"state": "Tamil Nadu",
+"lat": 10.7915,
+"lon": 77.4667,
+"osm_id": "relation/9538519",
+"lgd_code": "634",
+"wikidata": "Q15202"
+},
+{
+"name": "Tiruvannamalai",
+"state": "Tamil Nadu",
+"lat": 12.4288,
+"lon": 79.1933,
+"osm_id": "relation/1819597",
+"lgd_code": "593",
+"wikidata": "Q15207"
+},
+{
+"name": "Vellore",
+"state": "Tamil Nadu",
+"lat": 12.9018,
+"lon": 78.9482,
+"osm_id": "relation/1819598",
+"lgd_code": "595",
+"wikidata": "Q15206"
+},
+{
+"name": "Viluppuram",
+"state": "Tamil Nadu",
+"lat": 12.1167,
+"lon": 79.5878,
+"osm_id": "relation/1819599",
+"lgd_code": "596",
+"wikidata": "Q15205"
+},
+{
+"name": "Virudhunagar",
+"state": "Tamil Nadu",
+"lat": 9.4927,
+"lon": 77.8853,
+"osm_id": "relation/1819213",
+"lgd_code": "597",
+"wikidata": "Q15209"
+},
+{
+"name": "Adilabad",
+"state": "Telangana",
+"lat": 19.5449,
+"lon": 78.5683,
+"osm_id": "relation/2022179",
+"lgd_code": "501",
+"wikidata": "Q15211"
+},
+{
+"name": "Bhadradri Kothagudem",
+"state": "Telangana",
+"lat": 17.7157,
+"lon": 80.7624,
+"osm_id": "relation/7698599",
+"lgd_code": "690",
+"wikidata": "Q28169767"
+},
+{
+"name": "Hanumakonda",
+"state": "Telangana",
+"lat": 18.0327,
+"lon": 79.5414,
+"osm_id": "relation/2022181",
+"lgd_code": "686",
+"wikidata": "Q213077"
+},
+{
+"name": "Hyderabad",
+"state": "Telangana",
+"lat": 17.3887,
+"lon": 78.4692,
+"osm_id": "relation/7255986",
+"lgd_code": "507",
+"wikidata": "Q15340"
+},
+{
+"name": "Jagtial",
+"state": "Telangana",
+"lat": 18.8214,
+"lon": 78.9083,
+"osm_id": "relation/7691427",
+"lgd_code": "681",
+"wikidata": "Q28169780"
+},
+{
+"name": "Jangaon",
+"state": "Telangana",
+"lat": 17.7467,
+"lon": 79.2038,
+"osm_id": "relation/7666379",
+"lgd_code": "689",
+"wikidata": "Q28170170"
+},
+{
+"name": "Jayashankar Bhupalapally",
+"state": "Telangana",
+"lat": 18.5129,
+"lon": 79.9525,
+"osm_id": "relation/7698600",
+"lgd_code": "687",
+"wikidata": "Q28169775"
+},
+{
+"name": "Jogulamba Gadwal",
+"state": "Telangana",
+"lat": 16.0999,
+"lon": 77.87,
+"osm_id": "relation/7666146",
+"lgd_code": "695",
+"wikidata": "Q27897618"
+},
+{
+"name": "Kamareddy",
+"state": "Telangana",
+"lat": 18.3165,
+"lon": 78.0441,
+"osm_id": "relation/7701043",
+"lgd_code": "685",
+"wikidata": "Q27956125"
+},
+{
+"name": "Karimnagar",
+"state": "Telangana",
+"lat": 18.4076,
+"lon": 79.2649,
+"osm_id": "relation/2022180",
+"lgd_code": "508",
+"wikidata": "Q15373"
+},
+{
+"name": "Khammam",
+"state": "Telangana",
+"lat": 17.1729,
+"lon": 80.3639,
+"osm_id": "relation/2022134",
+"lgd_code": "509",
+"wikidata": "Q15371"
+},
+{
+"name": "Kumuram Bheem Asifabad",
+"state": "Telangana",
+"lat": 19.3339,
+"lon": 79.3899,
+"osm_id": "relation/7686917",
+"lgd_code": "699",
+"wikidata": "Q28170184"
+},
+{
+"name": "Mahabubabad",
+"state": "Telangana",
+"lat": 17.7139,
+"lon": 79.9179,
+"osm_id": "relation/7699117",
+"lgd_code": "688",
+"wikidata": "Q28169761"
+},
+{
+"name": "Mahabubnagar",
+"state": "Telangana",
+"lat": 16.6964,
+"lon": 78.0232,
+"osm_id": "relation/2022227",
+"lgd_code": "512",
+"wikidata": "Q15380"
+},
+{
+"name": "Mancherial",
+"state": "Telangana",
+"lat": 18.9805,
+"lon": 79.4198,
+"osm_id": "relation/7686916",
+"lgd_code": "684",
+"wikidata": "Q28169747"
+},
+{
+"name": "Medak",
+"state": "Telangana",
+"lat": 17.9375,
+"lon": 78.1919,
+"osm_id": "relation/2022212",
+"lgd_code": "513",
+"wikidata": "Q15386"
+},
+{
+"name": "Medchal–Malkajgiri",
+"state": "Telangana",
+"lat": 17.535,
+"lon": 78.554,
+"osm_id": "relation/7664883",
+"lgd_code": "700",
+"wikidata": "Q27614841"
+},
+{
+"name": "Mulugu",
+"state": "Telangana",
+"lat": 18.3146,
+"lon": 80.3025,
+"osm_id": "relation/9502792",
+"lgd_code": "720",
+"wikidata": "Q61746006"
+},
+{
+"name": "Nagarkurnool",
+"state": "Telangana",
+"lat": 16.4157,
+"lon": 78.6675,
+"osm_id": "relation/7700442",
+"lgd_code": "694",
+"wikidata": "Q28169773"
+},
+{
+"name": "Nalgonda",
+"state": "Telangana",
+"lat": 16.858,
+"lon": 79.1586,
+"osm_id": "relation/2022221",
+"lgd_code": "514",
+"wikidata": "Q15384"
+},
+{
+"name": "Narayanpet",
+"state": "Telangana",
+"lat": 16.7005,
+"lon": 77.5175,
+"osm_id": "relation/9502953",
+"lgd_code": "721",
+"wikidata": "Q61746013"
+},
+{
+"name": "Nirmal",
+"state": "Telangana",
+"lat": 19.0915,
+"lon": 78.3565,
+"osm_id": "relation/7686918",
+"lgd_code": "680",
+"wikidata": "Q28169750"
+},
+{
+"name": "Nizamabad",
+"state": "Telangana",
+"lat": 18.7249,
+"lon": 78.1848,
+"osm_id": "relation/2022213",
+"lgd_code": "516",
+"wikidata": "Q15391"
+},
+{
+"name": "Peddapalli",
+"state": "Telangana",
+"lat": 18.6207,
+"lon": 79.4724,
+"osm_id": "relation/7691426",
+"lgd_code": "682",
+"wikidata": "Q27614797"
+},
+{
+"name": "Rajanna Sircilla",
+"state": "Telangana",
+"lat": 18.4526,
+"lon": 78.7738,
+"osm_id": "relation/7691428",
+"lgd_code": "683",
+"wikidata": "Q28172781"
+},
+{
+"name": "Ranga Reddy",
+"state": "Telangana",
+"lat": 17.1334,
+"lon": 78.3829,
+"osm_id": "relation/2022214",
+"lgd_code": "518",
+"wikidata": "Q15388"
+},
+{
+"name": "Sangareddy",
+"state": "Telangana",
+"lat": 17.8684,
+"lon": 77.9469,
+"osm_id": "relation/7663387",
+"lgd_code": "691",
+"wikidata": "Q28169753"
+},
+{
+"name": "Siddipet",
+"state": "Telangana",
+"lat": 18.0058,
+"lon": 78.8981,
+"osm_id": "relation/7665824",
+"lgd_code": "692",
+"wikidata": "Q28169756"
+},
+{
+"name": "Suryapet",
+"state": "Telangana",
+"lat": 17.0803,
+"lon": 79.7168,
+"osm_id": "relation/7699215",
+"lgd_code": "696",
+"wikidata": "Q28169770"
+},
+{
+"name": "Vikarabad",
+"state": "Telangana",
+"lat": 17.2701,
+"lon": 77.7175,
+"osm_id": "relation/7685040",
+"lgd_code": "698",
+"wikidata": "Q28170173"
+},
+{
+"name": "Wanaparthy",
+"state": "Telangana",
+"lat": 16.2849,
+"lon": 77.9853,
+"osm_id": "relation/7700765",
+"lgd_code": "693",
+"wikidata": "Q28172504"
+},
+{
+"name": "Warangal",
+"state": "Telangana",
+"lat": 17.8676,
+"lon": 79.7604,
+"osm_id": "relation/7666378",
+"lgd_code": "522",
+"wikidata": "Q15399"
+},
+{
+"name": "Yadadri Bhuvanagiri",
+"state": "Telangana",
+"lat": 17.4282,
+"lon": 79.0703,
+"osm_id": "relation/7700443",
+"lgd_code": "697",
+"wikidata": "Q28169764"
+},
+{
+"name": "Dhalai",
+"state": "Tripura",
+"lat": 23.8237,
+"lon": 91.9618,
+"osm_id": "relation/2026459",
+"lgd_code": "269",
+"wikidata": "Q2086546"
+},
+{
+"name": "Gomati",
+"state": "Tripura",
+"lat": 23.4278,
+"lon": 91.6098,
+"osm_id": "relation/9519754",
+"lgd_code": "654",
+"wikidata": "Q16086497"
+},
+{
+"name": "Khowai",
+"state": "Tripura",
+"lat": 23.9563,
+"lon": 91.6287,
+"osm_id": "relation/9519814",
+"lgd_code": "652",
+"wikidata": "Q16086680"
+},
+{
+"name": "North Tripura",
+"state": "Tripura",
+"lat": 24.0924,
+"lon": 92.1992,
+"osm_id": "relation/2026469",
+"lgd_code": "270",
+"wikidata": "Q1920978"
+},
+{
+"name": "Sipahijala",
+"state": "Tripura",
+"lat": 23.5308,
+"lon": 91.3583,
+"osm_id": "relation/9519791",
+"lgd_code": "653",
+"wikidata": "Q16086076"
+},
+{
+"name": "South Tripura",
+"state": "Tripura",
+"lat": 23.1711,
+"lon": 91.5679,
+"osm_id": "relation/2026470",
+"lgd_code": "271",
+"wikidata": "Q1822159"
+},
+{
+"name": "Unakoti",
+"state": "Tripura",
+"lat": 24.191,
+"lon": 92.0561,
+"osm_id": "relation/9520112",
+"lgd_code": "655",
+"wikidata": "Q16087996"
+},
+{
+"name": "West Tripura",
+"state": "Tripura",
+"lat": 23.9148,
+"lon": 91.3919,
+"osm_id": "relation/2026460",
+"lgd_code": "272",
+"wikidata": "Q1947570"
+},
+{
+"name": "Agra",
+"state": "Uttar Pradesh",
+"lat": 27.0755,
+"lon": 78.1258,
+"osm_id": "relation/1958554",
+"lgd_code": "118",
+"wikidata": "Q606343"
+},
+{
+"name": "Aligarh",
+"state": "Uttar Pradesh",
+"lat": 27.8757,
+"lon": 78.0417,
+"osm_id": "relation/1958143",
+"lgd_code": "119",
+"wikidata": "Q766918"
+},
+{
+"name": "Ambedkar Nagar",
+"state": "Uttar Pradesh",
+"lat": 26.4046,
+"lon": 82.6761,
+"osm_id": "relation/1959867",
+"lgd_code": "121",
+"wikidata": "Q456764"
+},
+{
+"name": "Amethi",
+"state": "Uttar Pradesh",
+"lat": 26.3464,
+"lon": 81.7073,
+"osm_id": "relation/9540099",
+"lgd_code": "640",
+"wikidata": "Q1071494"
+},
+{
+"name": "Amroha",
+"state": "Uttar Pradesh",
+"lat": 28.7956,
+"lon": 78.3843,
+"osm_id": "relation/1958055",
+"lgd_code": "154",
+"wikidata": "Q1891677"
+},
+{
+"name": "Auraiya",
+"state": "Uttar Pradesh",
+"lat": 26.6558,
+"lon": 79.481,
+"osm_id": "relation/1959117",
+"lgd_code": "122",
+"wikidata": "Q1812533"
+},
+{
+"name": "Ayodhya",
+"state": "Uttar Pradesh",
+"lat": 26.6387,
+"lon": 82.0102,
+"osm_id": "relation/1959788",
+"lgd_code": "140",
+"wikidata": "Q1814132"
+},
+{
+"name": "Azamgarh",
+"state": "Uttar Pradesh",
+"lat": 26.0238,
+"lon": 83.0666,
+"osm_id": "relation/1959868",
+"lgd_code": "123",
+"wikidata": "Q793553"
+},
+{
+"name": "Badaun",
+"state": "Uttar Pradesh",
+"lat": 28.065,
+"lon": 79.041,
+"osm_id": "relation/1958555",
+"lgd_code": "133",
+"wikidata": "Q1815262"
+},
+{
+"name": "Baghpat",
+"state": "Uttar Pradesh",
+"lat": 29.0374,
+"lon": 77.318,
+"osm_id": "relation/1958008",
+"lgd_code": "124",
+"wikidata": "Q1797363"
+},
+{
+"name": "Bahraich",
+"state": "Uttar Pradesh",
+"lat": 27.7341,
+"lon": 81.5145,
+"osm_id": "relation/1958963",
+"lgd_code": "125",
+"wikidata": "Q1812548"
+},
+{
+"name": "Ballia",
+"state": "Uttar Pradesh",
+"lat": 25.875,
+"lon": 84.1552,
+"osm_id": "relation/1959869",
+"lgd_code": "126",
+"wikidata": "Q584644"
+},
+{
+"name": "Balrampur",
+"state": "Uttar Pradesh",
+"lat": 27.4478,
+"lon": 82.3932,
+"osm_id": "relation/1958964",
+"lgd_code": "127",
+"wikidata": "Q1948380"
+},
+{
+"name": "Banda",
+"state": "Uttar Pradesh",
+"lat": 25.4438,
+"lon": 80.5702,
+"osm_id": "relation/1959820",
+"lgd_code": "128",
+"wikidata": "Q2131759"
+},
+{
+"name": "Barabanki",
+"state": "Uttar Pradesh",
+"lat": 26.9423,
+"lon": 81.3425,
+"osm_id": "relation/1959692",
+"lgd_code": "129",
+"wikidata": "Q633114"
+},
+{
+"name": "Bareilly",
+"state": "Uttar Pradesh",
+"lat": 28.4583,
+"lon": 79.3805,
+"osm_id": "relation/1958196",
+"lgd_code": "130",
+"wikidata": "Q1797378"
+},
+{
+"name": "Basti",
+"state": "Uttar Pradesh",
+"lat": 26.8387,
+"lon": 82.6031,
+"osm_id": "relation/1959787",
+"lgd_code": "131",
+"wikidata": "Q715267"
+},
+{
+"name": "Bijnor",
+"state": "Uttar Pradesh",
+"lat": 29.4071,
+"lon": 78.4643,
+"osm_id": "relation/1958009",
+"lgd_code": "132",
+"wikidata": "Q1937865"
+},
+{
+"name": "Bulandshahr",
+"state": "Uttar Pradesh",
+"lat": 28.3873,
+"lon": 78.0496,
+"osm_id": "relation/1958144",
+"lgd_code": "134",
+"wikidata": "Q1752328"
+},
+{
+"name": "Chandauli",
+"state": "Uttar Pradesh",
+"lat": 25.1259,
+"lon": 83.2819,
+"osm_id": "relation/1959911",
+"lgd_code": "135",
+"wikidata": "Q2733369"
+},
+{
+"name": "Chitrakoot",
+"state": "Uttar Pradesh",
+"lat": 25.2172,
+"lon": 81.1231,
+"osm_id": "relation/9538920",
+"lgd_code": "136",
+"wikidata": "Q2089141"
+},
+{
+"name": "Deoria",
+"state": "Uttar Pradesh",
+"lat": 26.4243,
+"lon": 83.8313,
+"osm_id": "relation/1959870",
+"lgd_code": "137",
+"wikidata": "Q731746"
+},
+{
+"name": "Etah",
+"state": "Uttar Pradesh",
+"lat": 27.5549,
+"lon": 78.7255,
+"osm_id": "relation/1958556",
+"lgd_code": "138",
+"wikidata": "Q1773429"
+},
+{
+"name": "Etawah",
+"state": "Uttar Pradesh",
+"lat": 26.7157,
+"lon": 79.0455,
+"osm_id": "relation/1959118",
+"lgd_code": "139",
+"wikidata": "Q1815288"
+},
+{
+"name": "Farrukhabad",
+"state": "Uttar Pradesh",
+"lat": 27.4361,
+"lon": 79.4287,
+"osm_id": "relation/1958605",
+"lgd_code": "141",
+"wikidata": "Q1897251"
+},
+{
+"name": "Fatehpur",
+"state": "Uttar Pradesh",
+"lat": 25.8348,
+"lon": 80.7757,
+"osm_id": "relation/1959789",
+"lgd_code": "142",
+"wikidata": "Q1946829"
+},
+{
+"name": "Firozabad",
+"state": "Uttar Pradesh",
+"lat": 27.1942,
+"lon": 78.5077,
+"osm_id": "relation/1958557",
+"lgd_code": "143",
+"wikidata": "Q1946950"
+},
+{
+"name": "Gautam Buddha Nagar",
+"state": "Uttar Pradesh",
+"lat": 28.369,
+"lon": 77.5154,
+"osm_id": "relation/1958053",
+"lgd_code": "144",
+"wikidata": "Q1785950"
+},
+{
+"name": "Ghaziabad",
+"state": "Uttar Pradesh",
+"lat": 28.775,
+"lon": 77.4544,
+"osm_id": "relation/1958054",
+"lgd_code": "145",
+"wikidata": "Q1773444"
+},
+{
+"name": "Ghazipur",
+"state": "Uttar Pradesh",
+"lat": 25.6033,
+"lon": 83.5127,
+"osm_id": "relation/1959871",
+"lgd_code": "146",
+"wikidata": "Q1287993"
+},
+{
+"name": "Gonda",
+"state": "Uttar Pradesh",
+"lat": 27.1104,
+"lon": 82.0644,
+"osm_id": "relation/1959699",
+"lgd_code": "147",
+"wikidata": "Q1937857"
+},
+{
+"name": "Gorakhpur",
+"state": "Uttar Pradesh",
+"lat": 26.6679,
+"lon": 83.3694,
+"osm_id": "relation/1959872",
+"lgd_code": "148",
+"wikidata": "Q1144349"
+},
+{
+"name": "Hamirpur",
+"state": "Uttar Pradesh",
+"lat": 25.8197,
+"lon": 79.8534,
+"osm_id": "relation/1959790",
+"lgd_code": "149",
+"wikidata": "Q2019757"
+},
+{
+"name": "Hapur",
+"state": "Uttar Pradesh",
+"lat": 28.7167,
+"lon": 77.8783,
+"osm_id": "relation/9539177",
+"lgd_code": "661",
+"wikidata": "Q5653340"
+},
+{
+"name": "Hardoi",
+"state": "Uttar Pradesh",
+"lat": 27.3371,
+"lon": 80.2556,
+"osm_id": "relation/1959017",
+"lgd_code": "150",
+"wikidata": "Q1772822"
+},
+{
+"name": "Hathras",
+"state": "Uttar Pradesh",
+"lat": 27.5724,
+"lon": 78.2006,
+"osm_id": "relation/1958145",
+"lgd_code": "163",
+"wikidata": "Q1814892"
+},
+{
+"name": "Jalaun",
+"state": "Uttar Pradesh",
+"lat": 26.1048,
+"lon": 79.4425,
+"osm_id": "relation/1959120",
+"lgd_code": "151",
+"wikidata": "Q2089115"
+},
+{
+"name": "Jaunpur",
+"state": "Uttar Pradesh",
+"lat": 25.7969,
+"lon": 82.6063,
+"osm_id": "relation/1959912",
+"lgd_code": "152",
+"wikidata": "Q1356060"
+},
+{
+"name": "Jhansi",
+"state": "Uttar Pradesh",
+"lat": 25.53,
+"lon": 78.8603,
+"osm_id": "relation/1959122",
+"lgd_code": "153",
+"wikidata": "Q1937885"
+},
+{
+"name": "Kannauj",
+"state": "Uttar Pradesh",
+"lat": 26.9988,
+"lon": 79.6727,
+"osm_id": "relation/1959123",
+"lgd_code": "155",
+"wikidata": "Q627979"
+},
+{
+"name": "Kanpur Dehat",
+"state": "Uttar Pradesh",
+"lat": 26.4589,
+"lon": 79.8474,
+"osm_id": "relation/1959124",
+"lgd_code": "156",
+"wikidata": "Q610612"
+},
+{
+"name": "Kanpur Nagar",
+"state": "Uttar Pradesh",
+"lat": 26.4409,
+"lon": 80.2411,
+"osm_id": "relation/1959036",
+"lgd_code": "157",
+"wikidata": "Q2089152"
+},
+{
+"name": "Kasganj",
+"state": "Uttar Pradesh",
+"lat": 27.7886,
+"lon": 78.8429,
+"osm_id": "relation/9539644",
+"lgd_code": "633",
+"wikidata": "Q890800"
+},
+{
+"name": "Kaushambi",
+"state": "Uttar Pradesh",
+"lat": 25.5345,
+"lon": 81.43,
+"osm_id": "relation/1959821",
+"lgd_code": "158",
+"wikidata": "Q1946937"
+},
+{
+"name": "Kushinagar",
+"state": "Uttar Pradesh",
+"lat": 26.9242,
+"lon": 83.9722,
+"osm_id": "relation/1958983",
+"lgd_code": "160",
+"wikidata": "Q1840355"
+},
+{
+"name": "Lakhimpur Kheri",
+"state": "Uttar Pradesh",
+"lat": 28.1836,
+"lon": 80.6678,
+"osm_id": "relation/1958965",
+"lgd_code": "159",
+"wikidata": "Q1755447"
+},
+{
+"name": "Lalitpur",
+"state": "Uttar Pradesh",
+"lat": 24.7001,
+"lon": 78.5813,
+"osm_id": "relation/1959125",
+"lgd_code": "161",
+"wikidata": "Q1947336"
+},
+{
+"name": "Lucknow",
+"state": "Uttar Pradesh",
+"lat": 26.8312,
+"lon": 80.889,
+"osm_id": "relation/1959018",
+"lgd_code": "162",
+"wikidata": "Q1773416"
+},
+{
+"name": "Mahoba",
+"state": "Uttar Pradesh",
+"lat": 25.3377,
+"lon": 79.7528,
+"osm_id": "relation/1959822",
+"lgd_code": "165",
+"wikidata": "Q1815322"
+},
+{
+"name": "Mahrajganj",
+"state": "Uttar Pradesh",
+"lat": 27.1842,
+"lon": 83.5272,
+"osm_id": "relation/1958984",
+"lgd_code": "164",
+"wikidata": "Q1356139"
+},
+{
+"name": "Mainpuri",
+"state": "Uttar Pradesh",
+"lat": 27.2093,
+"lon": 79.0626,
+"osm_id": "relation/1958606",
+"lgd_code": "166",
+"wikidata": "Q1816657"
+},
+{
+"name": "Mathura",
+"state": "Uttar Pradesh",
+"lat": 27.6005,
+"lon": 77.6364,
+"osm_id": "relation/1958146",
+"lgd_code": "167",
+"wikidata": "Q1773422"
+},
+{
+"name": "Mau",
+"state": "Uttar Pradesh",
+"lat": 26.039,
+"lon": 83.5532,
+"osm_id": "relation/1959873",
+"lgd_code": "168",
+"wikidata": "Q1518847"
+},
+{
+"name": "Meerut",
+"state": "Uttar Pradesh",
+"lat": 29.0016,
+"lon": 77.7732,
+"osm_id": "relation/1958010",
+"lgd_code": "169",
+"wikidata": "Q1764627"
+},
+{
+"name": "Mirzapur",
+"state": "Uttar Pradesh",
+"lat": 24.9317,
+"lon": 82.6309,
+"osm_id": "relation/1959913",
+"lgd_code": "170",
+"wikidata": "Q1143894"
+},
+{
+"name": "Moradabad",
+"state": "Uttar Pradesh",
+"lat": 28.8796,
+"lon": 78.8096,
+"osm_id": "relation/1958197",
+"lgd_code": "171",
+"wikidata": "Q1345006"
+},
+{
+"name": "Muzaffarnagar",
+"state": "Uttar Pradesh",
+"lat": 29.4496,
+"lon": 77.696,
+"osm_id": "relation/1958011",
+"lgd_code": "172",
+"wikidata": "Q2365710"
+},
+{
+"name": "Pilibhit",
+"state": "Uttar Pradesh",
+"lat": 28.4948,
+"lon": 80.0358,
+"osm_id": "relation/1958607",
+"lgd_code": "173",
+"wikidata": "Q2980705"
+},
+{
+"name": "Pratapgarh",
+"state": "Uttar Pradesh",
+"lat": 25.8765,
+"lon": 81.8797,
+"osm_id": "relation/1959823",
+"lgd_code": "174",
+"wikidata": "Q1473962"
+},
+{
+"name": "Prayagraj",
+"state": "Uttar Pradesh",
+"lat": 25.2793,
+"lon": 81.9349,
+"osm_id": "relation/1959819",
+"lgd_code": "120",
+"wikidata": "Q1773426"
+},
+{
+"name": "Raebareli",
+"state": "Uttar Pradesh",
+"lat": 26.2087,
+"lon": 81.1441,
+"osm_id": "relation/1959791",
+"lgd_code": "175",
+"wikidata": "Q1321157"
+},
+{
+"name": "Rampur",
+"state": "Uttar Pradesh",
+"lat": 28.7932,
+"lon": 79.1431,
+"osm_id": "relation/1958198",
+"lgd_code": "176",
+"wikidata": "Q1815331"
+},
+{
+"name": "Saharanpur",
+"state": "Uttar Pradesh",
+"lat": 29.9855,
+"lon": 77.5335,
+"osm_id": "relation/1958012",
+"lgd_code": "177",
+"wikidata": "Q1797326"
+},
+{
+"name": "Sambhal",
+"state": "Uttar Pradesh",
+"lat": 28.4272,
+"lon": 78.609,
+"osm_id": "relation/9540376",
+"lgd_code": "659",
+"wikidata": "Q3000436"
+},
+{
+"name": "Sant Kabir Nagar",
+"state": "Uttar Pradesh",
+"lat": 26.755,
+"lon": 83.023,
+"osm_id": "relation/1959874",
+"lgd_code": "178",
+"wikidata": "Q1945445"
+},
+{
+"name": "Sant Ravidas Nagar",
+"state": "Uttar Pradesh",
+"lat": 25.3574,
+"lon": 82.4531,
+"osm_id": "relation/1959914",
+"lgd_code": "179",
+"wikidata": "Q127533"
+},
+{
+"name": "Shahjahanpur",
+"state": "Uttar Pradesh",
+"lat": 27.913,
+"lon": 79.8408,
+"osm_id": "relation/1958608",
+"lgd_code": "180",
+"wikidata": "Q1812557"
+},
+{
+"name": "Shamli",
+"state": "Uttar Pradesh",
+"lat": 29.4811,
+"lon": 77.2931,
+"osm_id": "relation/9539710",
+"lgd_code": "660",
+"wikidata": "Q2999938"
+},
+{
+"name": "Sharavasti",
+"state": "Uttar Pradesh",
+"lat": 27.679,
+"lon": 81.9074,
+"osm_id": "relation/1958966",
+"lgd_code": "181",
+"wikidata": "Q1945458"
+},
+{
+"name": "Siddharthnagar",
+"state": "Uttar Pradesh",
+"lat": 27.2511,
+"lon": 82.8656,
+"osm_id": "relation/1958967",
+"lgd_code": "182",
+"wikidata": "Q1815339"
+},
+{
+"name": "Sitapur",
+"state": "Uttar Pradesh",
+"lat": 27.5029,
+"lon": 80.8575,
+"osm_id": "relation/1959019",
+"lgd_code": "183",
+"wikidata": "Q1812539"
+},
+{
+"name": "Sonbhadra",
+"state": "Uttar Pradesh",
+"lat": 24.4155,
+"lon": 83.0357,
+"osm_id": "relation/1959915",
+"lgd_code": "184",
+"wikidata": "Q607798"
+},
+{
+"name": "Sultanpur",
+"state": "Uttar Pradesh",
+"lat": 26.2605,
+"lon": 82.2044,
+"osm_id": "relation/1959824",
+"lgd_code": "185",
+"wikidata": "Q1356154"
+},
+{
+"name": "Unnao",
+"state": "Uttar Pradesh",
+"lat": 26.5675,
+"lon": 80.5469,
+"osm_id": "relation/1804770",
+"lgd_code": "186",
+"wikidata": "Q1937875"
+},
+{
+"name": "Varanasi",
+"state": "Uttar Pradesh",
+"lat": 25.3719,
+"lon": 82.9274,
+"osm_id": "relation/1959916",
+"lgd_code": "187",
+"wikidata": "Q1321140"
+},
+{
+"name": "Almora",
+"state": "Uttarakhand",
+"lat": 29.7026,
+"lon": 79.5575,
+"osm_id": "relation/374938",
+"lgd_code": "45",
+"wikidata": "Q1805066"
+},
+{
+"name": "Bageshwar",
+"state": "Uttarakhand",
+"lat": 30.0088,
+"lon": 79.8146,
+"osm_id": "relation/374914",
+"lgd_code": "46",
+"wikidata": "Q1815313"
+},
+{
+"name": "Chamoli",
+"state": "Uttarakhand",
+"lat": 30.499,
+"lon": 79.589,
+"osm_id": "relation/374815",
+"lgd_code": "47",
+"wikidata": "Q1797372"
+},
+{
+"name": "Champawat",
+"state": "Uttarakhand",
+"lat": 29.2353,
+"lon": 80.0561,
+"osm_id": "relation/374944",
+"lgd_code": "48",
+"wikidata": "Q288278"
+},
+{
+"name": "Dehradun",
+"state": "Uttarakhand",
+"lat": 30.4998,
+"lon": 77.9409,
+"osm_id": "relation/374983",
+"lgd_code": "49",
+"wikidata": "Q1815740"
+},
+{
+"name": "Haridwar",
+"state": "Uttarakhand",
+"lat": 29.9126,
+"lon": 78.0229,
+"osm_id": "relation/374978",
+"lgd_code": "50",
+"wikidata": "Q2270438"
+},
+{
+"name": "Nainital",
+"state": "Uttarakhand",
+"lat": 29.2952,
+"lon": 79.4136,
+"osm_id": "relation/7398838",
+"lgd_code": "51",
+"wikidata": "Q1797306"
+},
+{
+"name": "Ngari Prefecture",
+"state": "Uttarakhand",
+"lat": 32.7717,
+"lon": 82.3584,
+"osm_id": "relation/1997914",
+"lgd_code": "",
+"wikidata": "Q577713"
+},
+{
+"name": "Pauri Garhwal",
+"state": "Uttarakhand",
+"lat": 29.8473,
+"lon": 78.717,
+"osm_id": "relation/374972",
+"lgd_code": "52",
+"wikidata": "Q2085474"
+},
+{
+"name": "Pithoragarh",
+"state": "Uttarakhand",
+"lat": 30.1265,
+"lon": 80.4329,
+"osm_id": "relation/374820",
+"lgd_code": "53",
+"wikidata": "Q1945425"
+},
+{
+"name": "Rudraprayag",
+"state": "Uttarakhand",
+"lat": 30.4915,
+"lon": 79.0866,
+"osm_id": "relation/374925",
+"lgd_code": "54",
+"wikidata": "Q1805059"
+},
+{
+"name": "Tehri Garhwal",
+"state": "Uttarakhand",
+"lat": 30.4657,
+"lon": 78.4857,
+"osm_id": "relation/374930",
+"lgd_code": "55",
+"wikidata": "Q1357107"
+},
+{
+"name": "Udham Singh Nagar",
+"state": "Uttarakhand",
+"lat": 29.0478,
+"lon": 79.3982,
+"osm_id": "relation/374966",
+"lgd_code": "56",
+"wikidata": "Q1805082"
+},
+{
+"name": "Uttarkashi",
+"state": "Uttarakhand",
+"lat": 30.9636,
+"lon": 78.6134,
+"osm_id": "relation/374809",
+"lgd_code": "57",
+"wikidata": "Q1773437"
+},
+{
+"name": "Alipurduar",
+"state": "West Bengal",
+"lat": 26.6288,
+"lon": 89.4638,
+"osm_id": "relation/9540776",
+"lgd_code": "664",
+"wikidata": "Q4726845"
+},
+{
+"name": "Bankura",
+"state": "West Bengal",
+"lat": 23.1323,
+"lon": 87.1866,
+"osm_id": "relation/1971787",
+"lgd_code": "305",
+"wikidata": "Q2088458"
+},
+{
+"name": "Birbhum",
+"state": "West Bengal",
+"lat": 24.0618,
+"lon": 87.5557,
+"osm_id": "relation/1966288",
+"lgd_code": "307",
+"wikidata": "Q2088440"
+},
+{
+"name": "Cooch Behar",
+"state": "West Bengal",
+"lat": 26.2559,
+"lon": 89.3062,
+"osm_id": "relation/1789228",
+"lgd_code": "308",
+"wikidata": "Q2728658"
+},
+{
+"name": "Dakshin Dinajpur",
+"state": "West Bengal",
+"lat": 25.3857,
+"lon": 88.5873,
+"osm_id": "relation/1790778",
+"lgd_code": "310",
+"wikidata": "Q533839"
+},
+{
+"name": "Darjeeling",
+"state": "West Bengal",
+"lat": 26.8363,
+"lon": 88.2499,
+"osm_id": "relation/1790779",
+"lgd_code": "309",
+"wikidata": "Q1134759"
+},
+{
+"name": "Hooghly",
+"state": "West Bengal",
+"lat": 22.91,
+"lon": 88.0059,
+"osm_id": "relation/1970297",
+"lgd_code": "312",
+"wikidata": "Q548518"
+},
+{
+"name": "Howrah",
+"state": "West Bengal",
+"lat": 22.496,
+"lon": 88.1042,
+"osm_id": "relation/9381362",
+"lgd_code": "313",
+"wikidata": "Q1478937"
+},
+{
+"name": "Jalpaiguri",
+"state": "West Bengal",
+"lat": 26.6261,
+"lon": 88.7581,
+"osm_id": "relation/556150",
+"lgd_code": "314",
+"wikidata": "Q1351487"
+},
+{
+"name": "Jhargram",
+"state": "West Bengal",
+"lat": 22.3323,
+"lon": 86.9082,
+"osm_id": "relation/9541218",
+"lgd_code": "703",
+"wikidata": "Q29168456"
+},
+{
+"name": "Kalimpong",
+"state": "West Bengal",
+"lat": 27.0284,
+"lon": 88.6361,
+"osm_id": "relation/9541241",
+"lgd_code": "702",
+"wikidata": "Q28769140"
+},
+{
+"name": "Kolkata",
+"state": "West Bengal",
+"lat": 22.5354,
+"lon": 88.3474,
+"osm_id": "relation/10371838",
+"lgd_code": "315",
+"wikidata": "Q2088496"
+},
+{
+"name": "Maldah",
+"state": "West Bengal",
+"lat": 25.0975,
+"lon": 88.1136,
+"osm_id": "relation/1791397",
+"lgd_code": "316",
+"wikidata": "Q2049820"
+},
+{
+"name": "Murshidabad",
+"state": "West Bengal",
+"lat": 24.29,
+"lon": 88.2809,
+"osm_id": "relation/1966289",
+"lgd_code": "319",
+"wikidata": "Q1546240"
+},
+{
+"name": "Nadia",
+"state": "West Bengal",
+"lat": 23.4849,
+"lon": 88.4669,
+"osm_id": "relation/1970250",
+"lgd_code": "320",
+"wikidata": "Q1143880"
+},
+{
+"name": "North 24 Parganas",
+"state": "West Bengal",
+"lat": 22.6929,
+"lon": 88.7141,
+"osm_id": "relation/9513028",
+"lgd_code": "303",
+"wikidata": "Q338425"
+},
+{
+"name": "Paschim Bardhaman",
+"state": "West Bengal",
+"lat": 23.646,
+"lon": 87.167,
+"osm_id": "relation/9540811",
+"lgd_code": "704",
+"wikidata": "Q29215602"
+},
+{
+"name": "Paschim Medinipur",
+"state": "West Bengal",
+"lat": 22.3601,
+"lon": 87.4732,
+"osm_id": "relation/1971803",
+"lgd_code": "318",
+"wikidata": "Q1855537"
+},
+{
+"name": "Purba Bardhaman",
+"state": "West Bengal",
+"lat": 23.3884,
+"lon": 87.9247,
+"osm_id": "relation/1970280",
+"lgd_code": "306",
+"wikidata": "Q29257278"
+},
+{
+"name": "Purba Medinipur",
+"state": "West Bengal",
+"lat": 22.0648,
+"lon": 87.8151,
+"osm_id": "relation/3390340",
+"lgd_code": "317",
+"wikidata": "Q1431920"
+},
+{
+"name": "Purulia",
+"state": "West Bengal",
+"lat": 23.2021,
+"lon": 86.363,
+"osm_id": "relation/1971789",
+"lgd_code": "321",
+"wikidata": "Q307474"
+},
+{
+"name": "South 24 Parganas",
+"state": "West Bengal",
+"lat": 22.0862,
+"lon": 88.5678,
+"osm_id": "relation/9513027",
+"lgd_code": "304",
+"wikidata": "Q2308319"
+},
+{
+"name": "Uttar Dinajpur",
+"state": "West Bengal",
+"lat": 25.8721,
+"lon": 88.1662,
+"osm_id": "relation/1790781",
+"lgd_code": "311",
+"wikidata": "Q2019766"
+}
+]
+}

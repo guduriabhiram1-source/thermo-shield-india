@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+  body { @apply antialiased; }
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-thumb { @apply bg-ink-300 dark:bg-ink-700 rounded-full; }
+}
+
+@layer components {
+  .card { @apply bg-white dark:bg-ink-900 border border-ink-200 dark:border-ink-800 rounded-xl shadow-card; }
+  .card-title { @apply text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400; }
+  .btn { @apply inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed; }
+  .btn-primary { @apply btn bg-brand-600 hover:bg-brand-700 text-white; }
+  .btn-secondary { @apply btn bg-ink-100 hover:bg-ink-200 dark:bg-ink-800 dark:hover:bg-ink-700 text-ink-800 dark:text-ink-100 border border-ink-200 dark:border-ink-700; }
+  .btn-ghost { @apply btn hover:bg-ink-100 dark:hover:bg-ink-800 text-ink-700 dark:text-ink-200; }
+  .btn-danger { @apply btn bg-red-600 hover:bg-red-700 text-white; }
+  .input { @apply w-full rounded-lg border border-ink-300 dark:border-ink-700 bg-white dark:bg-ink-900 px-3 py-1.5 text-sm text-ink-900 dark:text-ink-100 focus:outline-none focus:ring-2 focus:ring-brand-500; }
+  .label { @apply block text-xs font-medium text-ink-600 dark:text-ink-400 mb-1; }
+  .badge { @apply inline-flex items-center rounded-md px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide; }
+  .table { @apply w-full text-sm; }
+  .table th { @apply text-left text-xs font-semibold uppercase tracking-wider text-ink-500 dark:text-ink-400 px-3 py-2 border-b border-ink-200 dark:border-ink-800; }
+  .table td { @apply px-3 py-2 border-b border-ink-100 dark:border-ink-800/70 align-top; }
+  .kv { @apply grid grid-cols-[minmax(120px,40%)_1fr] gap-x-3 gap-y-1.5 text-sm; }
+  .kv dt { @apply text-ink-500 dark:text-ink-400; }
+  .kv dd { @apply font-medium text-ink-900 dark:text-ink-100 break-words; }
+  .section-title { @apply text-base font-bold text-ink-900 dark:text-ink-50 flex items-center gap-2; }
+  .live-tag { @apply badge bg-green-100 text-green-800 dark:bg-green-900/40 dark:text-green-300 border border-green-300/60 dark:border-green-700; }
+  .hist-tag { @apply badge bg-sky-100 text-sky-800 dark:bg-sky-900/40 dark:text-sky-300 border border-sky-300/60 dark:border-sky-700; }
+  .unavailable { @apply text-ink-400 dark:text-ink-500 italic; }
+}
+
+.leaflet-container { font: inherit; }
+.dark .leaflet-tile { filter: brightness(0.75) contrast(1.1) saturate(0.85); }
+.dark .leaflet-container { background: #0b1220; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { @apply bg-white dark:bg-ink-900 text-ink-900 dark:text-ink-100 shadow-lg; }
+.dark .leaflet-bar a { @apply bg-ink-800 text-ink-100 border-ink-700; }
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large { background: rgba(244,63,94,.35) !important; }
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div { background: rgba(225,29,72,.85) !important; color: #fff !important; font-weight: 700; }
+.recharts-default-tooltip { @apply !bg-white dark:!bg-ink-900 !border-ink-200 dark:!border-ink-700 !rounded-lg !text-ink-900 dark:!text-ink-100; }
+.recharts-tooltip-label, .recharts-tooltip-item { @apply !text-ink-900 dark:!text-ink-100; }
+.recharts-cartesian-axis-tick-value { @apply fill-ink-500 dark:fill-ink-400; }
+.recharts-legend-item-text { @apply !text-ink-700 dark:!text-ink-300; }

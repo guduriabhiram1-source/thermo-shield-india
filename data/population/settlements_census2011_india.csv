@@ -1,0 +1,266 @@
+name,settlement_type,state,district,population,latitude,longitude,source
+Visakhapatnam,city,Andhra Pradesh,Visakhapatnam,1730320,17.6868,83.2185,census_2011_reference
+Gajuwaka,industrial_area,Andhra Pradesh,Visakhapatnam,250000,17.6833,83.2167,estimate
+Vijayawada,city,Andhra Pradesh,NTR,1034358,16.5062,80.6480,census_2011_reference
+Guntur,city,Andhra Pradesh,Guntur,743354,16.3067,80.4365,census_2011_reference
+Nellore,city,Andhra Pradesh,SPSR Nellore,558548,14.4426,79.9865,census_2011_reference
+Kurnool,city,Andhra Pradesh,Kurnool,484327,15.8281,78.0373,census_2011_reference
+Kakinada,city,Andhra Pradesh,Kakinada,384182,16.9891,82.2475,census_2011_reference
+Rajahmundry,city,Andhra Pradesh,East Godavari,341831,17.0005,81.8040,census_2011_reference
+Tirupati,city,Andhra Pradesh,Tirupati,374260,13.6288,79.4192,census_2011_reference
+Anantapur,city,Andhra Pradesh,Anantapur,262340,14.6819,77.6006,census_2011_reference
+Tadipatri,town,Andhra Pradesh,Anantapur,108171,14.9100,77.9800,census_2011_reference
+Krishnapatnam,village,Andhra Pradesh,SPSR Nellore,8000,14.2800,80.1100,estimate
+Ibrahimpatnam,town,Andhra Pradesh,NTR,40000,16.5900,80.5000,estimate
+Hyderabad,city,Telangana,Hyderabad,6809970,17.3850,78.4867,census_2011_reference
+Warangal,city,Telangana,Warangal,704570,17.9689,79.5941,census_2011_reference
+Nizamabad,city,Telangana,Nizamabad,310467,18.6725,78.0941,census_2011_reference
+Karimnagar,city,Telangana,Karimnagar,261185,18.4386,79.1288,census_2011_reference
+Ramagundam,city,Telangana,Peddapalli,229632,18.7550,79.4740,census_2011_reference
+Khammam,city,Telangana,Khammam,262255,17.2473,80.1514,census_2011_reference
+Kothagudem,town,Telangana,Bhadradri Kothagudem,80000,17.5500,80.6167,estimate
+Mancherial,town,Telangana,Mancherial,89935,18.8700,79.4400,census_2011_reference
+Patancheru,town,Telangana,Sangareddy,44000,17.5300,78.2600,estimate
+Sangareddy,town,Telangana,Sangareddy,68000,17.6200,78.0800,estimate
+Chennai,city,Tamil Nadu,Chennai,4646732,13.0827,80.2707,census_2011_reference
+Manali,industrial_area,Tamil Nadu,Chennai,40000,13.1650,80.2600,estimate
+Ennore,town,Tamil Nadu,Tiruvallur,45000,13.2200,80.3200,estimate
+Coimbatore,city,Tamil Nadu,Coimbatore,1061447,11.0168,76.9558,census_2011_reference
+Madurai,city,Tamil Nadu,Madurai,1017865,9.9252,78.1198,census_2011_reference
+Tiruchirappalli,city,Tamil Nadu,Tiruchirappalli,847387,10.7905,78.7047,census_2011_reference
+Salem,city,Tamil Nadu,Salem,831038,11.6643,78.1460,census_2011_reference
+Tirunelveli,city,Tamil Nadu,Tirunelveli,474838,8.7139,77.7567,census_2011_reference
+Thoothukudi,city,Tamil Nadu,Thoothukudi,237830,8.7642,78.1348,census_2011_reference
+Vellore,city,Tamil Nadu,Vellore,185803,12.9165,79.1325,census_2011_reference
+Cuddalore,town,Tamil Nadu,Cuddalore,173636,11.7480,79.7714,census_2011_reference
+Neyveli,town,Tamil Nadu,Cuddalore,128000,11.6100,79.4900,estimate
+Mettur,town,Tamil Nadu,Salem,47000,11.7900,77.8000,estimate
+Nagapattinam,town,Tamil Nadu,Nagapattinam,102905,10.7672,79.8449,census_2011_reference
+Ariyalur,town,Tamil Nadu,Ariyalur,28902,11.1400,79.0800,census_2011_reference
+Bengaluru,city,Karnataka,Bengaluru Urban,8443675,12.9716,77.5946,census_2011_reference
+Mysuru,city,Karnataka,Mysuru,887446,12.2958,76.6394,census_2011_reference
+Hubballi-Dharwad,city,Karnataka,Dharwad,943857,15.3647,75.1240,census_2011_reference
+Mangaluru,city,Karnataka,Dakshina Kannada,484785,12.9141,74.8560,census_2011_reference
+Belagavi,city,Karnataka,Belagavi,490045,15.8497,74.4977,census_2011_reference
+Ballari,city,Karnataka,Ballari,409644,15.1394,76.9214,census_2011_reference
+Raichur,city,Karnataka,Raichur,232456,16.2076,77.3463,census_2011_reference
+Hosapete,city,Karnataka,Vijayanagara,206159,15.2689,76.3909,census_2011_reference
+Toranagallu,village,Karnataka,Ballari,15000,15.1900,76.6700,estimate
+Shaktinagar,village,Karnataka,Raichur,10000,16.3500,77.3600,estimate
+Kudgi,village,Karnataka,Vijayapura,5000,16.5300,75.9600,estimate
+Vijayapura,city,Karnataka,Vijayapura,327427,16.8302,75.7100,census_2011_reference
+Udupi,town,Karnataka,Udupi,165401,13.3409,74.7421,census_2011_reference
+Kochi,city,Kerala,Ernakulam,677381,9.9312,76.2673,census_2011_reference
+Tripunithura,town,Kerala,Ernakulam,100000,9.9500,76.3400,estimate
+Ambalamugal,village,Kerala,Ernakulam,25000,9.9800,76.3900,estimate
+Eloor,town,Kerala,Ernakulam,34000,10.0700,76.3000,estimate
+Thiruvananthapuram,city,Kerala,Thiruvananthapuram,957730,8.5241,76.9366,census_2011_reference
+Kozhikode,city,Kerala,Kozhikode,609224,11.2588,75.7804,census_2011_reference
+Thrissur,city,Kerala,Thrissur,315596,10.5276,76.2144,census_2011_reference
+Kollam,city,Kerala,Kollam,349033,8.8932,76.6141,census_2011_reference
+Alappuzha,town,Kerala,Alappuzha,174176,9.4981,76.3388,census_2011_reference
+Kayamkulam,town,Kerala,Alappuzha,68634,9.1700,76.5000,census_2011_reference
+Mumbai,city,Maharashtra,Mumbai,12442373,19.0760,72.8777,census_2011_reference
+Chembur,industrial_area,Maharashtra,Mumbai,400000,19.0522,72.9005,estimate
+Pune,city,Maharashtra,Pune,3124458,18.5204,73.8567,census_2011_reference
+Nagpur,city,Maharashtra,Nagpur,2405665,21.1458,79.0882,census_2011_reference
+Nashik,city,Maharashtra,Nashik,1486053,19.9975,73.7898,census_2011_reference
+Chhatrapati Sambhajinagar,city,Maharashtra,Chhatrapati Sambhajinagar,1175116,19.8762,75.3433,census_2011_reference
+Solapur,city,Maharashtra,Solapur,951118,17.6599,75.9064,census_2011_reference
+Thane,city,Maharashtra,Thane,1841488,19.2183,72.9781,census_2011_reference
+Navi Mumbai,city,Maharashtra,Thane,1120547,19.0330,73.0297,census_2011_reference
+Chandrapur,city,Maharashtra,Chandrapur,321036,19.9615,79.2961,census_2011_reference
+Uran,town,Maharashtra,Raigad,30439,18.8800,72.9400,census_2011_reference
+Alibag,town,Maharashtra,Raigad,20743,18.6414,72.8722,census_2011_reference
+Nanded,city,Maharashtra,Nanded,550564,19.1383,77.3210,census_2011_reference
+Ratnagiri,town,Maharashtra,Ratnagiri,76239,16.9902,73.3120,census_2011_reference
+Boisar,town,Maharashtra,Palghar,60000,19.8000,72.7500,estimate
+Gondia,town,Maharashtra,Gondia,132821,21.4600,80.1900,census_2011_reference
+Tirora,town,Maharashtra,Gondia,25000,21.4100,79.9300,estimate
+Ahmedabad,city,Gujarat,Ahmedabad,5577940,23.0225,72.5714,census_2011_reference
+Surat,city,Gujarat,Surat,4467797,21.1702,72.8311,census_2011_reference
+Vadodara,city,Gujarat,Vadodara,1670806,22.3072,73.1812,census_2011_reference
+Rajkot,city,Gujarat,Rajkot,1286995,22.3039,70.8022,census_2011_reference
+Jamnagar,city,Gujarat,Jamnagar,600943,22.4707,70.0577,census_2011_reference
+Bhavnagar,city,Gujarat,Bhavnagar,605882,21.7645,72.1519,census_2011_reference
+Bharuch,town,Gujarat,Bharuch,168729,21.7051,72.9959,census_2011_reference
+Ankleshwar,town,Gujarat,Bharuch,140839,21.6264,73.0152,census_2011_reference
+Vapi,town,Gujarat,Valsad,163630,20.3893,72.9106,census_2011_reference
+Gandhidham,city,Gujarat,Kutch,248705,23.0753,70.1337,census_2011_reference
+Bhuj,city,Gujarat,Kutch,188236,23.2420,69.6669,census_2011_reference
+Mundra,town,Gujarat,Kutch,21313,22.8391,69.7227,census_2011_reference
+Hazira,town,Gujarat,Surat,30000,21.1170,72.6500,estimate
+Dahej,village,Gujarat,Bharuch,12000,21.7000,72.5700,estimate
+Sikka,town,Gujarat,Jamnagar,25000,22.4300,69.8300,estimate
+Vadinar,village,Gujarat,Devbhumi Dwarka,8000,22.4400,69.7100,estimate
+Morbi,city,Gujarat,Morbi,194947,22.8173,70.8377,census_2011_reference
+Kandla,town,Gujarat,Kutch,21000,23.0333,70.2167,estimate
+Mehsana,city,Gujarat,Mehsana,184991,23.5880,72.3693,census_2011_reference
+Kalol,town,Gujarat,Gandhinagar,133737,23.2467,72.4970,census_2011_reference
+Jaipur,city,Rajasthan,Jaipur,3046163,26.9124,75.7873,census_2011_reference
+Jodhpur,city,Rajasthan,Jodhpur,1033918,26.2389,73.0243,census_2011_reference
+Kota,city,Rajasthan,Kota,1001694,25.2138,75.8648,census_2011_reference
+Bikaner,city,Rajasthan,Bikaner,644406,28.0229,73.3119,census_2011_reference
+Ajmer,city,Rajasthan,Ajmer,542580,26.4499,74.6399,census_2011_reference
+Udaipur,city,Rajasthan,Udaipur,451100,24.5854,73.7125,census_2011_reference
+Barmer,town,Rajasthan,Barmer,100051,25.7521,71.3967,census_2011_reference
+Suratgarh,town,Rajasthan,Sri Ganganagar,70536,29.3200,73.8990,census_2011_reference
+Jhalawar,town,Rajasthan,Jhalawar,66919,24.5964,76.1610,census_2011_reference
+Bhilwara,city,Rajasthan,Bhilwara,360009,25.3407,74.6313,census_2011_reference
+Baran,town,Rajasthan,Baran,117992,25.1000,76.5100,census_2011_reference
+Chittorgarh,town,Rajasthan,Chittorgarh,116406,24.8887,74.6269,census_2011_reference
+Bhiwadi,town,Rajasthan,Alwar,104883,28.2100,76.8600,census_2011_reference
+Bhubaneswar,city,Odisha,Khordha,837737,20.2961,85.8245,census_2011_reference
+Cuttack,city,Odisha,Cuttack,606007,20.4625,85.8830,census_2011_reference
+Rourkela,city,Odisha,Sundargarh,483418,22.2604,84.8536,census_2011_reference
+Brahmapur,city,Odisha,Ganjam,355823,19.3149,84.7941,census_2011_reference
+Sambalpur,city,Odisha,Sambalpur,183383,21.4669,83.9812,census_2011_reference
+Paradip,town,Odisha,Jagatsinghpur,68585,20.3160,86.6110,census_2011_reference
+Angul,town,Odisha,Angul,43795,20.8400,85.1000,census_2011_reference
+Talcher,town,Odisha,Angul,40841,20.9497,85.2337,census_2011_reference
+Jharsuguda,town,Odisha,Jharsuguda,88000,21.8554,84.0062,estimate
+Jajpur,town,Odisha,Jajpur,37458,20.8500,86.3300,census_2011_reference
+Barbil,town,Odisha,Kendujhar,61000,22.1000,85.3800,estimate
+Kolkata,city,West Bengal,Kolkata,4496694,22.5726,88.3639,census_2011_reference
+Howrah,city,West Bengal,Howrah,1072161,22.5958,88.2636,census_2011_reference
+Durgapur,city,West Bengal,Paschim Bardhaman,566517,23.5204,87.3119,census_2011_reference
+Asansol,city,West Bengal,Paschim Bardhaman,563917,23.6739,86.9524,census_2011_reference
+Siliguri,city,West Bengal,Darjeeling,513264,26.7271,88.3953,census_2011_reference
+Haldia,town,West Bengal,Purba Medinipur,200827,22.0667,88.0698,census_2011_reference
+Raniganj,town,West Bengal,Paschim Bardhaman,128000,23.6200,87.1300,estimate
+Kolaghat,village,West Bengal,Purba Medinipur,8000,22.4300,87.8700,estimate
+Farakka,town,West Bengal,Murshidabad,30000,24.8200,87.9100,estimate
+Ranchi,city,Jharkhand,Ranchi,1073440,23.3441,85.3096,census_2011_reference
+Jamshedpur,city,Jharkhand,East Singhbhum,629659,22.8046,86.2029,census_2011_reference
+Dhanbad,city,Jharkhand,Dhanbad,1162472,23.7957,86.4304,census_2011_reference
+Bokaro Steel City,city,Jharkhand,Bokaro,413934,23.6693,86.1511,census_2011_reference
+Jharia,town,Jharkhand,Dhanbad,81979,23.7400,86.4100,census_2011_reference
+Hazaribagh,city,Jharkhand,Hazaribagh,153599,23.9925,85.3637,census_2011_reference
+Deoghar,city,Jharkhand,Deoghar,203116,24.4826,86.6959,census_2011_reference
+Ramgarh,town,Jharkhand,Ramgarh,132441,23.6300,85.5200,census_2011_reference
+Raipur,city,Chhattisgarh,Raipur,1010087,21.2514,81.6296,census_2011_reference
+Bhilai,city,Chhattisgarh,Durg,625697,21.1938,81.3509,census_2011_reference
+Korba,city,Chhattisgarh,Korba,363390,22.3595,82.7501,census_2011_reference
+Bilaspur,city,Chhattisgarh,Bilaspur,330106,22.0797,82.1409,census_2011_reference
+Raigarh,city,Chhattisgarh,Raigarh,150019,21.8974,83.3950,census_2011_reference
+Kirandul,town,Chhattisgarh,Dantewada,20000,18.6300,81.2600,estimate
+Jagdalpur,city,Chhattisgarh,Bastar,125463,19.0822,82.0350,census_2011_reference
+Bhopal,city,Madhya Pradesh,Bhopal,1798218,23.2599,77.4126,census_2011_reference
+Indore,city,Madhya Pradesh,Indore,1964086,22.7196,75.8577,census_2011_reference
+Jabalpur,city,Madhya Pradesh,Jabalpur,1055525,23.1815,79.9864,census_2011_reference
+Gwalior,city,Madhya Pradesh,Gwalior,1069276,26.2183,78.1828,census_2011_reference
+Singrauli,city,Madhya Pradesh,Singrauli,220295,24.1992,82.6750,census_2011_reference
+Bina,town,Madhya Pradesh,Sagar,47000,24.1750,78.1900,estimate
+Satna,city,Madhya Pradesh,Satna,283004,24.6005,80.8322,census_2011_reference
+Ujjain,city,Madhya Pradesh,Ujjain,515215,23.1765,75.7885,census_2011_reference
+Katni,city,Madhya Pradesh,Katni,221883,23.8343,80.3894,census_2011_reference
+Rewa,city,Madhya Pradesh,Rewa,235654,24.5373,81.3042,census_2011_reference
+Pithampur,town,Madhya Pradesh,Dhar,68000,22.6000,75.6800,estimate
+Lucknow,city,Uttar Pradesh,Lucknow,2817105,26.8467,80.9462,census_2011_reference
+Kanpur,city,Uttar Pradesh,Kanpur Nagar,2765348,26.4499,80.3319,census_2011_reference
+Agra,city,Uttar Pradesh,Agra,1574542,27.1767,78.0081,census_2011_reference
+Varanasi,city,Uttar Pradesh,Varanasi,1198491,25.3176,82.9739,census_2011_reference
+Prayagraj,city,Uttar Pradesh,Prayagraj,1112544,25.4358,81.8463,census_2011_reference
+Mathura,city,Uttar Pradesh,Mathura,349909,27.4924,77.6737,census_2011_reference
+Anpara,town,Uttar Pradesh,Sonbhadra,25000,24.2000,82.7900,estimate
+Obra,town,Uttar Pradesh,Sonbhadra,44000,24.4200,82.9800,estimate
+Renukoot,town,Uttar Pradesh,Sonbhadra,30000,24.2000,83.0300,estimate
+Ghaziabad,city,Uttar Pradesh,Ghaziabad,1648643,28.6692,77.4538,census_2011_reference
+Noida,city,Uttar Pradesh,Gautam Buddha Nagar,642381,28.5355,77.3910,census_2011_reference
+Dadri,town,Uttar Pradesh,Gautam Buddha Nagar,92000,28.5500,77.5500,estimate
+Bareilly,city,Uttar Pradesh,Bareilly,898167,28.3670,79.4304,census_2011_reference
+Moradabad,city,Uttar Pradesh,Moradabad,887871,28.8386,78.7733,census_2011_reference
+Gorakhpur,city,Uttar Pradesh,Gorakhpur,673446,26.7606,83.3732,census_2011_reference
+Meerut,city,Uttar Pradesh,Meerut,1305429,28.9845,77.7064,census_2011_reference
+Raebareli,city,Uttar Pradesh,Raebareli,191316,26.2309,81.2409,census_2011_reference
+Patna,city,Bihar,Patna,1684222,25.5941,85.1376,census_2011_reference
+Gaya,city,Bihar,Gaya,470839,24.7955,85.0002,census_2011_reference
+Bhagalpur,city,Bihar,Bhagalpur,400146,25.2425,86.9842,census_2011_reference
+Muzaffarpur,city,Bihar,Muzaffarpur,354462,26.1209,85.3647,census_2011_reference
+Begusarai,city,Bihar,Begusarai,252008,25.4182,86.1272,census_2011_reference
+Barauni,town,Bihar,Begusarai,68000,25.4700,86.0300,estimate
+Kahalgaon,town,Bihar,Bhagalpur,30000,25.2600,87.2300,estimate
+Barh,town,Bihar,Patna,61000,25.4900,85.7100,estimate
+Darbhanga,city,Bihar,Darbhanga,296039,26.1542,85.8918,census_2011_reference
+Aurangabad,town,Bihar,Aurangabad,101520,24.7500,84.3800,census_2011_reference
+Ludhiana,city,Punjab,Ludhiana,1613878,30.9010,75.8573,census_2011_reference
+Amritsar,city,Punjab,Amritsar,1132761,31.6340,74.8723,census_2011_reference
+Jalandhar,city,Punjab,Jalandhar,862196,31.3260,75.5762,census_2011_reference
+Patiala,city,Punjab,Patiala,405164,30.3398,76.3869,census_2011_reference
+Bathinda,city,Punjab,Bathinda,285813,30.2110,74.9455,census_2011_reference
+Sangrur,town,Punjab,Sangrur,88043,30.2458,75.8421,census_2011_reference
+Rupnagar,town,Punjab,Rupnagar,56000,30.9700,76.5300,estimate
+Moga,town,Punjab,Moga,163000,30.8000,75.1700,estimate
+Rajpura,town,Punjab,Patiala,108000,30.4800,76.5900,estimate
+Mansa,town,Punjab,Mansa,82000,29.9900,75.4000,estimate
+Ferozepur,town,Punjab,Ferozepur,110313,30.9250,74.6220,census_2011_reference
+Barnala,town,Punjab,Barnala,116449,30.3800,75.5500,census_2011_reference
+Mandi Gobindgarh,town,Punjab,Fatehgarh Sahib,55416,30.6600,76.3000,census_2011_reference
+Faridabad,city,Haryana,Faridabad,1414050,28.4089,77.3178,census_2011_reference
+Gurugram,city,Haryana,Gurugram,876824,28.4595,77.0266,census_2011_reference
+Manesar,town,Haryana,Gurugram,20000,28.3500,76.9400,estimate
+Panipat,city,Haryana,Panipat,294292,29.3909,76.9635,census_2011_reference
+Hisar,city,Haryana,Hisar,301249,29.1492,75.7217,census_2011_reference
+Karnal,city,Haryana,Karnal,286974,29.6857,76.9905,census_2011_reference
+Yamunanagar,city,Haryana,Yamunanagar,383318,30.1290,77.2674,census_2011_reference
+Rohtak,city,Haryana,Rohtak,374292,28.8955,76.6066,census_2011_reference
+Jhajjar,town,Haryana,Jhajjar,48424,28.6062,76.6565,census_2011_reference
+Ambala,city,Haryana,Ambala,196216,30.3782,76.7767,census_2011_reference
+Sirsa,city,Haryana,Sirsa,182534,29.5321,75.0318,census_2011_reference
+Kaithal,city,Haryana,Kaithal,144915,29.8015,76.3998,census_2011_reference
+Delhi,city,Delhi,Central Delhi,11034555,28.6139,77.2090,census_2011_reference
+Bawana,town,Delhi,North West Delhi,73680,28.7900,77.0500,census_2011_reference
+Narela,town,Delhi,North Delhi,148000,28.8500,77.0900,estimate
+Guwahati,city,Assam,Kamrup Metropolitan,957352,26.1445,91.7362,census_2011_reference
+Dibrugarh,city,Assam,Dibrugarh,154019,27.4728,94.9120,census_2011_reference
+Digboi,town,Assam,Tinsukia,22000,27.3900,95.6200,estimate
+Duliajan,town,Assam,Dibrugarh,27000,27.3700,95.3200,estimate
+Numaligarh,town,Assam,Golaghat,10000,26.6200,93.7200,estimate
+Jorhat,city,Assam,Jorhat,153889,26.7509,94.2037,census_2011_reference
+Silchar,city,Assam,Cachar,172830,24.8333,92.7789,census_2011_reference
+Bongaigaon,town,Assam,Bongaigaon,67321,26.4770,90.5580,census_2011_reference
+Tinsukia,city,Assam,Tinsukia,125216,27.4922,95.3468,census_2011_reference
+Nagaon,city,Assam,Nagaon,147231,26.3500,92.6833,census_2011_reference
+Tezpur,town,Assam,Sonitpur,102505,26.6338,92.8000,census_2011_reference
+Namrup,town,Assam,Dibrugarh,20000,27.1900,95.3200,estimate
+Margherita,town,Assam,Tinsukia,25000,27.2900,95.6900,estimate
+Shillong,city,Meghalaya,East Khasi Hills,143229,25.5788,91.8933,census_2011_reference
+Tura,town,Meghalaya,West Garo Hills,74858,25.5143,90.2028,census_2011_reference
+Jowai,town,Meghalaya,West Jaintia Hills,28430,25.4500,92.2000,census_2011_reference
+Byrnihat,industrial_area,Meghalaya,Ri-Bhoi,8000,25.9800,91.8700,estimate
+Nongstoin,town,Meghalaya,West Khasi Hills,21000,25.5200,91.2700,estimate
+Agartala,city,Tripura,West Tripura,400004,23.8315,91.2868,census_2011_reference
+Udaipur (Tripura),town,Tripura,Gomati,32758,23.5333,91.4833,census_2011_reference
+Dharmanagar,town,Tripura,North Tripura,30785,24.3667,92.1667,census_2011_reference
+Palatana,village,Tripura,Gomati,5000,23.4200,91.4600,estimate
+Imphal,city,Manipur,Imphal West,264986,24.8170,93.9368,census_2011_reference
+Aizawl,city,Mizoram,Aizawl,293416,23.7271,92.7176,census_2011_reference
+Dimapur,city,Nagaland,Dimapur,122834,25.9044,93.7267,census_2011_reference
+Kohima,town,Nagaland,Kohima,99039,25.6751,94.1086,census_2011_reference
+Itanagar,town,Arunachal Pradesh,Papum Pare,59490,27.0844,93.6053,census_2011_reference
+Naharlagun,town,Arunachal Pradesh,Papum Pare,30709,27.1050,93.6950,census_2011_reference
+Gangtok,town,Sikkim,Gangtok,100286,27.3389,88.6065,census_2011_reference
+Panaji,town,Goa,North Goa,40017,15.4909,73.8278,census_2011_reference
+Vasco da Gama,town,Goa,South Goa,100000,15.3981,73.8113,estimate
+Margao,town,Goa,South Goa,87650,15.2832,73.9862,census_2011_reference
+Dehradun,city,Uttarakhand,Dehradun,578420,30.3165,78.0322,census_2011_reference
+Haridwar,city,Uttarakhand,Haridwar,228832,29.9457,78.1642,census_2011_reference
+Rudrapur,city,Uttarakhand,Udham Singh Nagar,140884,28.9845,79.4070,census_2011_reference
+Haldwani,city,Uttarakhand,Nainital,156078,29.2183,79.5130,census_2011_reference
+Sitarganj,town,Uttarakhand,Udham Singh Nagar,30000,28.9300,79.7000,estimate
+Shimla,city,Himachal Pradesh,Shimla,169578,31.1048,77.1734,census_2011_reference
+Baddi,town,Himachal Pradesh,Solan,29911,30.9578,76.7914,census_2011_reference
+Dharamshala,town,Himachal Pradesh,Kangra,22579,32.2190,76.3234,census_2011_reference
+Mandi,town,Himachal Pradesh,Mandi,26422,31.7080,76.9318,census_2011_reference
+Solan,town,Himachal Pradesh,Solan,39256,30.9045,77.0967,census_2011_reference
+Srinagar,city,Jammu and Kashmir,Srinagar,1180570,34.0837,74.7973,census_2011_reference
+Jammu,city,Jammu and Kashmir,Jammu,502197,32.7266,74.8570,census_2011_reference
+Kathua,town,Jammu and Kashmir,Kathua,59096,32.3700,75.5200,census_2011_reference
+Leh,town,Ladakh,Leh,30870,34.1526,77.5771,census_2011_reference
+Chandigarh,city,Chandigarh,Chandigarh,960787,30.7333,76.7794,census_2011_reference
+Puducherry,city,Puducherry,Puducherry,244377,11.9416,79.8083,census_2011_reference
+Karaikal,town,Puducherry,Karaikal,86838,10.9254,79.8380,census_2011_reference
+Port Blair,town,Andaman and Nicobar Islands,South Andaman,100608,11.6234,92.7265,census_2011_reference
+Kavaratti,town,Lakshadweep,Lakshadweep,11210,10.5593,72.6358,census_2011_reference
+Silvassa,town,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,98032,20.2762,73.0084,census_2011_reference
+Daman,town,Dadra and Nagar Haveli and Daman and Diu,Daman,44282,20.3974,72.8328,census_2011_reference
