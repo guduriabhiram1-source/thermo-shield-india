@@ -1,0 +1,24 @@
+-------AI-Powered Thermal Fire & Industrial Heat Intelligence Platform-------
+Team Details
+------------
+Team Name:  AGNI DRISHTI
+------------------------
+Team Leader:  T.PAVAN KUMAR
+Team Members : 6
+1.  CH.BHANU PRAKASH
+2.  G.ABHIRAM
+3.  N.DIVYASRI
+4.  V.BHAVITHA
+5.  G.YASMEEN
+-------------------------
+-------Problem Statement-------
+PS Number:  SIH26162
+Organization:  National Technical Research Organisation (NTRO)
+PS Category:  Software
+Theme:  Disaster Management
+---------Problem Statement Title-------------
+AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources Using NASA FIRMS, OSM & Satellite Data
+----------Proposed Solution (Summary)---------
+NASA FIRMS alone flags heat but cannot explain what is causing it. THERMO-SHIELD INDIA converts raw satellite heat detections into a verified, explainable, never-fabricated national thermal-incident feed for regulators across India. It clusters raw detections into real events using DBSCAN, tracks their persistence and growth, classifies them using a GIS-aware rule engine upgraded by LightGBM, computes an explainable 0-100 risk score with momentum tracking, and routes verified incidents through a human-in-the-loop review process before any model reaches production.
+-------Repository---------
+github.com/guduriabhiram1-source/thermo-shield-india
